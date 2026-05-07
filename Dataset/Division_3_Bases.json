@@ -1,0 +1,687 @@
+[
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the maximum layer depth for placing material in the construction requirements?"
+        ],
+        "analysis": [
+            "The document specifies under section 301-3.01 PLACING that material should be placed in layers not exceeding 8 inches in depth."
+        ],
+        "answer": [
+            " 8 inches."
+        ],
+        "evidence_page": "[1]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What methods are specified for mixing the aggregate?"
+        ],
+        "analysis": [
+            "Section 301-3.02 MIXING specifies three methods for mixing the aggregate: 1. Stationary Plant Method 2. Travel Plant Method 3. Road Mix Method"
+        ],
+        "answer": [
+            "1. Stationary Plant Method 2. Travel Plant Method 3. Road Mix Method"
+        ],
+        "evidence_page": "[1]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the allowable surface deviation for the finished surface?"
+        ],
+        "analysis": [
+            "The document states that the finished surface will be tested using a 10-foot straightedge, with surface deviations limited to 3/8 inch."
+        ],
+        "answer": [
+            "3/8 inch."
+        ],
+        "evidence_page": "[2]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If 150 tons of Aggregate Base Course, Grading are used, how will the payment be calculated?"
+        ],
+        "analysis": [
+            "The image specifies that payment for Aggregate Base Course, Grading is made per ton. Therefore, if 150 tons are used, the payment will be calculated based on the unit price per ton multiplied by 150."
+        ],
+        "answer": [
+            "Payment will be calculated by multiplying the unit price per ton by 150 tons."
+        ],
+        "evidence_page": "[2]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How are the pay units for Aggregate Base Course and Aggregate Surface Course different?"
+        ],
+        "analysis": [
+            "The table lists the pay units for Aggregate Base Course as both Ton and Cubic Yard, while the Aggregate Surface Course is also listed with pay units Ton and Cubic Yard."
+        ],
+        "answer": [
+            "Both Aggregate Base Course and Aggregate Surface Course have pay units in Ton and Cubic Yard."
+        ],
+        "evidence_page": "[2]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "How is processing for subgrade modification measured?"
+        ],
+        "analysis": [
+            "According to section 302-4.01, processing for subgrade modification is measured along the centerline."
+        ],
+        "answer": [
+            "Measured along the centerline."
+        ],
+        "evidence_page": "[3]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the maximum allowable surface deviation for the finished surface, and how is it measured?"
+        ],
+        "analysis": [
+            "- The document specifies in section 302-3.02 FINISHING that the finished surface will be tested using a 10-foot straightedge. - It states that surface deviations should be limited to 1-1/4 inches. - The measurement is taken from the testing edge of the straightedge between two contacts with the surface."
+        ],
+        "answer": [
+            "The maximum allowable surface deviation is 1-1/4 inches, measured using a 10-foot straightedge."
+        ],
+        "evidence_page": "[3]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If a project requires processing for subgrade modification over a distance of 3 miles, how many pay units will be needed according to the pay items listed?"
+        ],
+        "analysis": [
+            "The image shows two pay items for processing subgrade modification: one measured in Station and the other in Mile. For a distance of 3 miles, the pay unit Mile is applicable. Therefore, 3 pay units will be needed."
+        ],
+        "answer": [
+            "3 pay units (Miles)."
+        ],
+        "evidence_page": "[4]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the required depth for pulverizing material during reconditioning?"
+        ],
+        "analysis": [
+            "The document under section 303-3.01 CONSTRUCTION REQUIREMENTS states that the existing surface should be scarified to the depth shown on the Plans and that material should be pulverized to 2 inches or smaller."
+        ],
+        "answer": [
+            "2 inches or smaller."
+        ],
+        "evidence_page": "[5]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What are the specified methods for testing the reconditioned surface, and how do they relate to the construction requirements?"
+        ],
+        "analysis": [
+            "The construction requirements in Section 303-3.01 specify that the surface must be scarified and pulverized to 2 inches or smaller. The reconditioned surface is then tested using a 10-foot straightedge to ensure surface deviations are limited to 1 inch before a base course or 3/8 inch before a surface course is placed. This ensures that the surface meets the specified uniformity and compaction standards."
+        ],
+        "answer": [
+            "The reconditioned surface is tested using a 10-foot straightedge to limit deviations to 1 inch before a base course or 3/8 inch before a surface course, ensuring compliance with the construction requirements."
+        ],
+        "evidence_page": "[5]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the basis of payment for water used in compaction of the subbase?"
+        ],
+        "analysis": [
+            "Section 304-5.01 BASIS OF PAYMENT specifies that water for compaction added to the subbase on the grade is subsidiary."
+        ],
+        "answer": [
+            "Water for compaction is subsidiary."
+        ],
+        "evidence_page": "[6]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What are the conditions under which subbase soil-aggregate containing glass cullet should not be placed?"
+        ],
+        "analysis": [
+            "The document specifies four conditions where subbase soil-aggregate containing glass cullet should not be placed: 1. Within four feet from the face of any embankment slope. 2. Within 150 feet from any surface water body. 3. In embankment areas where culvert placement is required. 4. In contact with any geosynthetic material."
+        ],
+        "answer": [
+            "Subbase soil-aggregate containing glass cullet should not be placed within four feet of embankment slopes, within 150 feet of surface water bodies, in areas requiring culvert placement, or in contact with geosynthetic material."
+        ],
+        "evidence_page": "[6]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What type of vehicles are allowed on the stockpile?"
+        ],
+        "analysis": [
+            "The section 305-3.01 CONSTRUCTION REQUIREMENTS specifies that only rubber tired vehicles are allowed on the stockpile."
+        ],
+        "answer": [
+            "Rubber tired vehicles."
+        ],
+        "evidence_page": "[7]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the maximum allowable thickness for each lift of material in the stockpile, and what is the minimum average height required for the stockpiles?"
+        ],
+        "analysis": [
+            "1. **Maximum Thickness of Each Lift:** - The document states: Deposit the material in uniform layers or lifts not exceeding 4 feet in thickness.- Therefore, the maximum allowable thickness for each lift is 4 feet. 2. **Minimum Average Height of Stockpiles:** - The document specifies: Make the height of the piles, or their average depth, not less than 20 feet.- Thus, the minimum average height required for the stockpiles is 20 feet.."
+        ],
+        "answer": [
+            "The maximum allowable thickness for each lift is 4 feet, and the minimum average height required for the stockpiles is 20 feet."
+        ],
+        "evidence_page": "[7]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What percentage of the aggregate must remain coated when tested under ATM 414?"
+        ],
+        "analysis": [
+            "The document states that at least 70 percent of the aggregate must remain coated when tested under ATM 414."
+        ],
+        "answer": "70 percent",
+        "evidence_page": "[8]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What are the requirements for the aggregate used in the asphalt treated base course, and how does it relate to the job mix design?"
+        ],
+        "analysis": [
+            "The text under 306-2.01 MATERIALS specifies that the aggregate must conform to Subsection 703-2.03, grading D-1, except change the minimum Degradation Value to 30. Additionally, 306-3.01 COMPOSITION OF MIXES requires a representative 300-pound sample of the aggregate for the job mix design. This ensures that the aggregate meets the specified grading and degradation criteria before being used in the mix."
+        ],
+        "answer": "The aggregate must conform to Subsection 703-2.03, grading D-1, with a minimum Degradation Value of 30, and a representative sample must be submitted for the job mix design.",
+        "evidence_page": "[8]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "How soon must core samples be taken from the finished mat after final rolling?"
+        ],
+        "analysis": [
+            "The section 306-3.09 COMPACTION mentions that full depth core samples must be cut from the finished mat within 24 hours after final rolling."
+        ],
+        "answer": "Within 24 hours",
+        "evidence_page": "[9]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the maximum allowable compacted depth for ATB mixture layers, and how does it relate to the thickness requirement?"
+        ],
+        "analysis": [
+            "Section 306-3.08 specifies that ATB mixture should be spread in layers not exceeding 3 inches in compacted depth. Section 306-3.11 states that the pavement thickness must meet a requirement of ±1/2 inch, compacted. The compacted layer depth must be controlled to ensure the overall pavement thickness meets this requirement."
+        ],
+        "answer": "Maximum allowable compacted depth is 3 inches, which must be managed to meet the overall thickness requirement of ±1/2 inch.",
+        "evidence_page": "[9]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What materials are required for the emulsified asphalt treated base course?"
+        ],
+        "analysis": [
+            "The image lists materials under section 307-2.01, which include Aggregate (Subsection 703-2.03), Asphalt (Section 702), Anti-Strip (as required by the approved Job Mix Design), and Portland Cement (Section 701, Type I)."
+        ],
+        "answer": "Aggregate, Asphalt, Anti-Strip, Portland Cement.",
+        "evidence_page": "[10]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What types of mixing methods are allowed for EATB material according to the document?"
+        ],
+        "analysis": [
+            "Section 307-3.01 specifies three methods for mixing EATB material: a. at an approved central mixing plant, b. in place, on an approved subgrade, or c. on an approved mixing area."
+        ],
+        "answer": "At an approved central mixing plant, in place on an approved subgrade, or on an approved mixing area.",
+        "evidence_page": "[10]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the required minimum density standard for compacting the EATB?"
+        ],
+        "analysis": [
+            "Section 307-3.06 COMPACTION specifies that the remainder of the project should be compacted to not less than 98 percent of the density standard."
+        ],
+        "answer": "98 percent of the density standard.",
+        "evidence_page": "[11]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What are the weather limitations for placing EATB material, and how do they relate to operational limitations?"
+        ],
+        "analysis": [
+            "Section 307-3.02 states that EATB material should not be mixed or placed if the aggregate temperature is above 40°F or if the air temperature is below 45°F. Additionally, it should not be placed on wet or frozen surfaces. Section 307-3.03 requires coordination with Section 643 for traffic maintenance, ensuring placement only on an accepted subgrade. Both sections emphasize conditions that ensure proper handling and placement."
+        ],
+        "answer": "Weather limitations require temperatures above 40°F for aggregates and 45°F for air, avoiding wet or frozen surfaces. Operational limitations ensure placement on an accepted subgrade, coordinating with traffic maintenance.",
+        "evidence_page": "[11]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If Pay Item is not listed in the bid schedule, how is the emulsified asphalt material treated in terms of payment?"
+        ],
+        "analysis": [
+            "The document states that when Pay Item 307(2) does not appear in the bid schedule, the emulsified asphalt material is considered subsidiary. This means it is included in the payment for other items and not paid for separately."
+        ],
+        "answer": "The emulsified asphalt material is treated as subsidiary and not paid for separately.",
+        "evidence_page": "[12]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "How is the crushed asphalt base course measured?"
+        ],
+        "analysis": [
+            "The method of measurement section states that the crushed asphalt base course is measured by the area of the finished top surface. This indicates that the measurement is based on surface area rather than volume or weight."
+        ],
+        "answer": "By the area of the finished top surface.",
+        "evidence_page": "[13]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What are the payment units for the crushed asphalt base course and CSS-1 asphalt for base course"
+        ],
+        "analysis": [
+            "The table lists the pay items and their corresponding pay units. For 308(1) Crushed Asphalt Base Course, the pay unit is Square Yard. For 308(2) CSS-1 Asphalt for Base Course, the pay unit is Ton. The text above the table states that payment will be made under these items, indicating that these are the units used for calculating payment."
+        ],
+        "answer": "Crushed Asphalt Base Course is paid per Square Yard, and CSS-1 Asphalt for Base Course is paid per Ton.",
+        "evidence_page": "[14]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the pay items and their units for Aggregate Base Course and Asphalt Treated Base Course?"
+        ],
+        "analysis": [
+            "The pay items for Aggregate Base Course are listed on page 1, which include 'Aggregate Base Course, Grading' measured in tons and cubic yards. On page 8, the pay items for Asphalt Treated Base Course include 'ATB' and 'Asphalt Binder, Type' both measured in tons, and 'Anti-Strip Additive' measured as a contingent sum."
+        ],
+        "answer": [
+            "Aggregate Base Course: Ton, Cubic Yard; Asphalt Treated Base Course: Ton, Contingent Sum"
+        ],
+        "evidence_page": "[1, 8]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the required minimum density for compacting both the aggregate base course and the asphalt treated base course?"
+        ],
+        "analysis": [
+            "The aggregate base course requires compaction to a density of not less than 98 percent of the maximum density, as stated on page 0. The asphalt treated base course requires compaction to a minimum density of 94 percent of the maximum specific gravity (MSG), as mentioned on page 7."
+        ],
+        "answer": [
+            "Aggregate base: 98% of max density; Asphalt treated base: 94% of MSG"
+        ],
+        "evidence_page": "[0, 7]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How is the payment for aggregate base and asphalt treated base courses structured, and what are the measurement methods?"
+        ],
+        "analysis": [
+            "The payment for aggregate base courses is detailed on page 1, where it lists pay items such as 'Aggregate Base Course, Grading' with units like 'Ton' and 'Cubic Yard'. The method of measurement is referenced in Section 109, as mentioned on page 1. For asphalt treated base courses, page 8 provides similar pay items like 'ATB' and 'Asphalt Binder, Type' with units 'Ton' and 'Contingent Sum'. The method of measurement for ATB is also referenced in Section 109, as stated on page 8."
+        ],
+        "answer": [
+            "Aggregate base: Pay items include 'Ton' and 'Cubic Yard'; Asphalt treated base: Pay items include 'Ton' and 'Contingent Sum'. Measurement by Section 109."
+        ],
+        "evidence_page": "[1, 8]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the pay items and units for Section 306 and Section 307?"
+        ],
+        "analysis": [
+            "Section 306 lists pay items as ATB, Asphalt Binder, and Anti-Strip Additive with units Ton, Ton, and Contingent Sum respectively (p8). Section 307 lists pay items as EATB, Emulsified Asphalt, and EATB thickness with units Ton, Ton, and Square Yard respectively (p11)."
+        ],
+        "answer": [
+            "Section 306: ATB (Ton), Asphalt Binder (Ton), Anti-Strip Additive (Contingent Sum); Section 307: EATB (Ton), Emulsified Asphalt (Ton), EATB thickness (Square Yard)"
+        ],
+        "evidence_page": "[1, 3]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the minimum density requirement for compacting layers in Sections 306 and 308, and how do these requirements compare?"
+        ],
+        "analysis": [
+            "In Section 306 (p8), the minimum density requirement for compacting layers is 94 percent of the MSG (Maximum Specific Gravity). In Section 308 (p12), the requirement is to compact the base course to not less than 98 percent of the density standard. Comparing these, Section 308 requires a higher minimum density than Section 306."
+        ],
+        "answer": [
+            "Section 306: 94% MSG; Section 308: 98% density standard. Section 308 is higher."
+        ],
+        "evidence_page": "[8, 12]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How is the payment for reconditioning and ATB (Asphalt Treated Base) aligned across sections 303 and 306?"
+        ],
+        "analysis": [
+            "Section 303 on page 4 describes the reconditioning process and lists the payment items as '303(1) Reconditioning' and '303(2) Reconditioning' with units 'Station' and 'Mile'. Section 306 on page 8 outlines the ATB process and lists payment items as '306(1) ATB', '306(2) Asphalt Binder, Type', and '306(3) Anti-Strip Additive' with units 'Ton' and 'Contingent Sum'. Both sections specify payment under specific items, aligning the construction requirements with the payment structure."
+        ],
+        "answer": [
+            "Payment for reconditioning is by 'Station' and 'Mile'; for ATB, it's by 'Ton' and 'Contingent Sum'."
+        ],
+        "evidence_page": "[4, 8]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the pay items and units for aggregate base courses and crushed asphalt base courses?"
+        ],
+        "analysis": [
+            "Page 1 lists pay items and units for aggregate base courses under Section 301, including 'Aggregate Base Course, Grading' measured in tons and cubic yards. Page 13 lists pay items and units for crushed asphalt base courses under Section 308, including 'Crushed Asphalt Base Course' measured in square yards and 'CSS-1 Asphalt for Base Course' measured in tons."
+        ],
+        "answer": [
+            "Aggregate Base Course, Grading - Ton",
+            "Aggregate Base Course, Grading - Cubic Yard",
+            "Crushed Asphalt Base Course - Square Yard",
+            "CSS-1 Asphalt for Base Course - Ton"
+        ],
+        "evidence_page": "[1, 13]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the maximum allowable surface deviation for both the aggregate base course and the EATB material, and how do these requirements ensure uniformity?"
+        ],
+        "analysis": [
+            "Page 1 specifies that the finished surface of the aggregate base course should not deviate more than 3/8 inch when tested with a 10-foot straightedge. Similarly, page 10 states that the EATB material must also limit surface deviations to 3/8 inch, using the same testing method. These consistent requirements across different materials ensure that both surfaces maintain a uniform texture and alignment, which is crucial for structural integrity and smoothness of the final construction."
+        ],
+        "answer": [
+            "3/8 inch for both materials"
+        ],
+        "evidence_page": "[1, 10]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How is the payment for water used in compaction addressed across different sections, and what are the relevant pay items?"
+        ],
+        "analysis": [
+            "Page 1 (Section 301) states that water for compaction is subsidiary, meaning it is included in the payment for other items. Page 13 (Section 308) also mentions that water required for compaction of the crushed asphalt base course is subsidiary. Both sections indicate that water is not a separate pay item but included in other related pay items. The relevant pay items listed on page 1 include Aggregate Base Course and Aggregate Surface Course, while page 13 lists Crushed Asphalt Base Course and CSS-1 Asphalt for Base Course."
+        ],
+        "answer": [
+            "Water for compaction is subsidiary in Sections 301 and 308. Relevant pay items: Aggregate Base Course, Aggregate Surface Course, Crushed Asphalt Base Course, CSS-1 Asphalt for Base Course."
+        ],
+        "evidence_page": "[1, 13]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What materials are specified for use in both aggregate base and emulsified asphalt treated base courses?"
+        ],
+        "analysis": [
+            "Page 0 specifies the use of aggregate conforming to Subsection 703-2.03 for aggregate base courses. Page 9 also specifies the use of aggregate conforming to Subsection 703-2.03 for emulsified asphalt treated base courses."
+        ],
+        "answer": [
+            "Aggregate conforming to Subsection 703-2.03"
+        ],
+        "evidence_page": "[0, 9]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What are the requirements for aggregate materials in both aggregate base courses and emulsified asphalt treated base courses?"
+        ],
+        "analysis": [
+            "Page 0 specifies that aggregate for base courses must conform to Subsection 703-2.03 and meet certain requirements for placement and compaction. Page 9 also requires aggregates for emulsified asphalt treated base courses to conform to Subsection 703-2.03, with additional requirements for coating and mixing with other materials like asphalt and Portland cement."
+        ],
+        "answer": [
+            "Aggregates must conform to Subsection 703-2.03 for both types of courses."
+        ],
+        "evidence_page": "[0, 9]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How do the materials specified for aggregate base in Section 301 relate to the pay items listed in Section 302?"
+        ],
+        "analysis": [
+            "Section 301 (p0) specifies the use of aggregates conforming to Subsection 703-2.03 for the construction of aggregate base courses. This involves specific construction requirements and material specifications. Section 302 (p3) lists pay items related to subgrade modification, which could involve similar materials and processes as those used in Section 301, particularly when modifying subgrades to prepare for base course construction. The pay items in Section 302, such as 'Processing for Subgrade Modification,' indicate the unit of measurement (Station, Mile) for work that may include the use of aggregates specified in Section 301."
+        ],
+        "answer": [
+            "Materials in Section 301 may be used in subgrade modifications listed in Section 302."
+        ],
+        "evidence_page": "[0, 3]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the pay units for 'Processing for Subgrade Modification' and 'Reconditioning'?"
+        ],
+        "analysis": [
+            "Page 3 lists the pay units for 'Processing for Subgrade Modification' as 'Station' and 'Mile'. Page 4 lists the pay units for 'Reconditioning' as 'Station' and 'Mile'."
+        ],
+        "answer": "Processing for Subgrade Modification: Station, Mile; Reconditioning: Station, Mile",
+        "evidence_page": "[3, 4]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What are the common pay units used for both subgrade modification and reconditioning, and how do they differ?"
+        ],
+        "analysis": [
+            "Page 3 lists the pay units for subgrade modification as 'Station' and 'Mile' for items 302(3) and 302(4). Page 4 lists the pay units for reconditioning as 'Station' and 'Mile' for items 303(1) and 303(2). Both sections use the same units, indicating a standardization in measurement across different processes, but they apply to different construction activities."
+        ],
+        "answer": "Common pay units: Station, Mile; Used for different activities.",
+        "evidence_page": "[3, 4]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What are the pay units for 'Processing for Subgrade Modification' and 'Reconditioning' as described in the document?"
+        ],
+        "analysis": [
+            "On page 3, the table lists 'Processing for Subgrade Modification' with pay units as 'Station' and 'Mile'. On page 4, under Section 303, 'Reconditioning' is described with pay units also listed as 'Station' and 'Mile'. This cross-referencing aligns the pay units for different activities across sections."
+        ],
+        "answer": "Processing for Subgrade Modification: Station, Mile; Reconditioning: Station, Mile",
+        "evidence_page": "[3, 4]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the pay items and units for subgrade modification and subbase grading?"
+        ],
+        "analysis": [
+            "Pages 2 and 3 list the pay items and units for subgrade modification, which include 'Aggregate for Subgrade Modification' measured in Ton and CYVM, and 'Processing for Subgrade Modification' measured in Station and Mile. Page 5 provides the pay items and units for subbase grading, which are 'Subbase, Grading' measured in Ton, Cubic Yard, and CYVM."
+        ],
+        "answer": "Subgrade Modification: Aggregate (Ton, CYVM), Processing (Station, Mile); Subbase Grading: Grading (Ton, Cubic Yard, CYVM)",
+        "evidence_page": "[2, 3 5]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What are the different pay units used for subgrade modification and subbase grading, and how do they compare?"
+        ],
+        "analysis": [
+            "Pages 2 and 3 list the pay units for subgrade modification as Ton and CYVM. Page 5 lists the pay units for subbase grading as Ton, Cubic Yard, and CYVM. Comparing these, both subgrade modification and subbase grading use Ton and CYVM, but subbase grading additionally uses Cubic Yard."
+        ],
+        "answer": "Subgrade modification: Ton, CYVM; Subbase grading: Ton, Cubic Yard, CYVM",
+        "evidence_page": "[2, 3]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the pay items and units for Emulsified Asphalt Treated Base (EATB) as specified in Section 307?"
+        ],
+        "analysis": [
+            "Page 9 describes the construction requirements for Emulsified Asphalt Treated Base (EATB), while page 11 provides the basis of payment, listing the pay items and units for EATB."
+        ],
+        "answer": "307(1) EATB - Ton, 307(2) Emulsified Asphalt, Type ___ - Ton, 307(3) EATB, ___ in. thick - Square Yard.",
+        "evidence_page": "[9, 11]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If the emulsified asphalt material is not listed in the bid schedule, how is it treated in terms of payment, and what are the implications for the mixing process?"
+        ],
+        "analysis": [
+            "Page 11 states that if Pay Item 307(2) does not appear in the bid schedule, the emulsified asphalt material is considered subsidiary. This implies that the cost is included in other pay items and not paid separately. On page 9, it is specified that the mixing process requires careful proportioning and mixing of the aggregate, emulsified asphalt, portland cement, and water. If the emulsified asphalt is subsidiary, the contractor must ensure proper mixing without additional payment for the emulsified asphalt, potentially affecting cost management and resource allocation."
+        ],
+        "answer": "The emulsified asphalt is subsidiary; it affects cost management in the mixing process.",
+        "evidence_page": "[11, 9]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 3.0 Bases.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the pay items and units for subgrade modification and reconditioning?"
+        ],
+        "analysis": [
+            "The pay items and units for subgrade modification are listed on pages 2 and 3, while the pay items and units for reconditioning are listed on page 4. For subgrade modification, the pay items are 'Aggregate for Subgrade Modification' with units 'Ton' and 'CYVM', and 'Processing for Subgrade Modification' with units 'Station' and 'Mile'. For reconditioning, the pay items are 'Reconditioning' with units 'Station' and 'Mile'."
+        ],
+        "answer": "Subgrade Modification: Aggregate (Ton, CYVM), Processing (Station, Mile); Reconditioning: Reconditioning (Station, Mile)",
+        "evidence_page": "[2, 3, 4]",
+        "evidence_sources": "[pure_text]"
+    }
+]

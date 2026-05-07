@@ -1,0 +1,646 @@
+[
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the classification of marble blocks, slabs, and tiles?"
+        ],
+        "analysis": [
+            "The document under section 8.1 titled CLASSIFICATION states that marble blocks, slabs, and tiles shall be classified broadly into two categories: White Marble and Coloured Marble."
+        ],
+        "answer": [
+            "White Marble and Coloured Marble."
+        ],
+        "evidence_page": "[1]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What are the distinguishing features of the Kishangarh Black Zebra Marble compared to the Abu Black Zebra Marble?"
+        ],
+        "analysis": [
+            "- Kishangarh Black Zebra Marble: Described as black marble with grey and/or white veins. - Abu Black Zebra Marble: Described as black marble with white patches and streaks. Comparison: - Kishangarh has grey and/or white veins. - Abu has white patches and streaks."
+        ],
+        "answer": [
+            "Kishangarh Black Zebra Marble has grey and/or white veins, while Abu Black Zebra Marble has white patches and streaks."
+        ],
+        "evidence_page": "[1]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the maximum moisture absorption allowed for marble after 24 hours of immersion in cold water?"
+        ],
+        "analysis": [
+            "Table 8.2 titled Physical Properties of Marble & Granite lists the characteristic of moisture absorption for marble. It specifies a maximum of 0.4% after 24 hours of immersion in cold water."
+        ],
+        "answer": [
+            "Max. 0.4%"
+        ],
+        "evidence_page": "[2]",
+        "evidence_sources": "[table]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If a marble slab is specified to be 100 cm in length, what is the acceptable range of lengths considering the tolerance?"
+        ],
+        "analysis": [
+            "- The specified length of the marble slab is 100 cm. - According to the tolerance section for slabs, the length tolerance is +2 percent. - Calculate 2 percent of 100 cm: 0.02 times 100 = 2 cm.- The acceptable range is therefore 100 cm ± 2 cm."
+        ],
+        "answer": [
+            "98 cm to 102 cm."
+        ],
+        "evidence_page": "[2]",
+        "evidence_sources": "[table]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the permissible number of defectives for a sample size of 20?"
+        ],
+        "analysis": [
+            "Table 8.3 specifies that for a sample size of 20, the permissible number of defectives is 1."
+        ],
+        "answer": [
+            "1"
+        ],
+        "evidence_page": "[3]",
+        "evidence_sources": "[table]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If a lot contains 150 marble slabs, how many slabs should be selected for sampling, and what is the permissible number of defectives?"
+        ],
+        "analysis": [
+            "1. **Identify the Lot Size**: The lot contains 150 marble slabs. 2. **Refer to Table 8.3**:  - For a lot size of 101 to 200 slabs, the table specifies: - **Number of slabs to be selected**: 8 - **Permissible number of defectives**: 0 3. **Conclusion**: For a lot of 150 slabs, 8 slabs should be selected for sampling, and no defectives are permissible."
+        ],
+        "answer": [
+            "8 slabs should be selected, and the permissible number of defectives is 0."
+        ],
+        "evidence_page": "[3]",
+        "evidence_sources": "[table]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the required depth from the face for chisel dressing of stone joints?"
+        ],
+        "analysis": [
+            "The document specifies that the exposed faces and sides of stones forming joints up to 6 mm from the face shall be fine tooled machine cut. This indicates that the chisel dressing should be done up to a depth of 6 mm from the face."
+        ],
+        "answer": [
+            "6 mm"
+        ],
+        "evidence_page": "[4]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the total length of the kitchen platform and tread/steps combined"
+        ],
+        "analysis": [
+            "1. **Kitchen Platform Length:** - The image shows the length of the kitchen platform as 3.8 meters. 2. **Tread/Steps Length:** - The image shows the length of the tread/steps as 0.9 meters. 3. **Total Length Calculation:** - Total length = Length of kitchen platform + Length of tread/steps - Total length = 3.8 m + 0.9 m = 4.7 m"
+        ],
+        "answer": [
+            "4.7 meters"
+        ],
+        "evidence_page": "[4]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "How long should the curing process be maintained for marble work?"
+        ],
+        "analysis": [
+            "Section 8.5.6 Curing states that the work should be kept constantly moist on all faces for a period of at least seven days. Therefore, the curing process should be maintained for:"
+        ],
+        "answer": [
+            "At least seven days"
+        ],
+        "evidence_page": "[5]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the minimum number of bond stones required for a wall area of 10 square meters?"
+        ],
+        "analysis": [
+            "- The document specifies that at least one bond stone or a set of bond stones should be provided for every 0.5 square meters of wall surface. - For 10 square meters, the number of bond stones required = 10 / 0.5 = 20 bond stones."
+        ],
+        "answer": [
+            "20 bond stones"
+        ],
+        "evidence_page": "[5]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "How should the dimensions of radially dressed or circular stone be measured?"
+        ],
+        "analysis": [
+            "- Section 8.5.11.1 specifies the measurement method for radially dressed or circular stone. - The dimensions of the circumscribing rectangle of the dressed stone should be measured correct to a centimeter. - The thickness should be measured correct to 0.5 cm."
+        ],
+        "answer": [
+            "The dimensions should be measured correct to a centimeter, and the thickness correct to 0.5 cm."
+        ],
+        "evidence_page": "[6]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How should the measurements for plain work be taken, and what is the specified tolerance for wall lining?"
+        ],
+        "analysis": [
+            "Section 8.5.11 states that measurements for plain work should be taken correct to a centimeter in length and breadth and to 0.5 cm in thickness. Section 8.6.1 specifies that the tolerance permissible in wall lining when a straight edge of 3 m length is placed should not be more than 2 mm."
+        ],
+        "answer": [
+            "Measurements for plain work should be taken correct to a centimeter in length and breadth and to 0.5 cm in thickness. The tolerance for wall lining should not exceed 2 mm when a 3 m straight edge is used."
+        ],
+        "evidence_page": "[6]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What materials can the cramps be made of?"
+        ],
+        "analysis": [
+            "In section 8.6.2.6, it states that the cramps may be made of copper alloyed with zinc, tin, nickel, lead, or stainless steel."
+        ],
+        "answer": [
+            "Copper alloyed with zinc, tin, nickel, lead, or stainless steel."
+        ],
+        "evidence_page": "[7]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What are the specified dimensions for cramps when used in brick masonry walls, and how do these compare to the dimensions for cramps in stone masonry walls?"
+        ],
+        "analysis": [
+            "- For brick masonry walls, the cramps shall be of 25 x 6 mm and 30 cm long if the backing is more than 230 mm or less thick (Section 8.6.2.2). - For stone masonry walls, the cramps shall be of 25 x 6 mm and 30 cm long if the backing is more than 230 mm (Section 8.6.2.2). - The dimensions are the same for both types of walls, but the application depends on the thickness of the backing."
+        ],
+        "answer": [
+            "The cramps are 25 x 6 mm and 30 cm long for both brick and stone masonry walls, with application depending on the thickness of the backing."
+        ],
+        "evidence_page": "[7]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the specified finished thickness for marble slab urinal partitions?"
+        ],
+        "analysis": [
+            "The document specifies under section 8.7.0 that the finished thickness of the marble slab for urinal partitions shall be 18 mm."
+        ],
+        "answer": "18 mm",
+        "evidence_page": "[8]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the thickness of the stone veneer used in the marble stone veneering?"
+        ],
+        "analysis": [
+            "Multiple sections in the image, including the sectional plan and sectional elevation, specify that the stone veneer is 50 mm thick. This is consistently shown in the diagrams and annotations."
+        ],
+        "answer": "50 mm",
+        "evidence_page": "[9]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the total length of gun metal cramps used if each is 300 mm long and they are placed 600 mm apart over a 3600 mm span?"
+        ],
+        "analysis": [
+            "- Each gun metal cramp is 300 mm long. - They are placed 600 mm apart. - Total span is 3600 mm. To find the number of cramps needed: 1. Calculate the number of intervals: frac{3600}{600} = 6. 2. Since cramps are placed at each interval, 6 cramps are needed. Total length of cramps: - Total length = Number of cramps × Length of each cramp - Total length = 6 × 300 mm = 1800 mm"
+        ],
+        "answer": "1800 mm",
+        "evidence_page": "[9]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the minimum size for the non-corrosive dash fastener with washer including bolt?"
+        ],
+        "analysis": [
+            "In Fig. 8.2C, which shows the typical details of cramps for R.C.C. backing, the non-corrosive dash fastener with washer including bolt is specified to have a minimum size of 55 x 7 mm."
+        ],
+        "answer": "55 x 7 mm",
+        "evidence_page": "[10]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the specified thickness of mortar in the section view, and how does it relate to the overall thickness of the stone veneering system?"
+        ],
+        "analysis": [
+            "The section view in Fig. 8.2C indicates that the mortar thickness is 10 mm Thick. The overall thickness of the stone veneering system is shown as 80 mm or as Specified. Therefore, the mortar is a part of the total thickness, contributing 10 mm to the 80 mm system."
+        ],
+        "answer": "The mortar thickness is 10 mm, contributing to the total 80 mm thickness of the stone veneering system.",
+        "evidence_page": "[10]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the note regarding the arrangement of cramps for veneerings?"
+        ],
+        "analysis": [
+            "The note at the bottom of the image states that the cramps arrangement is shown for veneerings with longer sides vertical. It also mentions that for veneerings with longer sides horizontal, the cramps would be arranged to suit the altered positions."
+        ],
+        "answer": "Cramps arrangement is shown for veneerings with longer sides vertical; for horizontal, cramps would be arranged to suit altered positions.",
+        "evidence_page": "[11]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the thickness of the marble slab urinal partition?"
+        ],
+        "analysis": [
+            "The diagram includes a dimension line indicating a thickness of 75."
+        ],
+        "answer": "75 mm.",
+        "evidence_page": "[12]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the minimum height above the ground level for the marble slab urinal partition"
+        ],
+        "analysis": [
+            "The image specifies that the marble slab urinal partition should be 450 above Ground Level or up to Ground Level as Directed. This indicates that the minimum height above the ground level is 450 mm unless directed otherwise."
+        ],
+        "answer": "450 mm above ground level.",
+        "evidence_page": "[12]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the thickness of the marble slab used for the urinal partition?"
+        ],
+        "analysis": [
+            "The figure shows a dimension labeled “75” which indicates the thickness of the marble slab partition."
+        ],
+        "answer": "75 mm.",
+        "evidence_page": "[12]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the specified thickness for marble slab urinal partitions and the tolerance for marble slab finishing?"
+        ],
+        "analysis": [
+            "The specified thickness for marble slab urinal partitions is mentioned on page 7, where it states that the finished thickness shall be 18 mm. The tolerance for marble slab finishing is specified on page 7 as ± 1.5 mm."
+        ],
+        "answer": [
+            "18 mm thickness, ± 1.5 mm tolerance"
+        ],
+        "evidence_page": "[3, 7]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the total thickness of a marble stone veneering setup including the mortar and the stone veneer?"
+        ],
+        "analysis": [
+            "The stone veneer is specified to be 50 mm thick as per the sectional plans on page 287. Additionally, the mortar thickness is specified to be 10 mm on page 288. Therefore, the total thickness of the setup, including both the stone veneer and the mortar, is 50 mm + 10 mm."
+        ],
+        "answer": [
+            "60 mm"
+        ],
+        "evidence_page": "[7, 8]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How does the description of marble slab urinal partitions in the text align with the details shown in Fig. 8.4?"
+        ],
+        "analysis": [
+            "The text on page 7 describes the specifications for marble slab urinal partitions, indicating that the partitions should be of marble slab embedded in the wall with a finished thickness of 18 mm. The slab should be cut into slabs of required thickness and be one piece. Fig. 8.4 on page 11 visually represents a marble slab urinal partition, showing the shape as per requirement and the slab positioned 450 mm above ground level or up to ground level as directed. This figure aligns with the text by illustrating the placement and general shape of the partition, confirming the textual specifications with a visual representation."
+        ],
+        "answer": [
+            "The text and Fig. 8.4 align by showing the marble slab urinal partition's placement and shape."
+        ],
+        "evidence_page": "[7, 11]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the specifications for the use of cramps in marble stone veneering?"
+        ],
+        "analysis": [
+            "The specifications for the use of cramps in marble stone veneering are detailed across multiple pages. On page 6, it is mentioned that cramps should be made of materials resistant to corrosion and should be embedded in mortar or concrete. The cramps should be 25 x 6 mm and 30 cm long for stone masonry walls and brick masonry walls thicker than 230 mm. For brick masonry walls 230 mm or less, cramps should be 25 x 6 mm and of appropriate length. Page 9 provides figures illustrating the typical fixing arrangement for cramps, including dimensions and placement."
+        ],
+        "answer": [
+            "Cramps: 25 x 6 mm, 30 cm long for thick walls; resistant to corrosion; embedded in mortar/concrete."
+        ],
+        "evidence_page": "[5, 9]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the permissible number of defects in a sample of 150 marble blocks, and how should the blocks be laid to ensure proper alignment?"
+        ],
+        "analysis": [
+            "According to Table 8.3 on page 2, for a lot of 101 to 200 blocks, 8 blocks should be selected for sampling with 0 permissible defects. Page 5 outlines that all marble stones should be wetted before placing and laid truly horizontal and vertical to ensure proper alignment. This ensures that the sampling and laying processes meet the specifications."
+        ],
+        "answer": [
+            "0 defects; blocks should be wetted and laid truly horizontal and vertical."
+        ],
+        "evidence_page": "[2, 5]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How does the specification for the use of cramps in marble stone veneering relate to the typical fixing arrangement shown in Fig. 8.2?"
+        ],
+        "analysis": [
+            "The specification for the use of cramps in marble stone veneering is detailed on page 6, where it mentions the dimensions and materials for cramps, such as 25 x 6 mm and 30 cm long for brick masonry walls. It also specifies that cramps should be spaced not more than 60 cm apart horizontally. Fig. 8.2 on page 9 illustrates the typical fixing arrangement for marble stone veneering, showing the placement and dimensions of cramps for both brick and R.C.C. backing. The figure visually aligns with the textual specifications, showing the cramps' positioning and dimensions, such as the 115 mm and 150 mm lengths for half and full brick backing, respectively."
+        ],
+        "answer": [
+            "The specification aligns with Fig. 8.2 by detailing cramp dimensions and placement."
+        ],
+        "evidence_page": "[6, 9]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the specified tolerances for the dimensions of marble slabs and tiles?"
+        ],
+        "analysis": [
+            "The tolerances for marble slabs are specified as +2% for length, width, and thickness (p1). For tiles, the tolerances are +3% for linear dimension and +1% for thickness (p1). Additionally, the finishing tolerance for marble slab urinal partitions is ±1.5mm (p7)."
+        ],
+        "answer": [
+            "Slabs: +2% for length, width, thickness; Tiles: +3% linear, +1% thickness; Urinal partitions: ±1.5mm"
+        ],
+        "evidence_page": "[1, 7]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the maximum allowable thickness tolerance for marble tiles and how does it compare to the thickness tolerance for marble slabs?"
+        ],
+        "analysis": [
+            "Page 1 provides the thickness tolerance for marble tiles as +1 percent (p1). Page 1 also specifies the thickness tolerance for marble slabs as +3 percent (p1). By comparing these values, we can determine that the thickness tolerance for marble slabs is higher than that for marble tiles."
+        ],
+        "answer": [
+            "Marble tiles: +1%, Marble slabs: +3%"
+        ],
+        "evidence_page": "[1, 3]",
+        "evidence_sources": "[table]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How does the specification for marble slab thickness in Table 8.1 relate to the installation requirements shown in Fig. 8.3?"
+        ],
+        "analysis": [
+            "Table 8.1 on page 1 specifies the thickness of marble slabs to be between 2 to 15 cm. Fig. 8.3 on page 10 illustrates the general arrangements of cramps for marble work. The thickness of the slabs as specified in Table 8.1 would influence the choice of cramp arrangement shown in Fig. 8.3, as thicker slabs may require more robust support to ensure stability and proper installation."
+        ],
+        "answer": [
+            "Slab thickness affects cramp arrangement choice."
+        ],
+        "evidence_page": "[1, 10]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the specified method for laying marble stones and how are cramps arranged for veneerings?"
+        ],
+        "analysis": [
+            "Page 3 describes the method for laying marble stones, specifying that they should be wetted, floated on mortar, and bedded properly without the use of chips or under pinning. Page 10 provides the general arrangements of cramps for veneerings, indicating different configurations labeled A to H."
+        ],
+        "answer": [
+            "Marble stones should be wetted, floated on mortar, and bedded properly. Cramps are arranged in configurations A to H for veneerings."
+        ],
+        "evidence_page": "[3, 10]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "How should the marble stones be laid and secured according to the specifications, considering both the laying method and the arrangement of cramps?"
+        ],
+        "analysis": [
+            "Page 3 describes the method for laying marble stones, emphasizing that all stones should be wetted, floated on mortar, and bedded properly without the use of chips or under-pinning. It also specifies that walls and pillars should be carried up truly in plumb or battered, with all courses laid truly horizontal and all vertical joints truly vertical. Page 10 provides diagrams for the general arrangements of cramps, indicating how cramps should be arranged for veneering with longer sides vertical. This implies that the stones should be laid with careful attention to alignment and secured using cramps as shown in the diagrams to ensure stability."
+        ],
+        "answer": [
+            "Marble stones should be laid wetted and floated on mortar, with horizontal courses and vertical joints, and secured using cramps arranged as per the diagrams."
+        ],
+        "evidence_page": "[3, 10]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How does the description of laying marble stones relate to the general arrangements of cramps?"
+        ],
+        "analysis": [
+            "Page 3 describes the process of laying marble stones, emphasizing the need for proper alignment and support without using chips or under pinning. It specifies that all courses should be laid truly horizontal and all vertical joints should be truly vertical. Page 10 provides diagrams of general arrangements of cramps, which are used to secure and stabilize marble veneers. The cramps ensure that the marble is held in place, maintaining the alignment and stability as described in the laying process on page 3."
+        ],
+        "answer": [
+            "Cramps stabilize marble veneers, supporting the alignment described in the laying process."
+        ],
+        "evidence_page": "[3, 10]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the specified thickness for stone veneer and marble slab urinal partitions?"
+        ],
+        "analysis": [
+            "The stone veneer thickness is specified as 50 mm on page 8 (p8), while the marble slab urinal partition thickness is specified as 18 mm on page 7 (p7)."
+        ],
+        "answer": [
+            "Stone veneer: 50 mm, Marble slab urinal partition: 18 mm"
+        ],
+        "evidence_page": "[7, 8]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the maximum allowable face joint thickness for marble stone veneering, and how does it compare to the thickness of the mortar used in the fixing arrangement?"
+        ],
+        "analysis": [
+            "Page 8 provides details on marble stone veneering, specifying that face joints should not exceed 15 mm in thickness. Page 10 describes the typical fixing arrangement, where the mortar thickness is specified as 10 mm. Comparing these values, the face joint thickness is allowed to be up to 5 mm thicker than the mortar used in the fixing arrangement."
+        ],
+        "answer": [
+            "Face joint: 15 mm, Mortar: 10 mm; Face joint is 5 mm thicker."
+        ],
+        "evidence_page": "[8, 10]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How is the marble slab urinal partition described in the text related to its depiction in the figure?"
+        ],
+        "analysis": [
+            "The text on page 7 describes the marble slab urinal partitions, specifying that the partitions shall be of marble slab embedded in the wall with a finished thickness of 18 mm. The marble granite stone shall be cut into slabs of required thickness and shall be one piece. This description aligns with Fig. 8.4 on page 11, which visually represents the marble slab urinal partition, showing its placement and dimensions, such as being 450 mm above ground level or up to ground level as directed."
+        ],
+        "answer": "The text specifies the material and thickness; Fig. 8.4 shows placement and dimensions.",
+        "evidence_page": "[7, 11]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the specifications for the cramp used in marble stone veneering for brick backing?"
+        ],
+        "analysis": [
+            "Page 0 provides the general classification and types of marble, while page 9 details the specifications for marble stone veneering, including the cramp for brick backing. The cramp for brick backing is specified as having a length of 115 mm for half brick backing and 150 mm for full brick backing."
+        ],
+        "answer": "115 mm for half brick, 150 mm for full brick",
+        "evidence_page": "[0, 9]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the maximum allowable thickness for mortar in marble stone veneering, and how does it relate to the classification of marble types?"
+        ],
+        "analysis": [
+            "Page 9 provides the typical fixing arrangement for marble stone veneering, specifying that the mortar thickness should be 10 mm. Page 0 classifies different types of marble, but does not specify thickness. The relationship is that regardless of the marble type used, the mortar thickness remains constant at 10 mm, ensuring uniformity in installation."
+        ],
+        "answer": "10 mm",
+        "evidence_page": "[0, 9]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the specifications for securing marble slabs using cramps and pins?"
+        ],
+        "analysis": [
+            "The maximum permissible face joint thickness for marble stone veneering is specified as 1.5 mm (p6). This requirement ensures a tight fit between stones, which is crucial for structural integrity and aesthetic appeal. The curing process, which involves keeping the work moist for at least seven days (p5), helps in achieving the necessary strength and durability of the mortar used in these joints. Additionally, protection from rain and damage during construction (p5) is essential to maintain the integrity of these joints, preventing water ingress and potential weakening of the structure."
+        ],
+        "answer": "1.5 mm; curing for 7 days and protection from rain are required.",
+        "evidence_page": "[5, 6, 9]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 8.0 Marble work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the specifications for the thickness and fixing method of marble slab urinal partitions?"
+        ],
+        "analysis": [
+            "The specifications for the thickness of marble slab urinal partitions are mentioned on page 11, where it states that the finished thickness shall be 18 mm. The fixing method is described on the same page, specifying that fixing shall be done by cutting chase with chase cutter/fine tools in a recess of 7.5 cm x 7.5 cm filled with cement concrete 1:2:4. Additionally, fixing can also be done by epoxy grout in a chase of 2.0 x 7.5 cm as per the direction of the Engineer-in-Charge."
+        ],
+        "answer": "Thickness: 18 mm; Fixing: Cement concrete 1:2:4 or epoxy grout.",
+        "evidence_page": "[7, 11]",
+        "evidence_sources": "[pure_text]"
+    }
+]

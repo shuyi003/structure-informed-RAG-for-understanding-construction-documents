@@ -1,0 +1,950 @@
+[
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the definition of Deadmen or Tell Tales?"
+        ],
+        "analysis": [
+            "The document under section 2.0 DEFINITIONS provides the definition for Deadmen or Tell Tales as mounds of earth left undisturbed in pits dug out for borrowing earth."
+        ],
+        "answer": [
+            " Mounds of earth left undisturbed in pits dug out for borrowing earth."
+        ],
+        "evidence_page": "[1]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the classification for Hard rock?"
+        ],
+        "analysis": [
+            "Section 2.1.0 (c) defines Hard rock as any rock or boulder for the excavation of which blasting is required, such as quartzite, granite, basalt, reinforced cement concrete below ground level and the like."
+        ],
+        "answer": [
+            "Rock or boulder requiring blasting, such as quartzite, granite, basalt, reinforced cement concrete below ground level."
+        ],
+        "evidence_page": "[1]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If the total lead distance for transporting excavated material is 0.4 km, will it be paid for separately?"
+        ],
+        "analysis": [
+            "The document states that carriage by animal and mechanical transport is reckoned in one km units. Distances of 0.5 km or more are considered, while distances less than 0.5 km are generally ignored. However, if the total lead is less than 0.5 km, it will not be ignored but paid for separately in successive stages of 50 meters, provided the rate does not exceed the initial rate for one km."
+        ],
+        "answer": [
+            "Yes, it will be paid for separately."
+        ],
+        "evidence_page": "[1]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What are the requirements for handling archaeological finds during excavation, and how should useful materials be managed"
+        ],
+        "analysis": [
+            "Section 2.2.1 states that any archaeological finds such as relics, coins, or fossils must be delivered to the Engineer-in-Charge and will be the property of the Government. Section 2.2.2 specifies that any useful material obtained from the excavation should be stacked separately in regular stacks as directed by the Engineer-in-Charge and will also be the property of the Government."
+        ],
+        "answer": [
+            "Archaeological finds must be delivered to the Engineer-in-Charge and are government property. Useful materials should be stacked separately as directed by the Engineer-in-Charge and are also government property."
+        ],
+        "evidence_page": "[2]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What must the contractor obtain to undertake blasting work?"
+        ],
+        "analysis": [
+            "Section 2.6 states that the contractor must obtain a license from the competent authority for undertaking blasting work as per the Explosive Act, 1884 and the Explosive Rules, 1983."
+        ],
+        "answer": [
+            "A license from the competent authority."
+        ],
+        "evidence_page": "[3]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the procedure for disposing of earth, and how does it relate to the responsibilities of the Engineer-in-Charge?"
+        ],
+        "analysis": [
+            "Section 2.4.6 states that the disposal of earth should be at a specified location or as decided by the Engineer-in-Charge. The contractor must obtain written permission from the Engineer-in-Charge before disposal. This indicates that the Engineer-in-Charge has the authority to approve and specify the disposal location, ensuring compliance with project requirements."
+        ],
+        "answer": [
+            "The disposal of earth must be at a specified location or as decided by the Engineer-in-Charge, with written permission required from the Engineer-in-Charge before disposal."
+        ],
+        "evidence_page": "[3]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the minimum safe distance that workers must maintain from the blasting site, and under what condition can blasting occur within 200 meters of an existing structure?"
+        ],
+        "analysis": [
+            "1. **Safe Distance for Workers:** - The document states that all workers, except those who ignite the fuse, must withdraw to a safe distance of at least 200 meters from the blasting site. 2. **Blasting Near Existing Structures:** - Blasting is not allowed within 200 meters of an existing structure unless specifically permitted by the Engineer-in-Charge in writing."
+        ],
+        "answer": [
+            "Workers must maintain a minimum safe distance of 200 meters from the blasting site. Blasting within 200 meters of an existing structure is only allowed with written permission from the Engineer-in-Charge."
+        ],
+        "evidence_page": "[4]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How should excavation be handled in firm soils, and what are the specified dimensions for trench sides?"
+        ],
+        "analysis": [
+            "Section 2.7.3 specifies that in firm soils, trench sides should be vertical up to 2 meters from the bottom. For greater depths, the profile should be widened by 50 cm on either side every 2 meters from the bottom. This ensures stability and safety during excavation."
+        ],
+        "answer": [
+            "Trench sides should be vertical up to 2 meters, with widening by 50 cm on either side every 2 meters for greater depths."
+        ],
+        "evidence_page": "[5]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If the excavation for foundations is done deeper than shown in the drawings, who bears the cost of making good the excess depth, and what material is used?"
+        ],
+        "analysis": [
+            "1. **Identify the Clause**: The relevant information is found in section 2.8.6.2. **Responsibility**: The contractor is responsible for making good the excess depth at their own cost.3. **Material Used**: The excess depth is to be filled with concrete of the mix used for leveling or bed concrete for foundations."
+        ],
+        "answer": [
+            "The contractor bears the cost, and the excess depth is filled with concrete."
+        ],
+        "evidence_page": "[6]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If a contractor excavates deeper than required, what steps must be taken"
+        ],
+        "analysis": [
+            "- Section 2.8.7 states that if the excavation is deeper than required, the contractor must bring it to the required level. - This must be done at the contractor's own cost. - The process involves filling with earth that is duly watered, consolidated, and rammed."
+        ],
+        "answer": [
+            "The contractor must fill the excess depth with earth, duly watered, consolidated, and rammed at their own cost."
+        ],
+        "evidence_page": "[7]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the purpose of a vibratory roller?"
+        ],
+        "analysis": [
+            "The document describes a vibratory roller as a single drum roller used for the compaction of embankments and soil."
+        ],
+        "answer": [
+            "Compaction of embankments and soil."
+        ],
+        "evidence_page": "[8]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the primary difference between a Trench Digger and a traditional backhoe excavator?"
+        ],
+        "analysis": [
+            "- The document describes a Trench Digger as operating on the same principle as a backhoe excavator.- The key difference mentioned is that the Trench Digger's bucket is controlled by hydraulic rams instead of cables and pulleys."
+        ],
+        "answer": [
+            "The Trench Digger uses hydraulic rams for bucket control, unlike the traditional backhoe excavator which uses cables and pulleys."
+        ],
+        "evidence_page": "[8]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is required before commencing large scale leveling work involving both cutting and filling?"
+        ],
+        "analysis": [
+            "1The document specifies in section 2.11.6.5 (1) that an accurate site plan should be prepared before the work is commenced. Portions requiring cutting and filling should be divided into squares and corresponding squares into filling, which are complementary to the squares in cutting given the same number."
+        ],
+        "answer": [
+            "An accurate site plan should be prepared, and portions requiring cutting and filling should be divided into squares."
+        ],
+        "evidence_page": "[11]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What are the specified rates for earthwork activities, and how do they relate to the requirements for surface excavation?"
+        ],
+        "analysis": [
+            "Section 2.12.1 lists activities included in the rates for earthwork, such as excavation, site clearance, and setting out profiles. Section 2.13.1 defines surface excavation as involving specific dimensions and depths. The rates cover activities necessary for surface excavation, ensuring compliance with the specified dimensions and procedures."
+        ],
+        "answer": [
+            "Rates for earthwork include excavation, site clearance, and setting out profiles. These activities are necessary for surface excavation, which involves specific dimensions and depths as defined in Section 2.13.1."
+        ],
+        "evidence_page": "[11]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If the external diameter of a pipe is 30 cm, what is the authorized width of the trench for excavation up to a depth of 1 meter?"
+        ],
+        "analysis": [
+            "- According to section 2.19.2 (a), for depths up to 1 meter, the authorized width of the trench is the external diameter of the pipe plus 25 cm. - The external diameter of the pipe is given as 30 cm. - Therefore, the authorized width = 30 cm + 25 cm = 55 cm.."
+        ],
+        "answer": "55 cm",
+        "evidence_page": "[13]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the spacing requirement for the vertical boards in open planking and strutting?"
+        ],
+        "analysis": [
+            "The document states that in open planking and strutting, the vertical boards should be spaced sufficiently apart to leave unsupported strips of 50 cm average width. This is detailed under section 2.20.3 Open Planking and Strutting."
+        ],
+        "answer": "50 cm average width",
+        "evidence_page": "[14]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the minimum depth for the lowest boards supporting the sides in close planking and strutting?"
+        ],
+        "analysis": [
+            "The document specifies that the lowest boards supporting the sides shall be taken in the ground for a minimum depth of 75 mm. This is mentioned under section 2.20.2 Close Planking and Strutting."
+        ],
+        "answer": "75 mm",
+        "evidence_page": "[14]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What are the dimensions and spacing requirements for the vertical boards used in open planking and strutting?"
+        ],
+        "analysis": [
+            "- The document specifies that in open planking and strutting, the vertical boards should be 250 mm wide and 38 mm thick. - These boards must be spaced sufficiently apart to leave unsupported strips of 50 cm average width. - The arrangement and spacing are subject to the approval of the Engineer-in-Charge."
+        ],
+        "answer": "The vertical boards should be 250 mm wide, 38 mm thick, and spaced to leave unsupported strips of 50 cm average width.",
+        "evidence_page": "[14]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How should the dimensions for planking and strutting be measured, and what specific areas are mentioned for separate measurement?"
+        ],
+        "analysis": [
+            "Section 2.20.4 states that dimensions should be measured to the nearest cm and areas calculated to two decimal places. Section 2.20.4.2 specifies that planking and strutting should be measured separately for trenches, areas with raking shores, shafts, walls, cesspits, manholes, and where tightly driven close but jointed sheeting is necessary."
+        ],
+        "answer": "Dimensions should be measured to the nearest cm, and areas calculated to two decimal places. Planking and strutting should be measured separately for trenches, areas with raking shores, shafts, walls, cesspits, manholes, and where tightly driven close but jointed sheeting is necessary.",
+        "evidence_page": "[15]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "How is the metre depth for excavation measured?"
+        ],
+        "analysis": [
+            "The document specifies in section 2.21.3.1 that the metre depth shall be measured from the level of foul position/sub-soil water level up to the centre of gravity of the cross-sectional area of excavation actually done under the conditions classified in 2.21.2."
+        ],
+        "answer": "From the level of foul position/sub-soil water level to the centre of gravity of the cross-sectional area of excavation.",
+        "evidence_page": "[16]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the maximum depth for each layer of filling in trenches?"
+        ],
+        "analysis": [
+            "The section titled 2.23.2 Filling specifies that the filling shall be done in layers not exceeding 20 cm in depth. This indicates the maximum depth for each layer."
+        ],
+        "answer": "20 cm.",
+        "evidence_page": "[17]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "How far should unserviceable materials be removed during stacking and disposal?"
+        ],
+        "analysis": [
+            "Section 2.26.2 states that unserviceable materials should be removed up to a distance of 50 m outside the periphery of the area under clearance."
+        ],
+        "answer": "50 m outside the periphery of the area.",
+        "evidence_page": "[18]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the depth requirement for removing tree roots during felling?"
+        ],
+        "analysis": [
+            "Section 2.27.1 titled Felling specifies that felling trees shall include taking out roots up to 60 cm below ground level or 30 cm below formation level or 15 cm below sub-grade level, whichever is lower."
+        ],
+        "answer": "60 cm below ground, 30 cm below formation, or 15 cm below sub-grade, whichever is lower.",
+        "evidence_page": "[19]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What chemicals are specified for anti-termite treatment?"
+        ],
+        "analysis": [
+            "The document specifies under section 2.28.1.0 that any one of the following chemicals in water emulsion should be used for anti-termite treatment: Chlorpyriphos emulsifiable concentrate of 20% or Lindane emulsifiable concentrate of 20%."
+        ],
+        "answer": "Chlorpyriphos emulsifiable concentrate of 20% or Lindane emulsifiable concentrate of 20%.",
+        "evidence_page": "[20]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "How much water is needed to dilute 10 liters of a 20% chlorpyrifos emulsifiable concentrate to achieve a 1% concentration?"
+        ],
+        "analysis": [
+            "- The document specifies that to dilute a chemical of 20% concentration to 1%, 19 parts of water are added to one part of the chemical. - For 10 liters of 20% concentrate, the dilution ratio is 1:19. - Therefore, the amount of water needed = 10 liters × 19 = 190 liters."
+        ],
+        "answer": "190 liters",
+        "evidence_page": "[20]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the required thickness for the dense cement concrete sub-floor carpet and which reference can be referred to?"
+        ],
+        "analysis": [
+            "The text in section (vi) specifies that the dense cement concrete (1:3:6 mix) sub-floor must be at least 75 mm thick. Figure 2.3(vi) is referenced, which likely illustrates this requirement visually."
+        ],
+        "answer": "At least 75 mm thick.",
+        "evidence_page": "[21]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "How much water is needed to dilute 5 liters of Chlorpyrifos 20EC to achieve a 1% concentration?"
+        ],
+        "analysis": [
+            "1. The document states that to achieve a 1% concentration from a 20% concentration, 19 parts of water should be added to 1 part of the chemical. 2. For 5 liters of Chlorpyrifos 20EC: - 1 part chemical = 5 liters - 19 parts water = 19 × 5 liters = 95 liters"
+        ],
+        "answer": "95 liters of water are needed.",
+        "evidence_page": "[22]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the specified rate of chemical emulsion application for soil in contact with the external wall of the building?"
+        ],
+        "analysis": [
+            "The document specifies that the soil in contact with the external wall of the building should be treated with chemical emulsion at a rate of 7.5 litres per square meter of the vertical surface of the sub-structure to a depth of 300 mm.."
+        ],
+        "answer": "7.5 litres per square meter.",
+        "evidence_page": "[23]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the total amount of chemical emulsion needed to treat the soil in contact with the external wall of a building with a perimeter of 100 meters, assuming the treatment is done as specified?"
+        ],
+        "analysis": [
+            "1. **Chemical Emulsion Rate**: The document specifies a treatment rate of 7.5 liters per square meter of the vertical surface of the sub-structure to a depth of 300 mm. 2. **Channel Treatment**:  - A channel is excavated along the wall face. - Chemical emulsion is directed towards the wall at 1.75 liters per running meter of the channel. 3. **Backfill Treatment**: - Additional chemical of 0.5 liters per running meter is used for backfill earth. 4. **Perimeter Calculation**: - Total perimeter = 100 meters. 5. **Total Chemical Calculation**: - For channel: 1.75 liters/meter × 100 meters = 175 liters. - For backfill: 0.5 liters/meter × 100 meters = 50 liters. - Total chemical emulsion = 175 liters + 50 liters = 225 liters."
+        ],
+        "answer": "225 liters",
+        "evidence_page": "[23]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How should woodwork that has been damaged by termites be treated according to the text, and what specific measurements are required for this treatment?"
+        ],
+        "analysis": [
+            "The text specifies that damaged woodwork should be replaced and the new timber dipped in oil or kerosene. Existing woodwork in contact with floors or walls should be treated by spraying at contact points with chemical emulsion. Holes of 6 mm diameter should be drilled at a 45-degree angle, and chemical emulsion should be infused until refusal or up to half a litre per hole. Measurements for treatment of woodwork should be made in running metres for chowkhats, joints, purlins, beams, etc."
+        ],
+        "answer": "Damaged woodwork should be replaced, and new timber dipped in oil or kerosene. Existing woodwork should be treated by spraying chemical emulsion at contact points, with 6 mm holes drilled at a 45-degree angle. Measurements should be in running metres for chowkhats, joints, purlins, beams, etc.",
+        "evidence_page": "[24]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "How should woodwork that has been damaged by termites be treated?"
+        ],
+        "analysis": [
+            "The document specifies that woodwork damaged by termites should be replaced. The new timber must be dipped or brushed with oil or kerosene twice. Existing woodwork in contact with floors or walls should be treated by spraying chemical emulsion at points of contact with masonry. Holes should be drilled at a downward angle, and chemical emulsion should be infused until refusal or up to half a liter per hole."
+        ],
+        "answer": "Replace damaged wood, dip new timber in oil or kerosene, and treat existing wood with chemical emulsion.",
+        "evidence_page": "[24]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the required spacing for drilling holes in infested wood work, and what is the purpose of these holes?"
+        ],
+        "analysis": [
+            "- The document specifies that holes should be drilled in infested wood work at a downward slant to the core. - The holes should be about 3 mm in diameter. - The spacing for these holes is at least 150 mm center to center. - The purpose of these holes is to infuse chemicals to treat the infestation."
+        ],
+        "answer": "The holes should be spaced at least 150 mm center to center, and they are for infusing chemicals to treat the infestation.",
+        "evidence_page": "[24]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the cement concrete mix ratio used at the base of the structure?"
+        ],
+        "analysis": [
+            "The cross-sectional elevation in the image indicates CEMENT CONCRETE 1:5:10 at the base of the structure. This specifies the mix ratio of cement, sand, and aggregate."
+        ],
+        "answer": "1:5:10",
+        "evidence_page": "[25]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the total height of the temporary site benchmark from the ground level to the top of the M.S. plate?"
+        ],
+        "analysis": [
+            "1. The diagram shows the following vertical dimensions:- From ground to the top of the brickwork: 350 mm- From the top of the brickwork to the top of the M.S. plate: 100 mm 2. Adding these dimensions gives the total height from the ground level to the top of the M.S. plate: - Total height = 350 mm + 100 mm = 450 mm"
+        ],
+        "answer": "450 mm",
+        "evidence_page": "[25]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "For Open Planking & Strutting configuration, what is the maximum width allowed between the poling boards?"
+        ],
+        "analysis": [
+            "1. The Open Planking & Strutting configuration shows spacing labeled as 250, 500, 250 mm. 2. The maximum width between the poling boards is 500 mm.."
+        ],
+        "answer": "500 mm",
+        "evidence_page": "[26]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What are the dimensions of the poling board used in both close and open planking and strutting, and how are they represented?"
+        ],
+        "analysis": [
+            "he figures show that the poling board dimensions are 250 x 38 mm. This is consistently labeled in both the Close Planking & Strutting with Vertical Poling Board and Open Planking & Strutting diagrams."
+        ],
+        "answer": "250 x 38 mm",
+        "evidence_page": "[26]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the dimension of the offset provided on the inner side of the outer wall for the sand layer in Stage 2?"
+        ],
+        "analysis": [
+            "The diagram for Anti-Termite Construction Stage -2 includes a note indicating a 100 mm OFFSET PROVIDED ON THE INNER SIDE OF OUTER WALL FOR SAND LAYER."
+        ],
+        "answer": "100 mm",
+        "evidence_page": "[27]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the total thickness of the dry brick layer and earth filling in Anti-Termite Construction Stage 1?"
+        ],
+        "analysis": [
+            "- The image for Stage 1 shows a dry brick layer labeled as DRY BRICK FOR APRON FLOOR. - The thickness of the dry brick layer is not explicitly mentioned, but the earth filling is shown with a dimension of 100 mm. - Since the dry brick layer thickness is not provided, we can only account for the earth filling thickness."
+        ],
+        "answer": "100 mm (for earth filling only, as dry brick thickness is unspecified).",
+        "evidence_page": "[27]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the dimension labeled A in Anti-Termite Construction Stage 3?"
+        ],
+        "analysis": [
+            "In the diagram for Anti-Termite Construction Stage 3, the dimension labeled A is shown as 100 mm.."
+        ],
+        "answer": "100 mm",
+        "evidence_page": "[28]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the thickness of the subfloor in Stage 6, and how is it constructed?"
+        ],
+        "analysis": [
+            "In Figure 2.3(vi), Stage 6, the subfloor is described as a 75 mm thick dense cement concrete subfloor. This indicates that after the sand layer, a dense cement concrete layer is added to complete the subfloor construction.."
+        ],
+        "answer": "The subfloor is 75 mm thick, constructed using dense cement concrete as part of Stage 6 in the anti-termite construction process.",
+        "evidence_page": "[29]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the total thickness of materials applied on top of the ground level in Anti-Termite Construction Stage 8?"
+        ],
+        "analysis": [
+            "- The image for Stage 8 shows two layers above the ground level (GL): - A 25 mm thick cement concrete topping (1:2:4). - A 12 mm thick cement plaster. - Total thickness = 25 mm (concrete) + 12 mm (plaster) = 37 mm."
+        ],
+        "answer": "37 mm.",
+        "evidence_page": "[30]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the thickness of the cement concrete subfloor in the anti-termite construction recommendations?"
+        ],
+        "analysis": [
+            "The diagram labeled Anti-Termite Construction – Final Recommendations shows a section labeled 75 mm THICK CEMENT CONCRETE SUBFLOOR. This indicates the thickness of the cement concrete subfloor."
+        ],
+        "answer": "75 mm",
+        "evidence_page": "[31]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the total thickness of the floor finish, cement concrete subfloor, and cement plaster combined?"
+        ],
+        "analysis": [
+            "- The floor finish thickness is not specified in the image. - The cement concrete subfloor is 75 mm thick. - The cement plaster is 12 mm thick."
+        ],
+        "answer": "87 mm (excluding unspecified floor finish thickness).",
+        "evidence_page": "[31]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 2.0 Earthworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the thickness of the cement concrete subfloor, and how does it relate to the plaster thickness in the figure??"
+        ],
+        "analysis": [
+            "The figure indicates a 75 mm THICK CEMENT CONCRETE SUBFLOOR. Additionally, it shows a 12 mm THICK CEMENT PBottom diameter: 20 cm, Top diameter: 10 cm, Height: 30 cm. The procedure involves filling the mould in layers LASTER. The subfloor is significantly thicker than the plaster, with a difference of 63 mm."
+        ],
+        "answer": "The cement concrete subfloor is 75 mm thick, which is 63 mm thicker than the 12 mm thick cement plaster.",
+        "evidence_page": "[31]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 2.0 Eartheworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the procedure for recording and checking levels in earth levelling work?"
+        ],
+        "analysis": [
+            "The procedure for recording and checking levels in earth levelling work involves several steps. According to page 9, original ground levels must be recorded in the Level Book by the contractor or authorized representative, and signed by them and the Department Officer. All local mounds and depressions should be indicated, and the Level Book should be checked by the Assistant Engineer/Executive Engineer before starting work. Page 9 also specifies that a test check of the levels should be conducted by the Assistant Engineer to at least 50% and by the Executive Engineer to at least 10%. The test check should be independent, and any serious mistakes should be re-taken and re-checked. Final levels should be compared with proposed formation levels and rectified if necessary."
+        ],
+        "answer": [
+            "Record levels in Level Book, check by Assistant/Executive Engineer, test check 50% by Assistant Engineer, 10% by Executive Engineer."
+        ],
+        "evidence_page": "[7, 8]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Eartheworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "How is the net quantity of excavation for payment calculated when it is not possible to measure the depth of cutting by recording levels?"
+        ],
+        "analysis": [
+            "According to page 38, when it is not possible to measure the depth of cutting by recording levels, the quantity of excavation is worked out from filling. The actual measurements of the fill are calculated by taking levels of the original ground before the start of the work after site clearance and after compaction of the fill. The quantity of earthwork so computed is reduced by 10% in the case of consolidated fills and by 5% if the consolidation is done by heavy mechanical machinery. This ensures that the net quantity of excavation for payment is accurate. Page 39 supports this by detailing the importance of recording levels in the Level Book and conducting test checks to ensure accuracy in measurements."
+        ],
+        "answer": [
+            "Calculated from fill measurements, reduced by 10% for consolidated fills or 5% for mechanical consolidation."
+        ],
+        "evidence_page": "[7, 8]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Eartheworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How is the use of a Vibratory Roller for compaction related to the measurement of filling as specified in the document?"
+        ],
+        "analysis": [
+            "The Vibratory Roller is described on page 7 as a tool for compacting embankments and cohesive soils. Page 8 specifies that filling with excavated earth should be consolidated with a power roller of minimum 8 tonnes if the depth exceeds 1.5 meters. This indicates that the Vibratory Roller is likely used for such consolidation tasks. Page 9 discusses the measurement of filling, noting that the depth is measured after compaction, which aligns with the use of the Vibratory Roller to ensure proper compaction before measurement."
+        ],
+        "answer": [
+            "The Vibratory Roller is used for compaction before measuring the depth of filling."
+        ],
+        "evidence_page": "[7, 8]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 2.0 Eartheworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the types of excavators mentioned, and what are their specific uses?"
+        ],
+        "analysis": [
+            "The document describes various types of excavators and their uses across pages 6 and 7. On page 6, it lists the Dipper-shovel, Backhoe, Skimmer, and Dragline, detailing their specific applications such as excavating against a face or bank, trenching, and large open excavations. Page 7 continues with Clamshell, used for deep excavations of limited area, and introduces Tractor-based equipment like Loaders and Trench Diggers, highlighting their roles in loading, transporting, and trenching."
+        ],
+        "answer": [
+            "Dipper-shovel, Backhoe, Skimmer, Dragline, Clamshell; used for excavating against a face, trenching, large open excavations, deep limited area excavations."
+        ],
+        "evidence_page": "[6, 7]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Eartheworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What are the considerations for selecting earth moving equipment for excavation and transportation, and how do these considerations influence the choice between using a backhoe and a dragline?"
+        ],
+        "analysis": [
+            "Page 6 discusses the general considerations for selecting earth moving equipment, such as type of soil, nature of excavation, and distances for transporting soil. It mentions that the equipment should be chosen based on these factors. Page 7 provides details on specific equipment, including backhoes and draglines. A backhoe is suitable for excavating trenches and small open areas, while a dragline is used for large open excavations where the depth exceeds the limit of a backhoe. Therefore, the choice between a backhoe and a dragline depends on the size and depth of the excavation area, as well as the type of soil and operational constraints."
+        ],
+        "answer": [
+            "Choice depends on excavation size, depth, and soil type."
+        ],
+        "evidence_page": "[6, 7]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Eartheworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How is a backhoe excavator described in the text, and what is its primary use according to the equipment classification?"
+        ],
+        "analysis": [
+            "Section 303 on page 4 describes the reconditioning process and lists the payment items as '303(1) Reconditioning' and '303(2) Reconditioning' with units 'Station' and 'Mile'. Section 306 on page 8 outlines the ATB process and lists paymenThe text on page 6 describes a backhoe as similar to a face shovel, with the dipper or bucket working towards the chassis and having no bottom door. It is mainly used for excavating trenches and occasionally for open areas like basements. Page 7 classifies it under 'Excavators' and describes its operation principle similar to a backhoe excavator, emphasizing its use for trench digging."
+        ],
+        "answer": [
+            "A backhoe is described as similar to a face shovel, used mainly for trench excavation and occasionally for open areas like basements."
+        ],
+        "evidence_page": "[6, 7]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Eartheworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the requirements for planking and strutting in trenches with soft or loose soil?"
+        ],
+        "analysis": [
+            "The requirements for planking and strutting in trenches with soft or loose soil are detailed across multiple pages. Page 13 specifies that when the depth of trench in soft/loose soil exceeds 2 meters, planking and strutting should be done, with the type determined by the Engineer-in-Charge. Page 14 further elaborates that planking and strutting shall be measured separately and includes specifications for close and open planking and strutting. Page 15 mentions that planking and strutting are necessary to prevent collapse and should be done with the approval of the Engineer-in-Charge."
+        ],
+        "answer": [
+            "Planking and strutting required for trenches over 2m in soft/loose soil, type determined by Engineer-in-Charge."
+        ],
+        "evidence_page": "[13, 14]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Eartheworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What are the requirements for planking and strutting in trenches with soft/loose soil exceeding 2 meters in depth, and how does it relate to excavation in water or foul positions?"
+        ],
+        "analysis": [
+            "According to page 13, when the depth of a trench in soft/loose soil exceeds 2 meters, planking and strutting must be done to prevent collapse. The type of planking and strutting is determined by the Engineer-in-Charge. Page 14 specifies that planking and strutting are measured separately and are necessary to prevent slipping of sides during excavation in water, mud, or foul positions. Page 15 further explains that planking and strutting are required to keep trenches dry and prevent damage from water rise, which is crucial in water or foul positions. Therefore, the requirements for planking and strutting in trenches with soft/loose soil are directly related to ensuring stability and safety during excavation in challenging conditions such as water or foul positions."
+        ],
+        "answer": [
+            "Planking and strutting are required to prevent collapse and ensure stability in soft/loose soil and water or foul positions."
+        ],
+        "evidence_page": "[13, 14, 15]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Eartheworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How does the text description of planking and strutting relate to the typical sketch provided in Fig. 2.2?"
+        ],
+        "analysis": [
+            "The text on page 13 describes the methods of planking and strutting, specifying that it can be 'close' or 'open' depending on soil conditions and trench depth. It mentions the use of vertical boards and horizontal wallings, and the arrangement of these elements is crucial for stability. The typical sketch in Fig. 2.2, referenced on page 13, visually represents these arrangements, showing the positioning of boards and wallings as described in the text. This alignment between text and figure helps in understanding the practical application of the described methods."
+        ],
+        "answer": [
+            "The sketch in Fig. 2.2 visually represents the planking and strutting methods described in the text."
+        ],
+        "evidence_page": "[13, 14]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 2.0 Eartheworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the requirements for measuring the depth of excavation in earthwork?"
+        ],
+        "analysis": [
+            "The requirements for measuring the depth of excavation are detailed across multiple sections. On page 8, section 2.11.1 specifies that the depth of cutting or height of filling shall be measured with a steel tape correct to the nearest cm. Page 15, section 2.21.3.1 further specifies that the metre depth shall be measured from the level of foul position/sub-soil water level up to the centre of gravity of the cross-sectional area of excavation, with depth reckoned correct to 0.1 m, 0.05 m, or more, depending on the conditions."
+        ],
+        "answer": [
+            "Measured with steel tape to nearest cm; metre depth correct to 0.1 m, 0.05 m, or more."
+        ],
+        "evidence_page": "[8, 15]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Eartheworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "How should the measurement of excavation be adjusted when ordinary rock and hard rock are mixed, and what additional considerations are there for maintaining water levels during excavation?"
+        ],
+        "analysis": [
+            "Page 8 discusses the measurement of excavation when ordinary rock and hard rock are mixed. It specifies that the materials should be stacked separately, measured, and each reduced by 50% to allow for voids. Page 15 provides additional considerations for maintaining water levels during excavation, stating that the contractor must make necessary arrangements to prevent water from affecting the excavation, including pumping and bailing out water, with no extra payment for these measures."
+        ],
+        "answer": [
+            "Reduce each rock type by 50% for voids; maintain water levels without extra payment."
+        ],
+        "evidence_page": "[8, 15]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Eartheworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How is the measurement of excavation depth related to the handling of water levels during major earthworks?"
+        ],
+        "analysis": [
+            "Page 8 describes the measurement of excavation depth, specifying that it should be measured from the level of foul position or sub-soil water level and corrected to specific decimal places. Page 15 discusses the handling of water levels during major earthworks, emphasizing the need for maintaining water levels to prevent damage due to water pressure. The measurement of depth is crucial for ensuring accurate handling of water levels, as it determines the starting point for water management strategies."
+        ],
+        "answer": [
+            "Measurement of excavation depth is crucial for managing water levels to prevent damage."
+        ],
+        "evidence_page": "[8, 15]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Eartheworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the dimensions of the poling board used in both the temporary site bench mark and the planking and strutting designs?"
+        ],
+        "analysis": [
+            "The temporary site bench mark design on page 24 does not specify a poling board, but the planking and strutting designs on page 25 specify the poling board dimensions as 250 x 38 mm."
+        ],
+        "answer": "250 x 38 mm",
+        "evidence_page": "[24, 25]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 2.0 Eartheworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the total height of the temporary site bench mark including the ground level and the maximum depth of close planking and strutting?"
+        ],
+        "analysis": [
+            "The height of the temporary site bench mark is calculated by summing the vertical dimensions provided in the diagram on page 24. The dimensions are 100 mm (top section) + 350 mm (middle section) + 150 mm (bottom section) + 150 mm (ground level) + 150 mm (base section), totaling 900 mm. On page 25, the maximum depth for close planking and strutting is given as 2000 mm. Adding these together gives a total height of 2900 mm."
+        ],
+        "answer": "2900 mm",
+        "evidence_page": "[24, 25]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 2.0 Eartheworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How do the dimensions and materials used in the temporary site bench mark design relate to those used in close and open planking and strutting?"
+        ],
+        "analysis": [
+            "The design for the temporary site bench mark on page 24 includes dimensions such as 850 mm for the base and materials like cement concrete 1:5:10 and brick work in cement mortar 1:4. On page 25, the close and open planking and strutting designs use dimensions such as 2000 mm for height and materials like waling 100 x 100 and poling board 250 x 38. Both designs involve structural elements with specific dimensions and materials, indicating a focus on stability and durability in earthwork construction."
+        ],
+        "answer": "Both designs emphasize structural stability using specific dimensions and materials.",
+        "evidence_page": "[24, 25]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 2.0 Eartheworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the measurement requirements for anti-termite treatment in earthwork?"
+        ],
+        "analysis": [
+            "Page 15 discusses general measurement requirements for earthwork, including the depth and conditions for excavation. Page 23 specifies measurements related to termite treatment, including dimensions for treatment outside foundations, under floors, and in masonry. Page 27 provides figures illustrating anti-termite construction stages, which complement the textual descriptions by showing specific dimensions and placements."
+        ],
+        "answer": "Measurements for anti-termite treatment include running metres for foundations, square metres for soil under floors, and running metres for voids in masonry.",
+        "evidence_page": "[15, 23, 27]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 2.0 Eartheworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What are the requirements for maintaining water levels during excavation, and how does this relate to termite treatment procedures?"
+        ],
+        "analysis": [
+            "Page 15 discusses the need for maintaining water levels during excavation, specifying that contractors must make necessary arrangements to prevent water from affecting the excavation site. This includes pumping or bailing out water, which is not paid separately unless ordered by the Engineer-in-Charge. Page 23 outlines termite treatment procedures, which involve specific measurements and treatments to protect woodwork from termite damage. The connection between these sections is the need for precise measurements and control of environmental factors (water levels and termite presence) to ensure structural integrity and safety during construction."
+        ],
+        "answer": "Water levels must be controlled to prevent excavation issues; termite treatment requires precise measurements.",
+        "evidence_page": "[15, 23]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 2.0 Eartheworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the specifications for excavation in ordinary rock and anti-termite construction stage 3?"
+        ],
+        "analysis": [
+            "Page 5 outlines the procedures for excavation in ordinary rock, including the use of crowbars, pick axes, or pneumatic drills, and mentions that blasting is generally not adopted unless permitted by the Engineer-in-Charge (p5). Page 27 provides details for anti-termite construction stage 3, specifying the use of dense cement concrete (1:3:6) and the placement of an anti-termite groove (p27)."
+        ],
+        "answer": "Excavation in ordinary rock uses crowbars, pick axes, or pneumatic drills; anti-termite construction stage 3 uses dense cement concrete (1:3:6) with an anti-termite groove.",
+        "evidence_page": "[5, 27]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 2.0 Eartheworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the required thickness of cement plaster in anti-termite construction compared to the depth of excavation for drains?"
+        ],
+        "analysis": [
+            "Page 5 discusses the excavation requirements for drains, specifying that any excess depth must be filled with concrete as directed by the Engineer-in-Charge (p5). Page 27 provides details on anti-termite construction, specifying a 12 mm thick cement plaster (p27). The comparison involves understanding that the cement plaster thickness is a specific requirement for anti-termite construction, while the excavation depth for drains is variable and depends on site-specific conditions."
+        ],
+        "answer": "12 mm thick cement plaster; excavation depth varies.",
+        "evidence_page": "[5, 27]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 2.0 Eartheworks.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the requirements for excavation in ordinary/hard rock as per the document?"
+        ],
+        "analysis": [
+            "The document specifies that excavation in ordinary/hard rock should be carried out using crowbars, pick axes, or pneumatic drills. Blasting operations are generally not adopted unless necessary, in which case permission from the Engineer-in-Charge is required (p5). Additionally, during excavation, the natural drainage of the area must be maintained, and undermining or undercutting should not be done (p4)."
+        ],
+        "answer": "Excavation with crowbars, pick axes, pneumatic drills; blasting with permission; maintain natural drainage.",
+        "evidence_page": "[4, 5]",
+        "evidence_sources": "[pure_text]"
+    }
+]

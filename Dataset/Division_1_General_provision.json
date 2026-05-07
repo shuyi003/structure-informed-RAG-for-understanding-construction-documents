@@ -1,0 +1,966 @@
+[
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "How can changes within the general scope of the contract be ordered?"
+        ],
+        "analysis": [
+            "Section 104-1.02 states that the engineer may order changes within the general scope of the contract at any time, without notice to sureties. This includes altering, ordering additions to, or ordering deletions of quantities of any item or portion of the work. These changes must be made by a written change order and shall not invalidate the contract or release the sureties."
+        ],
+        "answer": [
+            "By a written change order from the engineer."
+        ],
+        "evidence_page": "[1]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What are the conditions under which the Engineer can issue a unilateral Change Order, and what must the Contractor do in response?"
+        ],
+        "analysis": [
+            "According to Section 104-1.02, part 1(b)(3), the Engineer may issue a unilateral Change Order requiring the Contractor to proceed with the work with an adjustment to the payment amount or Contract time based on the Engineer's estimate of reasonable value. The Contractor must keep complete daily records of the cost of such work."
+        ],
+        "answer": [
+            "The Engineer can issue a unilateral Change Order when an adjustment to payment or Contract time is needed based on the Engineer's estimate. The Contractor must keep complete daily records of the cost of the work."
+        ],
+        "evidence_page": "[1]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What must the Contractor do if they discover differing site conditions?"
+        ],
+        "analysis": [
+            "The document under section 104-1.03 states that the Contractor must immediately notify the Engineer in writing and specifically describe the alleged differing site condition if they discover subsurface or latent physical conditions differing materially from those in the Contract documents, or unknown physical conditions of an unusual nature."
+        ],
+        "answer": [
+            "Notify the Engineer in writing and describe the differing site condition."
+        ],
+        "evidence_page": "[2]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the purpose of the Value Engineering Change Proposals (VECPs)?"
+        ],
+        "analysis": [
+            "The document states under section 104-1.06, Purpose and Scope, that the purpose of VECPs is to encourage the Contractor to propose changes to Contract designs, materials, or methods based on the Contractor's experience and ingenuity. These proposals aim to result in immediate savings to the Department without impairing essential functions and characteristics of the Project."
+        ],
+        "answer": [
+            "To encourage cost-saving changes to designs, materials, or methods without impairing project functions."
+        ],
+        "evidence_page": "[3]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "Under what condition can the Department reject a VECP without obligation to the Contractor?"
+        ],
+        "analysis": [
+            "In section 3c, it states that the Department may reject a VECP without obligation to the Contractor if it contains proposals already under consideration by the Department or that have been authorized for the Contract."
+        ],
+        "answer": [
+            "If it contains proposals already under consideration by the Department or authorized for the Contract."
+        ],
+        "evidence_page": "[4]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the maximum allowable depth of gap for a punched dressed surface, and how does it compare to the depth for a close picked surface?"
+        ],
+        "analysis": [
+            "1. **Punched Dressed Surface**: The document specifies that the depth of gap between the surface and a straight edge for a punched dressed surface shall not exceed 3 mm. 2. **Close Picked Surface**: For a close picked surface, the depth of gap between the surface and a straight edge kept over the surface shall not exceed 1.5 mm. 3. **Comparison**: The maximum allowable depth for a punched dressed surface is 3 mm, which is greater than the 1.5 mm allowed for a close picked surface."
+        ],
+        "answer": [
+            "The maximum allowable depth of gap for a punched dressed surface is 3 mm, which is greater than the 1.5 mm allowed for a close picked surface."
+        ],
+        "evidence_page": "[4]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What are the conditions under which the Engineer will issue a Change Order incorporating the VECP into the Contract?"
+        ],
+        "analysis": [
+            "1. The document specifies that the Engineer will issue a Change Order if the final VECP is accepted. 2. Acceptance of the VECP is contingent upon the Engineer's approval. 3. The Change Order will be issued under Subsection 104-1.02."
+        ],
+        "answer": [
+            "The Engineer will issue a Change Order incorporating the VECP into the Contract if the final VECP is accepted."
+        ],
+        "evidence_page": "[5]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What steps must be taken if a VECP is approved in concept, and how does this relate to the issuance of a Change Order?"
+        ],
+        "analysis": [
+            "According to section 4c, if the VECP is approved in concept, the Department may either undertake the redesign itself or issue a limited notice to proceed to the Contractor, subject to mutual agreement. This does not constitute acceptance of the VECP. Section 4d states that if the final VECP is accepted, the Engineer will issue a Change Order under Subsection 104-1.02 to incorporate the VECP into the Contract."
+        ],
+        "answer": [
+            "If a VECP is approved in concept, the Department may redesign or issue a limited notice to proceed. If the final VECP is accepted, a Change Order is issued to incorporate it into the Contract."
+        ],
+        "evidence_page": "[5]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "How many sets of conformed Plans and Contract must the Department provide to the Contractor?"
+        ],
+        "analysis": [
+            "The document under section 105-1.02 states that the Department shall provide the Contractor with at least two full size sets of the conformed Plans and Contract."
+        ],
+        "answer": [
+            "At least two full size sets."
+        ],
+        "evidence_page": "[6]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the order of precedence if there is a conflict between contract documents?"
+        ],
+        "analysis": [
+            "The document specifies the order of precedence in case of a conflict between contract documents. It lists the following order: 1. Special Provisions 2. Plans 3. Standard Modifications 4. Standard Specifications 5. Standard Drawings."
+        ],
+        "answer": [
+            "Special Provisions, Plans, Standard Modifications, Standard Specifications, Standard Drawings."
+        ],
+        "evidence_page": "[7]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is required of the contractor in terms of cooperation with utility owners?"
+        ],
+        "analysis": [
+            "The document specifies that where bond stones of suitable lengths are not available, pre-cast cement concrete blocks should be used with a mix ratio of 1:3:6 (1 cement: 3 coarse sand: 6 graded stone aggregate 20 mm nominal size)."
+        ],
+        "answer": [
+            "The contractor must coordinate with utility owners, facilitate operations, avoid duplication, prevent interruptions, and give 15 days advance notice for operations."
+        ],
+        "evidence_page": "[8]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What must the contractor do before beginning any portion of utility work?"
+        ],
+        "analysis": [
+            "The document states that the contractor must cooperate with utility owners to determine a utility progress schedule for all parties' utility work. The contractor shall submit the schedule to the Engineer before beginning that portion of utility work."
+        ],
+        "answer": [
+            "Submit the utility progress schedule to the Engineer."
+        ],
+        "evidence_page": "[9]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What are the requirements for excavation work, and how do they relate to specific regulations mentioned?"
+        ],
+        "analysis": [
+            "The text outlines several requirements for excavation work under Utility Work. Specifically, it mentions: - Ensuring all excavation conforms to AS 42.30.400 – 42.30.490. - Ensuring all excavation and utility work conforms to excavation requirements in 29 CFR 1926, Subpart P, and confined space requirements in 29 CFR 1926.21(b)(6). These requirements ensure that the excavation work adheres to specific state and federal regulations, which are designed to maintain safety and compliance."
+        ],
+        "answer": [
+            "Excavation work must conform to AS 42.30.400 – 42.30.490 and 29 CFR 1926, Subpart P, including confined space requirements in 29 CFR 1926.21(b)(6)."
+        ],
+        "evidence_page": "[9]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "Under what conditions will the Engineer issue a Change Order with equitable adjustment?"
+        ],
+        "analysis": [
+            "lSection 4.b specifies that a Change Order with equitable adjustment will be issued if utilities not shown on the Plans require removal, adjustment, or relocation; conflicts occur between utilities not shown on the Plans and other necessary work; or conflicts due to the required elevation of a utility occur between new and existing utilities that are both shown on the Plans."
+        ],
+        "answer": [
+            "If utilities not shown on the Plans require removal, adjustment, or relocation; conflicts occur between utilities not shown on the Plans and other necessary work; or conflicts due to required elevation of a utility occur between new and existing utilities shown on the Plans."
+        ],
+        "evidence_page": "[9]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the minimum depth required for rough-chisel dressing of beds, and how does it relate to the requirement for exposed work?"
+        ],
+        "analysis": [
+            "Section 7.2.3 specifies that beds should be rough-chisel dressed to a depth of at least 100 mm. For exposed work, the stones must have a minimum of 25 mm wide chisel drafts at all four edges, ensuring the edges are in the same plane."
+        ],
+        "answer": "The minimum depth for rough-chisel dressing of beds is 100 mm. For exposed work, stones must also have 25 mm wide chisel drafts at all edges.",
+        "evidence_page": "[10]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "Under what conditions will the Engineer issue a Change Order with an equitable adjustment for the cost of repairing damage?"
+        ],
+        "analysis": [
+            "The document specifies that a Change Order with an equitable adjustment for the cost of repairing damage will be issued if: (a) The field locate by the owner or operator of a buried utility erred by more than 24 horizontal inches if the utility is buried 10 feet deep or less, or 30 horizontal inches if the utility is buried deeper than 10 feet; (b) The utility was not shown on the Plans or other Contract documents, and the Contractor could not reasonably have been expected to be aware of the utility’s existence; (c) The Contractor made a written request for a field locate in accordance with AS 42.30.400, the utility owner did not locate the utility in accordance with AS 42.30.410, and the Contractor could not reasonably have been expected to be aware of the utility’s existence or location."
+        ],
+        "answer": "If the field locate error exceeds specified limits, utility not shown on plans, or utility owner fails to locate utility after a request.",
+        "evidence_page": "[11]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What happens if the Contractor fails to correct, remove, or replace unacceptable work?"
+        ],
+        "analysis": [
+            "The document specifies that if the Contractor fails to correct, remove, or replace unacceptable work as ordered by the Engineer, the Engineer may employ others to remedy or remove and replace the work and will deduct the cost from the Contract payment."
+        ],
+        "answer": "The Engineer may employ others to fix the work and deduct the cost from the Contract payment.",
+        "evidence_page": "[12]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What actions can the Engineer take if the Contractor fails to provide adequate maintenance during construction?"
+        ],
+        "analysis": [
+            "1. **Context Identification**: The document section 105-1.13 discusses maintenance during construction and the Engineer's actions if the Contractor fails to provide adequate maintenance. 2. **Clause Summarization**: The document states that if the Contractor fails to provide adequate maintenance, the Engineer will notify the Contractor of noncompliance. The notification will specify the areas or structures needing maintenance, the corrective maintenance required, and the time allowed to complete it. 3. **Conditional Dependencies**: If the Contractor fails to take corrective action within the specified time, the Engineer may: - Suspend the work until corrective maintenance is completed. - Assess a traffic price adjustment against the Contract Amount. - Employ others for corrective maintenance and deduct the cost from the Contract amount."
+        ],
+        "answer": "The Engineer can suspend the work, assess a traffic price adjustment, and employ others for corrective maintenance, deducting the cost from the Contract amount.",
+        "evidence_page": "[13]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What are the conditions under which the Contractor is relieved from further maintenance responsibility of the completed work?"
+        ],
+        "analysis": [
+            "- The document states that the Engineer will issue a letter of substantial completion once the work is inspected and deemed satisfactory. - This letter of substantial completion relieves the Contractor from further maintenance responsibility of the completed work. - However, the letter does not stop Contract time or relieve the Contractor of the obligation to fully complete the work as required by the Contract specifications."
+        ],
+        "answer": "The Contractor is relieved from further maintenance responsibility upon receiving a letter of substantial completion from the Engineer.",
+        "evidence_page": "[14]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What must be included in the written Claim regarding the specific relief requested?"
+        ],
+        "analysis": [
+            "The document specifies that the written Claim must include the specific relief requested, including Contract time if applicable, and the basis upon which it was calculated."
+        ],
+        "answer": "The specific relief requested, including Contract time if applicable, and the basis upon which it was calculated.",
+        "evidence_page": "[15]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What are the requirements for a Contractor to submit a claim for an extension of Contract time, and how does this relate to the submission of revised schedules?"
+        ],
+        "analysis": [
+            "The text states that if a Contractor believes they are entitled to an extension of Contract time, they must provide sufficient information to demonstrate excusable delay and show the specific amount of time claimed. Additionally, the Contractor must submit revised schedules in accordance with Subsection 108-1.03. This indicates that the submission of revised schedules is a necessary component of the claim for an extension of Contract time."
+        ],
+        "answer": "The Contractor must provide information demonstrating excusable delay, show the specific time claimed, and submit revised schedules as per Subsection 108-1.03.",
+        "evidence_page": "[15]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the time frame for a Contractor to provide additional information if requested by the Department, and what are the consequences of failing to do so?"
+        ],
+        "analysis": [
+            "The document states that the Contractor must provide the Department with the requested additional information within 30 days of receiving a request. Failure to furnish the additional information may be regarded as a waiver of the claim."
+        ],
+        "answer": "The Contractor has 30 days to provide additional information, and failing to do so may result in a waiver of the claim.",
+        "evidence_page": "[16]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is required for materials incorporated into the project on the basis of a certificate of compliance?"
+        ],
+        "analysis": [
+            "The document specifies that materials incorporated into the project on the basis of a certificate of compliance may be tested at any time, whether in place or not, and if they do not conform to Contract specifications, they may be rejected and ordered removed under Subsection 105-1.11."
+        ],
+        "answer": "They may be tested at any time, and if non-conforming, rejected and removed.",
+        "evidence_page": "[17]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the process for substituting specified materials with equivalent materials, and what must the manufacturer's statement include?"
+        ],
+        "analysis": [
+            "The text outlines that the Contractor may request substitution of specified materials with equivalent materials. The request must be submitted to the Engineer and include a manufacturer's statement certifying two things: 1) Conformance to the specified performance, testing, quality, or dimensional requirements, and 2) Suitability for the use intended in the Contract work."
+        ],
+        "answer": "The process involves submitting a request to the Engineer with a manufacturer's statement certifying conformance to specified requirements and suitability for intended use.",
+        "evidence_page": "[17]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What processes are considered part of the manufacturing process under the Buy America Act?"
+        ],
+        "analysis": [
+            "The document defines the manufacturing process as smelting or any subsequent process that alters the material's physical form, shape, or chemical composition. This includes rolling, extruding, machining, bending, grinding, drilling, and the application of coatings like epoxy or galvanizing."
+        ],
+        "answer": "Smelting, rolling, extruding, machining, bending, grinding, drilling, and application of coatings.",
+        "evidence_page": "[18]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What are the consequences for a contractor if they fail to comply with the manufacturing process requirements for covered products?"
+        ],
+        "analysis": [
+            "- The document specifies that all manufacturing processes for each covered product must comply with the Buy America provision.- Non-conforming products must be replaced at no expense to the State.- Failure to comply may subject the contractor to default and debarment."
+        ],
+        "answer": "The contractor must replace non-conforming products at no expense to the State and may face default and debarment.",
+        "evidence_page": "[18]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the purpose of the Site-Specific Hazard Awareness Training?"
+        ],
+        "analysis": [
+            "Section 3 specifies that the training is to be provided in compliance with 30 CFR 46.11 for all the Engineer’s personnel before beginning operations. It is intended to cover site-specific health and safety risks, recognition and avoidance of hazards, restricted areas, and warning and evacuation signals."
+        ],
+        "answer": "To cover site-specific health and safety risks, recognition and avoidance of hazards, restricted areas, and warning and evacuation signals.",
+        "evidence_page": "[19]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What are the requirements for material procurement, and how do they relate to the contractor's obligations in terms of cost?"
+        ],
+        "analysis": [
+            "The text specifies that the contractor must produce a sufficient quantity of materials meeting the specifications (point b) and may need to procure material from various sources if not all required material is available from one source (point i). The costs to explore and develop material sources, including production efforts, are subsidiary to the cost of providing the specified material (point g). This means the contractor is responsible for these costs as part of their obligation to meet the material specifications."
+        ],
+        "answer": "The contractor must procure sufficient materials meeting specifications, potentially from multiple sources, and bear the costs of exploration and development as part of the material provision.",
+        "evidence_page": "[19]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What must the Contractor certify in writing to the Engineer before disturbing the ground in the material source?"
+        ],
+        "analysis": [
+            "Section 4a(6) specifies that the Contractor must certify in writing to the Engineer that all permits and clearances relating to the use of the material source have been obtained prior to any clearing or ground disturbance."
+        ],
+        "answer": "Certify that all permits and clearances have been obtained.",
+        "evidence_page": "[20]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What are the responsibilities of the Contractor when using Contractor-Furnished sources that are not commercial plants?"
+        ],
+        "analysis": [
+            "1. **Rights and Permits**: The Contractor must acquire the necessary rights and permits to take materials from sources not under the Department's control. 2. **Subsidiary Costs**: The Contractor must pay all related costs to obtain, develop, and use the sources, including: - Permit and mineral royalties. - Costs identified in the Material Sales Agreement for state-owned sources not included in the contract. - Costs identified in the Material Sales Agreement for state-owned sources included in the contract. 3. **Quality and Quantity**: The Contractor is solely responsible for the quality and quantity of materials. 4. **Plan Approvals**: The Contractor must obtain all necessary rights, permits, and plan approvals before clearing or disturbing the ground in the material source. Certification in writing to the Engineer is required to confirm that all permits and clearances have been obtained."
+        ],
+        "answer": "The Contractor must acquire rights and permits, pay all related costs, ensure material quality and quantity, and obtain necessary approvals before using non-commercial Contractor-Furnished sources.",
+        "evidence_page": "[20]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the contractor's responsibility when using a Mandatory Source?"
+        ],
+        "analysis": [
+            "The document states that the contractor must expect variations in quality and quantity within a Mandatory Source and include that contingency in the unit bid price for the material. No equitable adjustment will be paid for variations encountered within the source."
+        ],
+        "answer": "The contractor must expect variations in quality and quantity and include that contingency in the unit bid price; no equitable adjustment will be paid for variations.",
+        "evidence_page": "[21]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What are the requirements for a Mining and Reclamation Plan (MRP)?"
+        ],
+        "analysis": [
+            "- The document specifies that before disturbing a material source, the contractor must acquire approval for a Mining and Reclamation Plan (MRP) or receive an exemption. - The MRP must include: 1. Plan and cross-sectional views of the site. 2. Applicable boundaries or property lines. 3. Areas and depths to be developed. 4. Locations of access roads, stripping, sorting, and unsuitable material piles, crushing and plant sites, stockpile sites, drainage features, erosion and pollution control features. 5. Condition the contractor will leave the site after materials extraction is completed, including reseeding."
+        ],
+        "answer": "The MRP must include site plans, boundaries, development areas, locations of various features, and post-extraction site conditions.",
+        "evidence_page": "[22]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the Acceptable Quality Level (AQL)"
+        ],
+        "analysis": [
+            "In section 3, under Quality Level Analysis (QLA), the document mentions that the Acceptable Quality Level (AQL) is 90 percent."
+        ],
+        "answer": "90 percent.",
+        "evidence_page": "[23]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What must the Contractor do at least 30 days before beginning work on any item requiring inspection?"
+        ],
+        "analysis": [
+            "The document specifies that the Contractor must notify the Department of the production and fabrication schedule at least 30 days before beginning work on any item requiring inspection."
+        ],
+        "answer": "Notify the Department of the production and fabrication schedule.",
+        "evidence_page": "[24]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "If the Percent Within Limits (PWL) is calculated to be 45, what will be the pay factor (PF)?"
+        ],
+        "analysis": [
+            "1. **Understanding PWL and PF Relationship**: - The pay factor (PF) is calculated using the formula: PF = 0.55 + \frac{PWL}{200} - It is specified that if PWL is less than 50, the pay factor (PF) is zero. 2. **Given PWL**: - PWL = 45 3. **Applying the Condition**: - Since PWL is 45, which is less than 50, the condition states that PF should be zero."
+        ],
+        "answer": "The pay factor (PF) is zero.",
+        "evidence_page": "[24]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is required from the Contractor before storing material on private property?"
+        ],
+        "analysis": [
+            "The document specifies under section 106-1.06 that the Contractor must obtain the landowner's or lessee's written permission before storing material on private property and furnish copies of the permission to the Engineer, if requested."
+        ],
+        "answer": "Obtain the landowner's or lessee's written permission and furnish copies to the Engineer if requested.",
+        "evidence_page": "[25]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the conditions under which a contractor can request an extension of contract time?"
+        ],
+        "analysis": [
+            "The document states that the contractor is responsible for timely submittals. It mentions that if the Department fails to review submittals within 30 days or as otherwise provided in the applicable subsection, this may be the basis for a request for extension of contract time. However, it specifies that this does not allow for additional compensation."
+        ],
+        "answer": "A contractor can request an extension of contract time if the Department fails to review submittals within 30 days or as otherwise provided, but this does not allow for additional compensation.",
+        "evidence_page": "[26]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the contractor's responsibilities before using a new area or project site?"
+        ],
+        "analysis": [
+            "The document outlines that before using an area not previously permitted, the contractor must contact all relevant government agencies, obtain all required permits, obtain permission from property owners, and provide specific information to the Engineer."
+        ],
+        "answer": "Contact agencies, obtain permits, get property owner permission, and provide information to the Engineer.",
+        "evidence_page": "[28]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What steps must a contractor take before using a new project site not previously permitted?"
+        ],
+        "analysis": [
+            "1. **Contact Government Agencies**: The contractor must reach out to all government agencies that may have permit authority over the area. 2. **Obtain Permits and Clearances**: The contractor needs to secure all necessary permits, clearances, and licenses from these agencies. 3. **Permission from Property Owners**: The contractor must get permission from any property owners or lessees with an interest in the property. 4. **Provide Information to the Engineer**: - **Permits and Clearances**: Submit all necessary permits or clearances. - **Written Statement**: Provide a statement confirming all necessary permits or clearances have been obtained. - **Evidence of Contact**: Show written evidence of contacting relevant agencies, including agency names, staff contacted, dates, and results. - **Stabilization Plan**: Provide a plan for how the site will be stabilized and protected. The Engineer can reject the site if these requirements are not met."
+        ],
+        "answer": "The contractor must contact government agencies, obtain necessary permits, get permission from property owners, and provide detailed information to the Engineer, including permits, a written statement, evidence of agency contact, and a stabilization plan.",
+        "evidence_page": "[28]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What must the Contractor do before beginning work?"
+        ],
+        "analysis": [
+            "The document states that before beginning work, the Contractor shall file a Notice of Work with DOLWD and pay all required fees."
+        ],
+        "answer": "File a Notice of Work with DOLWD and pay all required fees.",
+        "evidence_page": "[29]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What are the requirements for the Contractor if they wish to use explosives on the project?"
+        ],
+        "analysis": [
+            "1. The document specifies that the Contractor must obey all laws, regulations, and permits related to using explosives. 2. The Contractor must take utmost care not to endanger life, property, or new/existing construction. 3. Notice must be provided to property owners, the traveling public, and utility companies in the vicinity before using explosives. 4. The Contractor must notify police and fire authorities when required. 5. The Contractor is liable for all property damage, injury, or death resulting from the use of explosives. 6. The Contractor must indemnify and hold harmless the State of Alaska from claims related to explosives."
+        ],
+        "answer": [
+            "The Contractor must follow laws and regulations, notify relevant parties, ensure safety, and indemnify the State of Alaska."
+        ],
+        "evidence_page": "[30]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What actions must the Contractor take if hazardous materials are discovered during construction?"
+        ],
+        "analysis": [
+            "1. **Identify the relevant section**: The document addresses hazardous materials in section 6. 2. **List the required actions**: - **Report**: The Contractor must report any known or suspected hazardous material discovered, exposed, or released into the air, ground, or water to the Engineer. - **Containment and Cleanup**: The Contractor must report any containment, cleanup, or restoration activities initiated or performed as a result of such release or discovery. - **Handling and Disposal**: Hazardous materials must be handled and disposed of by properly trained and licensed personnel who follow an approved Hazardous Material Control Plan."
+        ],
+        "answer": "The Contractor must report the discovery to the Engineer, report any containment or cleanup activities, and ensure handling and disposal by trained personnel following an approved plan.",
+        "evidence_page": "[31]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the contractor required to do with solid waste?"
+        ],
+        "analysis": [
+            "The document specifies under point 8, Solid waste, that the contractor must remove all debris, trash, and other solid waste from the project site as soon as possible and in accordance with the Alaska Department of Environmental Conservation Solid Waste Program."
+        ],
+        "answer": "Remove all debris, trash, and other solid waste from the project site as soon as possible in accordance with the Alaska Department of Environmental Conservation Solid Waste Program.",
+        "evidence_page": "[32]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What responsibilities does the contractor have regarding damage prevention and repair, and how does this relate to the Department's responsibilities?"
+        ],
+        "analysis": [
+            "Section 107-1.15 states that the contractor is responsible for implementing all preventative measures necessary to protect, prevent damage, and repair damage to the work from all causes at no additional cost to the Department. The Department is only responsible for loss or damage due to unforeseeable causes beyond the contractor's control, such as Acts of God or public enemy actions."
+        ],
+        "answer": "The contractor is responsible for preventing and repairing damage from all causes, while the Department is only responsible for unforeseeable causes beyond the contractor's control.",
+        "evidence_page": "[33]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provision.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is required from the Contractor before final acceptance?"
+        ],
+        "analysis": [
+            "The document specifies that the Contractor must execute and furnish an affidavit to the Department. This affidavit certifies that the Contractor has complied with the section mentioned before final acceptance."
+        ],
+        "answer": "The Contractor must execute and furnish an affidavit certifying compliance before final acceptance.",
+        "evidence_page": "[34]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provisions.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the requirements for the Contractor when proposing Value Engineering Change Proposals (VECPs) according to the document?"
+        ],
+        "analysis": [
+            "The document outlines the requirements for submitting VECPs in Section 104-1.06 on page 2. The Contractor must submit a written proposal including a statement of submission under Subsection 104-1.06, a description of differences between existing and proposed changes, drawings or specifications, a detailed cost estimate, a summary of development costs, a description of added costs, and a decision date for cost savings. Page 1 provides context on the Contractor's responsibilities, such as notifying the Engineer of differing site conditions, which is relevant to understanding the procedural context of VECPs."
+        ],
+        "answer": [
+            "Written proposal with statement, description of changes, drawings/specifications, cost estimate, development costs summary, added costs description, decision date."
+        ],
+        "evidence_page": "[1, 2]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provisions.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What are the conditions under which the Contractor can use materials found on the work site, and how does this relate to the submission of Value Engineering Change Proposals (VECPs)?"
+        ],
+        "analysis": [
+            "Page 1 outlines the conditions for using materials found on the work site, specifically under section 104-1.04. The Contractor can use Useable Excavation for constructing selected material layers, but must replace it with borrow at their own expense if used for other purposes. Page 2 discusses VECPs under section 104-1.06, which encourages the Contractor to propose changes that could lead to cost savings. The relationship between these sections is that using materials found on-site could be part of a VECP if it results in cost savings without impairing project quality. The Contractor must submit a detailed proposal including cost estimates and potential savings."
+        ],
+        "answer": [
+            "Materials can be used if replaced at Contractor's expense; related to VECPs if cost-saving."
+        ],
+        "evidence_page": "[1, 2]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provisions.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How does the process of submitting a Value Engineering Change Proposal (VECP) relate to the conditions under which a Contractor must notify the Engineer about differing site conditions?"
+        ],
+        "analysis": [
+            "Page 1 outlines the procedure for a Contractor to notify the Engineer about differing site conditions, which includes providing written notice and detailed records. Page 2 describes the process for submitting a VECP, which also requires detailed written proposals and cost estimates. Both processes emphasize the importance of documentation and communication with the Engineer to address changes or conditions that affect the contract."
+        ],
+        "answer": [
+            "Both processes require detailed written documentation and communication with the Engineer."
+        ],
+        "evidence_page": "[1, 2]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provisions.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the conditions under which the Engineer will issue a Change Order with an equitable adjustment for utility damages?"
+        ],
+        "analysis": [
+            "The conditions under which the Engineer will issue a Change Order with an equitable adjustment for utility damages are detailed on pages 9 and 10. Page 9 outlines that no equitable adjustment will be paid if the Contractor fails to obtain field locates or if the utility was field located inaccurately. Page 10 specifies that an equitable adjustment will be issued if the field locate by the owner or operator errs by more than 24 horizontal inches for utilities buried 10 feet deep or less, or 30 inches for deeper utilities. Additionally, if the utility was not shown on the Plans or other documents, or if the Contractor made a written request for a field locate and the utility owner did not locate the utility, an adjustment will be made."
+        ],
+        "answer": [
+            "Field locate errors, utility not shown on Plans, or unfulfilled field locate requests."
+        ],
+        "evidence_page": "[9, 10]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provisions.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "Under what conditions will the Engineer issue a Change Order with an equitable adjustment for utility work, and how does this relate to the pay factor determination?"
+        ],
+        "analysis": [
+            "The Engineer will issue a Change Order with an equitable adjustment for utility work if the utility was not shown on the Plans or other Contract documents, and the Contractor could not reasonably have been expected to be aware of the utility’s existence (p10). This relates to the pay factor determination (p23) as both involve adjustments based on unforeseen conditions or compliance with specifications. The pay factor (PF) is adjusted based on the Percent Within Limits (PWL), which reflects compliance with material specifications. Both processes involve adjustments to ensure fairness and compliance with contract terms."
+        ],
+        "answer": [
+            "Change Order issued if utility not shown on Plans; relates to PWL adjustments."
+        ],
+        "evidence_page": "[9, 10]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provisions.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How does the requirement for utility coordination in Section 105 relate to the plant inspection process in Section 106?"
+        ],
+        "analysis": [
+            "Section 105 discusses the coordination between contractors and utility owners, emphasizing the need for proper scheduling and cooperation to avoid project delays (p9, p10). This coordination is crucial for ensuring that utility work does not interfere with other project activities, such as plant inspections. Section 106 outlines the plant inspection process, which requires notifying the Department of production schedules and cooperating with inspectors (p23). Effective coordination as described in Section 105 ensures that plant inspections can be scheduled without conflicts, thereby maintaining project timelines."
+        ],
+        "answer": [
+            "Utility coordination ensures plant inspections are scheduled without conflicts."
+        ],
+        "evidence_page": "[9, 10]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provisions.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the responsibilities of the Contractor regarding permits and compliance with environmental regulations?"
+        ],
+        "analysis": [
+            "The Contractor is responsible for obtaining all necessary permits and clearances for the use of project sites as specified on page 47. Additionally, the Contractor must comply with environmental regulations, including the Alaska Pollutant Discharge Elimination System (APDES) for stormwater management, as mentioned on page 47. The Contractor must also ensure compliance with solid waste management regulations as outlined on page 49."
+        ],
+        "answer": [
+            "Obtain necessary permits, comply with APDES, and manage solid waste."
+        ],
+        "evidence_page": "[29 ,31]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provisions.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What are the responsibilities of the Contractor regarding permits and inspections for offsite disposal and plant operations?"
+        ],
+        "analysis": [
+            "Page 29 outlines the Contractor's responsibilities for obtaining permits and clearances for using offsite areas, including contacting government agencies and obtaining necessary permissions. Page 23 specifies the Contractor's duties regarding plant inspections, including notifying the Department about production schedules and cooperating during inspections."
+        ],
+        "answer": [
+            "The Contractor must obtain all necessary permits and clearances for offsite disposal and notify the Department about plant production schedules, ensuring cooperation during inspections."
+        ],
+        "evidence_page": "[29, 31]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provisions.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How does the requirement for certificates of compliance in Section 106 relate to the responsibilities for permits and clearances in Section 107?"
+        ],
+        "analysis": [
+            "Section 106-1.05 on page 23 outlines the requirement for certificates of compliance, which must include documentation that materials or assemblies fully comply with contract requirements. This is related to Section 107-1.02 on page 29, which requires the contractor to obtain all necessary permits and clearances, providing evidence to the Engineer. Both sections emphasize the importance of documentation and compliance with legal and contractual obligations."
+        ],
+        "answer": [
+            "Both sections require documentation to demonstrate compliance with contractual and legal obligations."
+        ],
+        "evidence_page": "[23, 29]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provisions.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What responsibilities does the contractor have regarding material sources and work protection?"
+        ],
+        "analysis": [
+            "Page 19 outlines the contractor's responsibilities for obtaining and managing material sources, including acquiring rights and permits and being responsible for the quality and quantity of materials. Page 32 details the contractor's responsibility for implementing preventative measures to protect and repair work from damage at no additional cost to the Department."
+        ],
+        "answer": [
+            "The contractor must acquire rights and permits for material sources and ensure material quality and quantity. They must also protect and repair work from damage at no cost to the Department."
+        ],
+        "evidence_page": "[19, 32]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provisions.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What responsibilities does the contractor have regarding material sources and work protection, and how do these responsibilities interrelate?"
+        ],
+        "analysis": [
+            "On page 19, the contractor is responsible for obtaining necessary rights and permits for material sources, ensuring quality and quantity, and bearing costs related to material acquisition. Page 32 outlines the contractor's responsibility to protect and repair work from all causes at no additional cost to the Department. These responsibilities interrelate as the contractor must ensure both the quality of materials and the protection of work, indicating a comprehensive duty to manage resources and safeguard project integrity."
+        ],
+        "answer": [
+            "The contractor must manage material sources and protect work, ensuring quality and preventing damage."
+        ],
+        "evidence_page": "[19, 32]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provisions.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How does the responsibility of the contractor for work relate to the acquisition of material sources?"
+        ],
+        "analysis": [
+            "Page 19 outlines the contractor's obligations regarding the acquisition of material sources, including obtaining necessary rights and permits and being responsible for the quality and quantity of materials. Page 32 discusses the contractor's responsibility for work, which includes implementing measures to prevent damage and repair losses. The contractor's responsibility for ensuring the quality and quantity of materials directly impacts their ability to fulfill their obligations to protect and maintain the work as described on page 32."
+        ],
+        "answer": [
+            "The contractor's responsibility for acquiring quality materials affects their ability to prevent and repair damage to the work."
+        ],
+        "evidence_page": "[19, 32]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provisions.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the requirements for the Contractor regarding the submission of material origin certificates and compliance with the Buy America provision?"
+        ],
+        "analysis": [
+            "The Contractor must submit a completed Material Origin Certificate (Form 25D-60) prior to the award of the contract, as stated on page 36. Additionally, if there is a change in the material origin, an updated certificate must be submitted (p36). The Buy America provision requires that all manufacturing processes for steel and iron products be conducted in the United States, and this is detailed on pages 36 and 37. The Contractor must ensure compliance with these requirements to avoid penalties."
+        ],
+        "answer": "Submit Material Origin Certificate (Form 25D-60) before contract award; comply with Buy America provision.",
+        "evidence_page": "[36, 37]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provisions.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What are the conditions under which the Contractor may substitute materials, and what are the potential consequences if the substitute materials do not meet specifications?"
+        ],
+        "analysis": [
+            "According to page 16, the Contractor may request substitution of specified materials with equivalent materials by submitting a manufacturer's statement certifying conformance to specified requirements. If approved, a Change Order will be executed. Page 18 indicates that if substitute materials do not meet specifications, they may be rejected and ordered removed, and the Contractor may need to procure materials from other sources, which could affect the unit bid price."
+        ],
+        "answer": "Substitution requires a manufacturer's certification and approval via a Change Order. Non-conforming substitutes may be rejected, affecting costs.",
+        "evidence_page": "[16, 17]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 1.0 General provisions.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How does the requirement for material certification in Section 106 relate to the decision process for claims in Section 105?"
+        ],
+        "analysis": [
+            "Section 106 requires the Contractor to submit a certificate of compliance for each item listed on the Material Certification List (p16). This certification ensures that materials meet the specified requirements. Section 105 outlines the process for handling claims, including the need for the Contractor to provide additional information before a decision is made (p15). If materials do not meet the specified requirements, as verified by the certification process in Section 106, this could lead to claims being filed under Section 105, where the Contractor may need to provide evidence of compliance or face penalties."
+        ],
+        "answer": "Material certification in Section 106 ensures compliance, impacting claims in Section 105.",
+        "evidence_page": "[15, 16]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provisions.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the responsibilities of the Engineer regarding the acceptance and rejection of VECPs and working drawings?"
+        ],
+        "analysis": [
+            "The Engineer is responsible for accepting or rejecting the VECP in writing by a specified date, as mentioned on page 4. Additionally, the Engineer has the authority to approve or reject working drawings, ensuring they conform to the Plans and Specifications, as detailed on page 5."
+        ],
+        "answer": "The Engineer accepts or rejects VECPs in writing and approves or rejects working drawings.",
+        "evidence_page": "[4, 5]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provisions.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What are the conditions under which the Engineer can reject a VECP and how does this relate to the Contractor's responsibility for working drawings?"
+        ],
+        "analysis": [
+            "The Engineer can reject a VECP if the Contractor allows insufficient time for review (p4). The Contractor must submit working drawings for approval, and any deviations must be clearly indicated (p5). If the Contractor fails to comply with these requirements, the Engineer may reject the VECP due to inadequate documentation or deviations not being properly addressed (p6)."
+        ],
+        "answer": "The Engineer can reject a VECP if insufficient review time is allowed or if working drawings are not properly submitted and deviations are not addressed.",
+        "evidence_page": "[4, 6]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provisions.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the contractor's responsibilities regarding differing site conditions and submittals?"
+        ],
+        "analysis": [
+            "Page 1 outlines the contractor's responsibilities when differing site conditions are discovered, requiring immediate notification to the Engineer and detailed records. Page 25 discusses the contractor's responsibility for timely submittals, including providing material invoices and certificates with specific information for the Engineer."
+        ],
+        "answer": "Notify Engineer of differing site conditions, maintain records; ensure timely submittals with detailed information.",
+        "evidence_page": "[1, 25]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provisions.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "How does the process of handling differing site conditions relate to the requirements for submittals and approvals?"
+        ],
+        "analysis": [
+            "Page 1 outlines the procedure for differing site conditions, requiring the contractor to notify the Engineer and potentially adjust the contract through a Change Order if conditions differ materially. Page 25 discusses the requirement for timely submittals and approvals, which are necessary for contract items to be paid. The connection is that both processes involve formal communication and approval from the Engineer to adjust the contract terms or proceed with payments, ensuring that any changes or conditions are documented and approved to maintain contract integrity."
+        ],
+        "answer": "Both require formal communication and approval from the Engineer.",
+        "evidence_page": "[1, 25]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 1.0 General provisions.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the requirements for submitting a claim for additional compensation or time?"
+        ],
+        "analysis": [
+            "The requirements for submitting a claim are detailed on page 14, where it states that the Contractor must submit a written claim to the Contracting Officer within 90 days after becoming aware of the basis of the claim. The claim must include specific details such as the act or condition giving rise to the claim, applicable contract provisions, affected contract work items, specific relief requested, revised progress schedules, and a certification of accuracy. Page 6 provides context on the importance of adhering to plans and specifications, which is relevant to understanding the basis for claims."
+        ],
+        "answer": "Submit a written claim within 90 days, including act, contract provisions, affected items, relief requested, revised schedules, and certification.",
+        "evidence_page": "[6, 14]",
+        "evidence_sources": "[pure_text]"
+    }
+]

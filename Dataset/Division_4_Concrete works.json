@@ -1,0 +1,950 @@
+[
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the maximum allowable percentage of deleterious material in coarse aggregate for reinforced cement concrete?"
+        ],
+        "analysis": [
+            "The document specifies under section 4.1.1.2 that coarse aggregate for reinforced cement concrete shall not contain more than five percent of deleterious material by weight."
+        ],
+        "answer": [
+            "5%"
+        ],
+        "evidence_page": "[1]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What standard should brick aggregate conform to unless otherwise specified?"
+        ],
+        "analysis": [
+            "Section 4.1.1.1(c) indicates that brick aggregate should conform to IS 306 unless otherwise specified."
+        ],
+        "answer": [
+            "IS 306"
+        ],
+        "evidence_page": "[1]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "How to define the nominal sizes for graded stone aggregate or gravel, and what reference should be referred to for the proportion of sizes?"
+        ],
+        "analysis": [
+            "The text defines nominal sizes for graded stone aggregate or gravel as 40, 20, 16, or 12.5 mm. It states that the proportion of these sizes should be determined by the method prescribed in Appendix 'A' of Chapter 4 and in accordance with Table 4.1."
+        ],
+        "answer": [
+            "Nominal sizes are 40, 20, 16, or 12.5 mm, with proportions determined by Appendix 'A; and Table 4.1."
+        ],
+        "evidence_page": "[1]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the percentage passing by weight for a 40 mm nominal size of graded stone aggregate or gravel through a 20 mm sieve?"
+        ],
+        "analysis": [
+            "In Table 4.1, under the column for 20 nominal size, the row for 40 sieve designation shows a percentage passing by weight of 95 to 100."
+        ],
+        "answer": [
+            "95 to 100"
+        ],
+        "evidence_page": "[2]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the percentage passing by weight for a 16 mm nominal size of graded stone aggregate or gravel through a 12.5 mm sieve?"
+        ],
+        "analysis": [
+            "Table 4.1 shows the percentage passing by weight for various nominal sizes. For a 16 nominal size, the row for 12.5 sieve designation indicates a percentage passing of 90 to 100."
+        ],
+        "answer": [
+            "90 to 100"
+        ],
+        "evidence_page": "[2]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If a concrete mix requires a nominal size of graded aggregate of 40 mm, how many parts of 20 mm and 10 mm single-sized stone aggregate are needed?"
+        ],
+        "analysis": [
+            "1. **Identify the Required Nominal Size:** - The nominal size of graded aggregate required is 40 mm. 2. **Locate the Relevant Row in Table 4.3:** - For a nominal size of 40 mm, the row specifies the parts of different single-sized aggregates needed. 3. **Extract the Parts for 20 mm and 10 mm Aggregates:** - According to Table 4.3, for a 40 mm nominal size: - 20 mm aggregate: 9 parts - 10 mm aggregate: 3 parts"
+        ],
+        "answer": [
+            "9 parts of 20 mm and 3 parts of 10 mm single-sized stone aggregate are needed."
+        ],
+        "evidence_page": "[2]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the percentage passing range for a 16 mm nominal size aggregate using a 10 mm sieve, and how does this compare with the requirements in Table 4.2 for the same sieve size?"
+        ],
+        "analysis": [
+            "Table 4.1 shows that for a 16 mm nominal size, the percentage passing through a 10 mm sieve is 30 to 70. Table 4.2 indicates that for a 16 mm nominal size, the percentage passing through a 10 mm sieve is 0 to 30. The range in Table 4.1 is broader and higher than that in Table 4.2."
+        ],
+        "answer": [
+            "Table 4.1: 30 to 70; Table 4.2: 0 to 30."
+        ],
+        "evidence_page": "[2]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the nominal size of brick aggregate specified in the document?"
+        ],
+        "analysis": [
+            "The document specifies under section 4.1.1.4 (ii) Brick Aggregate that the nominal size of brick aggregate shall be 40 mm."
+        ],
+        "answer": [
+            "40mm"
+        ],
+        "evidence_page": "[3]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What percentage of brick aggregate passes through a 75 mm sieve?"
+        ],
+        "analysis": [
+            "Table 4.4 titled Brick Aggregate shows that 100% of the brick aggregate passes through a 75 mm sieve."
+        ],
+        "answer": [
+            "100%"
+        ],
+        "evidence_page": "[3]",
+        "evidence_sources": "[table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the percentage passing for brick aggregate through a 20 mm sieve, and how does it compare to the percentage passing through a 4.75 mm sieve?"
+        ],
+        "analysis": [
+            "- The table titled 4.4 Brick Aggregate provides the percentage passing for different sieve sizes. - For the 20 mm sieve, the percentage passing is given as 45-100. - For the 4.75 mm sieve, the percentage passing is 0.50.- To compare, the percentage passing through the 20 mm sieve is significantly higher than that through the 4.75 mm sieve."
+        ],
+        "answer": [
+            "The percentage passing for the 20 mm sieve is 45-100, which is much higher than the 0.50% passing through the 4.75 mm sieve."
+        ],
+        "evidence_page": "[3]",
+        "evidence_sources": "[table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the nominal size of brick aggregate and how does it relate to the sieve analysis?"
+        ],
+        "analysis": [
+            "The text specifies that the nominal size of brick aggregate shall be 40 mm. Table 4.4 provides the percentage passing by weight for different sieve sizes, including 37.5 mm, which is close to the nominal size. For 37.5 mm, the percentage passing is 95-100%, indicating that most of the aggregate should pass through this sieve size."
+        ],
+        "answer": [
+            "The nominal size of brick aggregate is 40 mm, and it should mostly pass through the 37.5 mm sieve with 95-100% passing."
+        ],
+        "evidence_page": "[3]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What are the classes of admixtures mentioned for use in concrete?"
+        ],
+        "analysis": [
+            "The document lists the following classes under section 4.1.2.1 for use in concrete: (a) Water Reducing Admixtures, (b) Retarding Admixtures, (c) Accelerating Admixtures, (d) Water Reducing and Retarding Admixtures, (e) Water Reducing and Accelerating Admixtures, (f) Permeability Reducing (water proofing) Admixtures."
+        ],
+        "answer": [
+            "Water Reducing, Retarding, Accelerating, Water Reducing and Retarding, Water Reducing and Accelerating, Permeability Reducing Admixtures."
+        ],
+        "evidence_page": "[4]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What steps must be taken if two admixtures from different manufacturers are to be used together in concrete?"
+        ],
+        "analysis": [
+            "1. The document states that two or more admixtures may not be compatible in the same solution. 2. If admixtures are from different manufacturers, tests must be performed by the manufacturer to establish compatibility. 3. All test reports must be furnished to the Engineer-in-Charge for approval before use in concrete."
+        ],
+        "answer": [
+            "Tests must be performed to establish compatibility, and reports must be approved by the Engineer-in-Charge."
+        ],
+        "evidence_page": "[4]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What are the different classes of admixtures listed in the text, and how do they relate to the liquid admixtures categories?"
+        ],
+        "analysis": [
+            "The text in section 4.1.2.1 lists the classes of admixtures as: - Water Reducing Admixtures - Retarding Admixtures - Accelerating Admixtures- Water Reducing and Retarding Admixtures - Water Reducing and Accelerating Admixtures - Permeability Reducing (water proofing) Admixtures Section 4.1.2.2 specifies liquid admixtures categories as: - Air Entraining - Water Reducing - Water Reducing Retarders - Retarders - Water Reducing Accelerators - Accelerators. Both sections mention similar types of admixtures, such as Water Reducing, Retarders, and Accelerators, indicating that these can be found in both general and liquid forms."
+        ],
+        "answer": [
+            "The classes of admixtures include Water Reducing, Retarding, and Accelerating, which are also found in the liquid admixtures categories, showing that these types can be used in both forms."
+        ],
+        "evidence_page": "[4]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the specified characteristic compressive strength for M30 grade concrete?"
+        ],
+        "analysis": [
+            "In Table 4.5 titled Grades of Concrete, the row for grade designation M30 lists the specified characteristic compressive strength as 30 N/mm2."
+        ],
+        "answer": "30 N/mm2",
+        "evidence_page": "[5]",
+        "evidence_sources": "[table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the minimum grade of concrete required for reinforced concrete in a very severe exposure condition?"
+        ],
+        "analysis": [
+            "1. **Identify the Exposure Condition**: The condition specified is very severe. 2. **Locate the Relevant Table**: Refer to Table 4.6 for information on reinforced concrete. 3. **Find the Minimum Grade for Very Severe Exposure**: - Under the Reinforced Concrete section, the Very Severe exposure condition is listed. - The minimum grade of concrete required is M35."
+        ],
+        "answer": "M35",
+        "evidence_page": "[5]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the minimum grade of concrete required for severe exposure conditions for both plain and reinforced concrete?"
+        ],
+        "analysis": [
+            "Table 4.6 lists the minimum grade of concrete for severe exposure as M20 for plain concrete and M30 for reinforced concrete. This is consistent with the grades specified in Table 4.5, where M20 and M30 are categorized under standard concrete grades."
+        ],
+        "answer": "M20 for plain concrete and M30 for reinforced concrete.",
+        "evidence_page": "[5]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the degree of workability and slump range for mass concrete in lightly reinforced sections?"
+        ],
+        "analysis": [
+            "The table under section 4.2.2 shows that for mass concrete in lightly reinforced sections in slabs, beams, walls, columns, and floors, the degree of workability is Low with a slump range of 25-75 mm."
+        ],
+        "answer": "Low; 25-75 mm.",
+        "evidence_page": "[6]",
+        "evidence_sources": "[table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What measurement method is suggested for very low workability where strict control is necessary?"
+        ],
+        "analysis": [
+            "1. Section 4.2.2.2 addresses very low workability. 2. It suggests that the determination of the compacting factor is more appropriate than slump measurement. 3. A compacting factor value of 0.75 to 0.80 is recommended."
+        ],
+        "answer": "Determination of compacting factor (0.75 to 0.80).",
+        "evidence_page": "[6]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the recommended slump range for mass concrete, and how does it relate to the degree of workability?"
+        ],
+        "analysis": [
+            "The table lists mass concrete under Lightly reinforced sections in slabs, beams, wall, columns, floors with a degree of workability labeled as Low. The corresponding slump range for this category is 25-75 mm."
+        ],
+        "answer": "The recommended slump range for mass concrete is 25-75 mm, which corresponds to a low degree of workability.",
+        "evidence_page": "[6]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the maximum quantity of water allowed per 50 kg of cement for M15 grade concrete?"
+        ],
+        "analysis": [
+            "The table titled Proportions for Nominal Mix Concrete under Clause 4.2.3.2 lists the maximum quantity of water per 50 kg of cement for different grades of concrete. For M15 grade concrete, the maximum quantity of water is specified as 32 liters."
+        ],
+        "answer": "32 liters.",
+        "evidence_page": "[7]",
+        "evidence_sources": "[table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the maximum quantity of water allowed per 50 kg of cement for M10 grade concrete?"
+        ],
+        "analysis": [
+            "- The table specifies the Quantity of Water per 50 kg of Cement, max Ltr for different grades of concrete. - For M10 grade concrete, the maximum quantity of water is listed as 34 liters."
+        ],
+        "answer": "34 liters.",
+        "evidence_page": "[7]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the proportion of fine to coarse aggregate by mass for M10 grade concrete?"
+        ],
+        "analysis": [
+            "The text in section 4.2.3.2 states that nominal mix concrete proportions should follow Table 4.7. For M10 grade concrete, Table 4.7 specifies the proportion of fine to coarse aggregate by mass as having an upper limit of 1:1 ½ and a lower limit of 1:3."
+        ],
+        "answer": "The proportion of fine to coarse aggregate by mass for M10 grade concrete is between 1:1 ½ and 1:3.",
+        "evidence_page": "[7]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the allowable variation in the measurement of aggregate quantity, and how does it relate to the requirements for surface water content in aggregates?"
+        ],
+        "analysis": [
+            "Section 4.2.4.2 states that the accuracy of measuring equipment should be within ±3 percent of the quantity of aggregate. Table 4.8 provides the approximate quantity of surface water carried by different aggregates, which affects the mass of aggregates. Accurate measurement is crucial to ensure the correct water-cement ratio, as indicated in Section 4.2.4.5."
+        ],
+        "answer": "The allowable variation in the measurement of aggregate quantity is ±3 percent, which is important for maintaining the correct water-cement ratio by accounting for surface water content in aggregates.",
+        "evidence_page": "[8]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the minimum inside width of the hopper feeding edge for a 375-litre non-tilting mixer?"
+        ],
+        "analysis": [
+            "1. **Identify the Mixer Type and Size**: - The mixer size is 375 litres.- The type is non-tilting (NT). 2. **Refer to Table 4.9**: - The table lists the minimum inside width of the hopper feeding edge for different mixer sizes and types. 3. **Locate the Relevant Information**: - For a 375-litre mixer, the minimum inside width is specified as 1.4 meters."
+        ],
+        "answer": "1.4 meters.",
+        "evidence_page": "[9]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the maximum allowable percentage variation for fine aggregate in a freshly mixed batch of concrete, and how does it compare to the allowable variation for coarse aggregate?"
+        ],
+        "analysis": [
+            "1. **Identify the Section**: The relevant information is found in section 4.2.5.2, which discusses mixing efficiency and the uniformity of mixed concrete. 2. **Extract Fine Aggregate Variation**: The document specifies that the percentage variation for fine aggregate should not exceed 6%. 3. **Extract Coarse Aggregate Variation**: The document specifies that the percentage variation for coarse aggregate should not exceed 5%. 4. **Comparison**: Compare the two values: - Fine aggregate: 6% - Coarse aggregate: 5% 5. **Conclusion**: The allowable variation for fine aggregate is 1% higher than that for coarse aggregate."
+        ],
+        "answer": "The maximum allowable percentage variation for fine aggregate is 6%, which is 1% higher than the allowable variation for coarse aggregate (5%).",
+        "evidence_page": "[10]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What standards must mechanical vibrators conform to for compaction?"
+        ],
+        "analysis": [
+            "Section 4.2.7 Compaction specifies that mechanical vibrators shall conform to IS 2505, IS 2506, IS 2514, and IS 4656."
+        ],
+        "answer": "IS 2505, IS 2506, IS 2514, and IS 4656.",
+        "evidence_page": "[11]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the minimum cement content required for underwater concrete, and how does it relate to the water-cement ratio specified?"
+        ],
+        "analysis": [
+            "The text in section 4.2.9.2 states that for underwater concrete, the cement content shall be at least 350 kg/m3. It also mentions that the water-cement ratio shall not exceed 0.6 and may need to be smaller depending on the grade of concrete or type of chemical attack. This ensures a dense and durable mix suitable for underwater conditions."
+        ],
+        "answer": "The minimum cement content required is 350 kg/m3, and the water-cement ratio must not exceed 0.6.",
+        "evidence_page": "[12]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If masonry work is to begin 48 hours after the foundation concrete is compacted, how long must the curing of the base concrete continue if the top layer of flooring is also being applied?"
+        ],
+        "analysis": [
+            "- According to section 4.2.10.4, masonry work can start 48 hours after the foundation concrete is compacted. - The curing of the base concrete must continue along with the top layer of flooring for a minimum period of 7 days."
+        ],
+        "answer": "The curing of the base concrete must continue for a minimum of 7 days.",
+        "evidence_page": "[13]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the maximum allowable chloride content for reinforced concrete containing embedded metal?"
+        ],
+        "analysis": [
+            "The table under section 4.2.14.1.4 specifies the maximum total acid soluble chloride content for different types of concrete use. For reinforced concrete or plain concrete containing embedded metal, the maximum allowable chloride content is 0.6 kg/m3."
+        ],
+        "answer": "0.6 kg/m3.",
+        "evidence_page": "[14]",
+        "evidence_sources": "[table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the minimum cement content required for concrete exposed to sulphate attack with a concentration of SO3 in soil between 0.5% to 1.0%?"
+        ],
+        "analysis": [
+            "1. The table lists requirements for concrete exposed to sulphate attack based on the concentration of sulphates. 2. For SO₃ concentration in soil between 0.5% to 1.0%, refer to Class 3. 3. Column 7 specifies the minimum cement content for Class 3. 4. The minimum cement content for Class 3 is 330 kg/m3."
+        ],
+        "answer": "330 kg/m3.",
+        "evidence_page": "[15]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What type of cement is recommended for a sulphate concentration in soil of 1.5% and in ground water of 1.0 g/l?"
+        ],
+        "analysis": [
+            "Referring to Table 4.11, for a sulphate concentration in soil of 1.5% and in ground water of 1.0 g/l, Class 3 applies. The table specifies Supersulphated cement or sulphate resisting Portland cement for this class."
+        ],
+        "answer": "Supersulphated cement or sulphate resisting Portland cement.",
+        "evidence_page": "[15]",
+        "evidence_sources": "[table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If a slab has dimensions of 5.25 m by 3.75 m, what is the area to be recorded according to the measurement rules?"
+        ],
+        "analysis": [
+            "- The document states that areas should be measured to the nearest 0.01 sq.m. - Calculate the area: 5.25 m * 3.75 m = 19.6875 sq.m. - Round to the nearest 0.01 sq.m: 19.69 sq.m."
+        ],
+        "answer": "19.69 sq.m.",
+        "evidence_page": "[16]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How should the area of openings in Figures A to G be calculated, and what is the difference in calculation for Figures H and J?"
+        ],
+        "analysis": [
+            "-The note specifies that for Figures A to G, the area should be calculated as ( L \times B ). For Figures H and J, the area should be calculated as ( L \times { Average of } B { and } B'} )."
+        ],
+        "answer": "For Figures A to G, area = ( L * B ). For Figures H and J, area = ( L * { Average of B'} ).",
+        "evidence_page": "[16]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How should cast-in-situ concrete for a spiral staircase, including landings, be classified and measured?"
+        ],
+        "analysis": [
+            "1. The document section 4.2.15.6 lists classifications for cast-in-situ concrete. 2. Item (j) specifies Spiral staircase (including landings). 3. This indicates that spiral staircases with landings are a distinct category for measurement."
+        ],
+        "answer": "Spiral staircases, including landings, should be classified and measured as specified in item (j) under section 4.2.15.6.",
+        "evidence_page": "[17]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How should cast-in-situ concrete for a spiral staircase, including landings, be classified and measured?"
+        ],
+        "analysis": [
+            "1. The document section 4.2.15.6 lists classifications for cast-in-situ concrete. 2. Item (j) specifies Spiral staircase (including landings). 3. This indicates that spiral staircases with landings are a distinct category for measurement."
+        ],
+        "answer": "Cast-in-situ concrete work is measured separately and classified into categories like foundations, walls, and slabs. The figures A to J illustrate these components.",
+        "evidence_page": "[17]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "Is fly ash allowed to be added to Portland Pozzolana cement?"
+        ],
+        "analysis": [
+            "A note under the table states that no fly ash is to be added to Portland Pozzolana cement in any case which itself contains fly ash."
+        ],
+        "answer": "No.",
+        "evidence_page": "[18]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If you need 3 cubic meters of Lean Concrete (1:5:10), how much fly ash is required by volume?"
+        ],
+        "analysis": [
+            "- The proportion of fly ash in Lean Concrete (1:5:10) is 2.5 parts by volume. - Total parts by volume for Lean Concrete (1:5:10) = 1 (cement) + 2.5 (fly ash) + 4.0 (sand) + 11.0 (stone aggregate) = 18.5 parts.- Fly ash proportion = 2.5/18.5 of the total volume. - For 3 cubic meters, fly ash volume = (2.5/18.5) * 3 = 0.405 cubic meters."
+        ],
+        "answer": "0.405 cubic meters.",
+        "evidence_page": "[18]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the method of measurement for solid block work, and how does it relate to the fly ash concrete mixes?"
+        ],
+        "analysis": [
+            "The text under Classifications states that solid block work is measured in square meters stating the thickness or in cubic meters. The fly ash concrete mixes in Table 4.12 provide the composition for lean concrete, which could be used for solid block work. The table specifies proportions for different mixes, which would be relevant when calculating the volume of concrete needed for solid block work."
+        ],
+        "answer": "Solid block work is measured in square meters stating the thickness or in cubic meters. The fly ash concrete mixes provide the necessary composition for calculating the volume of concrete required.",
+        "evidence_page": "[18]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the maximum weight allowed for a 20 mm sieve in both 45 cm and 30 cm diameter sieves, and how does this relate to the procedure for determining particle size?"
+        ],
+        "analysis": [
+            "Table A-4.1 lists the maximum weight for a 20 mm sieve as 4 kg for a 45 cm diameter sieve and 2 kg for a 30 cm diameter sieve. The text above the table specifies that these maximum weights should not be exceeded to ensure accurate particle size determination, as per the procedure outlined in Clause 4.1.2.3 & 4.1.2.5."
+        ],
+        "answer": "4 kg for a 45 cm diameter sieve and 2 kg for a 30 cm diameter sieve.",
+        "evidence_page": "[20]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the internal diameter of the cylinder used in the apparatus for determining the ten percent fine value?"
+        ],
+        "analysis": [
+            "The diagram labeled Fig. C-4.1 specifies the internal diameter of the cylinder as 152.0 ± 0.5 mm."
+        ],
+        "answer": "152.0 ± 0.5 mm.",
+        "evidence_page": "[22]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the internal diameter of the cylinder used for determining the ten percent fine value, and how does it relate to the piston diameter?"
+        ],
+        "analysis": [
+            "The figure at the bottom of the page shows that the internal diameter of the cylinder is 152.0 ± 0.5 mm. The piston diameter is specified as 150 ± 0.5 mm. The piston diameter is slightly smaller than the internal diameter of the cylinder, allowing it to fit inside."
+        ],
+        "answer": "The internal diameter of the cylinder is 152.0 ± 0.5 mm, and it is slightly larger than the piston diameter of 150 ± 0.5 mm.",
+        "evidence_page": "[22]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the volume of the metal frustum cone used in the slump test?"
+        ],
+        "analysis": [
+            "1. The dimensions of the frustum cone are given as:- Bottom diameter = 20 cm, so radius = 10 cm.- Top diameter = 10 cm, so radius = 5 cm.- Height = 30 cm. 2. The formula for the volume ( V ) of a frustum of a cone is: [V = \frac{1}{3} pi h (r_1^2 + r_1 r_2 + r_2^2)]where ( h ) is the height, ( r_1 ) is the bottom radius, and ( r_2 ) is the top radius. 3. Substituting the given values: [V = \frac{1}{3} pi (30) (10^2 + 10 \times 5 + 5^2)] [V = \frac{1}{3} pi (30) (100 + 50 + 25)][V = \frac{1}{3} pi (30) (175)][V = \frac{1}{3} pi (5250)][V = 1750 pi , \text{cm}^3]"
+        ],
+        "answer": "( 1750 pi , cm3 ).",
+        "evidence_page": "[23]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What are the internal dimensions of the mould used in the slump test, and how do they relate to the procedure described?"
+        ],
+        "analysis": [
+            "The apparatus section specifies the mould dimensions as a frustum of a cone with a bottom diameter of 20 cm, a top diameter of 10 cm, and a height of 30 cm. The procedure involves filling the mould in four layers, each approximately one quarter of the mould's height, which corresponds to the 30 cm height specified."
+        ],
+        "answer": "Bottom diameter: 20 cm, Top diameter: 10 cm, Height: 30 cm. The procedure involves filling the mould in layers that align with these dimensions.",
+        "evidence_page": "[23]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the categories of liquid admixtures and the limits for percentage variation in mixing efficiency for cement and aggregates?"
+        ],
+        "analysis": [
+            "Page 3 lists the categories of liquid admixtures, including air entraining, water reducing, and accelerators. Page 9 specifies the limits for percentage variation in mixing efficiency, with cement at 8%, fine aggregate at 6%, and coarse aggregate at 5%."
+        ],
+        "answer": [
+            "Liquid admixtures: air entraining, water reducing, accelerators. Mixing efficiency limits: cement 8%, fine aggregate 6%, coarse aggregate 5%."
+        ],
+        "evidence_page": "[3, 9]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the maximum allowable percentage variation in the quantities of cement, fine aggregate, and coarse aggregate in a batch, and how does this relate to the testing requirements for admixtures?"
+        ],
+        "analysis": [
+            "Page 9 specifies that the percentage variation between the quantities of cement, fine aggregate, and coarse aggregate in a batch should not exceed 8%, 6%, and 5% respectively. Page 3 outlines that admixtures must be tested for compatibility and approved by the Engineer-in-Charge. The control of material variation is crucial to ensure uniformity and compatibility, which is why both the mixing efficiency and the testing of admixtures are emphasized。"
+        ],
+        "answer": [
+            "Cement: 8%, Fine aggregate: 6%, Coarse aggregate: 5%; relates to admixture testing for uniformity."
+        ],
+        "evidence_page": "[3, 9]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How is the apparatus for determining the ten percent fine value related to the mixing efficiency requirements?"
+        ],
+        "analysis": [
+            "The apparatus for determining the ten percent fine value is shown in a figure on page 21, which is used to evaluate the quality of aggregates. This is related to the mixing efficiency requirements described on page 9, where the uniformity of mixed concrete is evaluated by the percentage variation in the quantity of cement, fine aggregate, and coarse aggregate. The apparatus ensures that aggregates meet specific quality standards, which is crucial for achieving the desired mixing efficiency."
+        ],
+        "answer": [
+            "The apparatus ensures aggregate quality for mixing efficiency."
+        ],
+        "evidence_page": "[9, 21]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the nominal sizes specified for graded stone aggregate or gravel, and what is the maximum percentage variation allowed for coarse aggregate in mixing?"
+        ],
+        "analysis": [
+            "Page 0 specifies the nominal sizes for graded stone aggregate or gravel as 40, 20, 16, or 12.5 mm. Page 9 provides the maximum percentage variation allowed for coarse aggregate in mixing, which is 5%."
+        ],
+        "answer": [
+            "Nominal sizes: 40, 20, 16, 12.5 mm; Max variation: 5%"
+        ],
+        "evidence_page": "[0, 9]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the maximum allowable percentage variation in the quantity of coarse aggregate during mixing, and how does it relate to the water-cement ratio for underwater concreting?"
+        ],
+        "analysis": [
+            "Page 9 specifies that the percentage variation in the quantity of coarse aggregate during mixing should not exceed 5%. Page 11 states that for underwater concreting, the water-cement ratio should not exceed 0.6. The control of aggregate variation is crucial to maintaining the specified water-cement ratio, especially in underwater conditions where precise mixing is essential to ensure the structural integrity of the concrete."
+        ],
+        "answer": [
+            "5% variation in coarse aggregate; water-cement ratio ≤ 0.6 for underwater concreting"
+        ],
+        "evidence_page": "[3, 9]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How does the specification for coarse aggregate size and grading relate to the surface water carried by aggregates?"
+        ],
+        "analysis": [
+            "The specification for coarse aggregate size and grading is detailed on page 0, where it mentions nominal sizes such as 40, 20, 16, or 12.5 mm and refers to Table 4.1 for proportions. Page 7 provides Table 4.8, which specifies the surface water carried by different aggregates, including moist gravel or crushed rock. The interaction between these pages shows that the size and grading of aggregates directly affect the moisture content, which is crucial for maintaining the water-cement ratio as mentioned on page 7."
+        ],
+        "answer": [
+            "Aggregate size affects moisture content, impacting water-cement ratio."
+        ],
+        "evidence_page": "[0, 7]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the requirements for the power loader and mixing efficiency in concrete mixers?"
+        ],
+        "analysis": [
+            "The requirements for the power loader are detailed on page 8, which include specifications for the hopper capacity, design of the loader, and safety devices. The mixing efficiency requirements are outlined on page 9, specifying the percentage variation limits for cement, fine aggregate, and coarse aggregate."
+        ],
+        "answer": [
+            "Power loader: adequate hopper capacity, specific design angles, safety devices; Mixing efficiency: cement 8%, fine aggregate 6%, coarse aggregate 5%."
+        ],
+        "evidence_page": "[8, 9]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the recommended mixing time for concrete when using a power loader, and how does it compare to the mixing time for hand mixing?"
+        ],
+        "analysis": [
+            "Page 8 specifies that when using a power loader, the mixing time should be between 1.5 to 2 minutes, or 2.5 to 3 minutes if a hydrophobic cement is used. Page 9 states that hand mixing, when permitted, should continue until uniform color and consistency are obtained, with no specific time mentioned, but it should be done for at least two minutes after adding water. Therefore, the mixing time for hand mixing is generally longer and less precise compared to using a power loader."
+        ],
+        "answer": [
+            "Power loader: 1.5 to 2 minutes; Hand mixing: at least 2 minutes."
+        ],
+        "evidence_page": "[8, 9]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How does the nominal size of the mixer relate to the minimum inside width of the hopper feeding edge, and what are the implications for mixing efficiency?"
+        ],
+        "analysis": [
+            "Page 8 provides Table 4.9, which lists the nominal sizes of mixers and the corresponding minimum inside width of the hopper feeding edge. This table is crucial for understanding the physical requirements for different mixer sizes. Page 9 discusses mixing efficiency, stating that the mixer should be tested under normal working conditions to ensure uniformity in the mixed concrete. The relationship between mixer size and hopper width affects how efficiently materials can be loaded and mixed, impacting the uniformity and quality of the concrete mix."
+        ],
+        "answer": [
+            "The nominal size of the mixer determines the minimum inside width of the hopper feeding edge, which affects mixing efficiency by ensuring proper loading and uniformity."
+        ],
+        "evidence_page": "[8, 9]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the nominal sizes of graded stone aggregate or gravel specified, and what is the suggested range of workability for mass concrete?"
+        ],
+        "analysis": [
+            "Page 0 specifies the nominal sizes of graded stone aggregate or gravel as 40, 20, 16, or 12.5 mm (p0). Page 5 provides the suggested range of workability for mass concrete, which is classified as 'Low' with a slump range of 25-75 mm (p5)."
+        ],
+        "answer": [
+            "Nominal sizes: 40, 20, 16, 12.5 mm; Workability for mass concrete: Low, 25-75 mm slump"
+        ],
+        "evidence_page": "[0, 5]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the relationship between the nominal size of coarse aggregate and the workability of concrete for mass concrete?"
+        ],
+        "analysis": [
+            "Page 0 specifies that the nominal size of graded stone aggregate or gravel shall be 40, 20, 16, or 12.5 mm. Page 5 discusses the workability of concrete, indicating that for mass concrete, which includes lightly reinforced sections in slabs, beams, walls, and columns, the degree of workability is 'Low' with a slump range of 25-75 mm. The nominal size of the aggregate affects the workability, as larger aggregates typically require less water, influencing the slump and workability."
+        ],
+        "answer": [
+            "For mass concrete, the nominal size of coarse aggregate affects workability, with 'Low' workability and a slump of 25-75 mm."
+        ],
+        "evidence_page": "[0, 5]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How does the nominal size of coarse aggregate relate to the workability requirements for different concrete placing conditions?"
+        ],
+        "analysis": [
+            "Page 0 discusses the nominal sizes of coarse aggregates, specifying sizes like 40, 20, 16, or 12.5 mm. Page 5 provides a table detailing the workability requirements for various placing conditions, such as 'Blinding concrete' and 'Mass concrete,' with corresponding degrees of workability and slump measurements. The nominal size of aggregates affects the workability, as larger aggregates might require different slump values to achieve the same workability level."
+        ],
+        "answer": [
+            "Nominal size affects workability; larger sizes may require adjustments in slump values."
+        ],
+        "evidence_page": "[0, 5]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the maximum total acid soluble chloride content allowed for reinforced concrete according to the specifications?"
+        ],
+        "analysis": [
+            "The maximum total acid soluble chloride content for reinforced concrete is specified in the table on page 102 under section 4.2.14.1.4. It states that for reinforced concrete or plain concrete containing embedded metal, the maximum chloride content is 0.6 kg/m³."
+        ],
+        "answer": "0.6 kg/m³",
+        "evidence_page": "[13, 14, 21]",
+        "evidence_sources": "[table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the minimum cement content required for concrete exposed to Class 4 sulphate conditions, and how does it relate to the load required to produce 10 percent fines for normal concrete?"
+        ],
+        "analysis": [
+            "Page 13 (p13) provides the requirements for concrete exposed to sulphate attack, specifically in Table 4.11, which states that for Class 4 conditions, the minimum cement content is 370 kg/m³. Page 21 (p21) discusses the load required to produce 10 percent fines, specifying that for normal concrete, the load should be not less than 5 tonnes. The relationship between these two is that both specifications ensure the durability and strength of concrete under severe conditions, with the cement content ensuring chemical resistance and the load requirement ensuring mechanical strength."
+        ],
+        "answer": "370 kg/m³; load not less than 5 tonnes",
+        "evidence_page": "[13, 21]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How is the nominal maximum size of aggregate related to the apparatus for determining the ten percent fine value?"
+        ],
+        "analysis": [
+            "Page 13 provides details on the nominal maximum size of aggregates used in concrete, specifically mentioning sizes like 20 mm for nominal crushed aggregate. Page 21 shows Fig. C-4.1, which is an apparatus for determining the ten percent fine value, and it specifies dimensions relevant to the aggregate size, such as the internal diameter of the cylinder being 152.0 ± 0.5 mm. This indicates that the apparatus is designed to accommodate specific aggregate sizes, ensuring accurate testing for fines."
+        ],
+        "answer": "The apparatus is designed to accommodate specific aggregate sizes like 20 mm.",
+        "evidence_page": "[13, 21]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the minimum grade of concrete required for very severe exposure conditions for plain concrete, and what is the specified characteristic compressive strength for this grade?"
+        ],
+        "analysis": [
+            "Table 4.6 on page 5 specifies that for very severe exposure conditions, the minimum grade of concrete for plain concrete is M20. Table 4.5 on page 4 provides the specified characteristic compressive strength for M20 grade concrete as 20 N/mm²."
+        ],
+        "answer": "M20, 20 N/mm²",
+        "evidence_page": "[4, 5]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the minimum cement content required for reinforced concrete in extreme exposure conditions, and how does it compare to the requirement for concrete exposed to sulphate attack in Class 5 conditions?"
+        ],
+        "analysis": [
+            "Page 5, Table 4.6 specifies that for reinforced concrete under extreme exposure conditions, the minimum cement content is 360 kg/m³. Page 14, Table 4.11 states that for concrete exposed to sulphate attack in Class 5 conditions, the minimum cement content is 400 kg/m³. Thus, the requirement for sulphate attack in Class 5 is higher by 40 kg/m³ compared to extreme exposure conditions."
+        ],
+        "answer": "360 kg/m³ for extreme exposure; 400 kg/m³ for sulphate attack Class 5.",
+        "evidence_page": "[5, 14]",
+        "evidence_sources": "[table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the environmental exposure conditions for concrete classified as 'Severe' and 'Very Severe'?"
+        ],
+        "analysis": [
+            "The environmental exposure conditions are detailed in Table 4.9 on page 101. For 'Severe' conditions, concrete surfaces are exposed to severe rain, alternate wetting and drying, or occasional freezing whilst wet or severe condensation. For 'Very Severe' conditions, concrete surfaces are exposed to sea water spray, corrosive fumes, or severe freezing conditions whilst wet, and concrete in contact with or buried under aggressive sub-soil/ground water."
+        ],
+        "answer": "Severe: Exposed to severe rain, alternate wetting and drying, or occasional freezing whilst wet. Very Severe: Exposed to sea water spray, corrosive fumes, or severe freezing conditions whilst wet.",
+        "evidence_page": "[12, 13]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the required load to produce 10 percent fines for normal concrete, and how does it relate to the environmental exposure conditions?"
+        ],
+        "analysis": [
+            "Page 110 provides the formula for calculating the load required to produce 10 percent fines: Load = (14 * X) / (Y + 4), where X is the load in tonnes and Y is the mean percentage fines from two tests. It also specifies that for normal concrete, the load should not be less than 5 tonnes. Page 101 describes environmental exposure conditions, which influence the durability and quality of concrete. The exposure conditions (mild, moderate, severe, etc.) affect the concrete's performance, which in turn can influence the required load for fines. For instance, concrete exposed to severe conditions may require adjustments in mix or testing to ensure durability."
+        ],
+        "answer": "Not less than 5 tonnes for normal concrete.",
+        "evidence_page": "[2, 4]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 4.0 Concrete works.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the maximum quantity of water per 50 kg of cement for M20 nominal mix concrete, and how long should the damp proof course be cured?"
+        ],
+        "analysis": [
+            "Page 6 provides the maximum quantity of water per 50 kg of cement for M20 nominal mix concrete as specified in Table 4.7. Page 18 specifies the curing duration for the damp proof course under section 4.4.2."
+        ],
+        "answer": "30 liters; at least seven days",
+        "evidence_page": "[6, 18]",
+        "evidence_sources": "[pure_text], [table]"
+    }
+]

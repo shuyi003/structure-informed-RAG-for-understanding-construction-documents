@@ -1,0 +1,926 @@
+[
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "How many codes are related to the testing and determination of properties of natural building stones?"
+        ],
+        "analysis": [
+            "- IS 1121 (Pt. I): Methods of determination of properties and strengths of natural building stones. - IS 1122: Methods for determination of specific gravity of natural building stone. - IS 1123: Methods of identification of natural building stones. - IS 1124: Methods of test of determination of water absorption, apparent, specific gravity, and porosity of natural building stones. - IS 1125: Methods of test of determination of weathering of natural building stone. - IS 1126: Methods of test for determination of durability of natural building stone."
+        ],
+        "answer": [
+            "6 codes"
+        ],
+        "evidence_page": "[1]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the definition of Ashlar in stone work terminology?"
+        ],
+        "analysis": [
+            "The document under section 7.0 Terminology defines Ashlar as stone masonry using dressed square stone blocks of given dimensions having faces perpendicular to each other and laid in courses."
+        ],
+        "answer": [
+            "Stone masonry using dressed square stone blocks of given dimensions having faces perpendicular to each other and laid in courses."
+        ],
+        "evidence_page": "[2]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the purpose of a bed joint in stone masonry, and which figures provide visual references for it?"
+        ],
+        "analysis": [
+            "The text defines a bed joint as the joint where one stone presses on another, such as a horizontal joint in a wall or a radiating joint between the voussoirs or arch. It references Figures 7.1 and 7.13 for visual representation."
+        ],
+        "answer": [
+            "The purpose of a bed joint is to provide a horizontal or radiating joint between stones, and it is visually referenced in Figures 7.1 and 7.13."
+        ],
+        "evidence_page": "[2]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the purpose of a joggle in stone construction?"
+        ],
+        "analysis": [
+            "The document defines a joggle as a key between stones by providing a groove in one stone to take a corresponding concealed projection in the edges on the other stone. This indicates its purpose is to interlock stones securely."
+        ],
+        "answer": [
+            "To interlock stones securely by providing a groove and corresponding projection."
+        ],
+        "evidence_page": "[3]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is a parapet, and which figure should be referenced for its illustration?"
+        ],
+        "analysis": [
+            "The text describes a parapet as a solid or pierced guard wall for flat stone terraces, balconies, or curb walls at the lower part of a pitched roof exposed to the atmosphere. It refers to Figure 7.1C for its illustration."
+        ],
+        "answer": [
+            "A parapet is a solid or pierced guard wall for terraces, balconies, or curb walls. It is illustrated in Figure 7.1C."
+        ],
+        "evidence_page": "[3]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the maximum allowable depth of gap for a punched dressed surface, and how does it compare to the depth for a close picked surface?"
+        ],
+        "analysis": [
+            "1. **Punched Dressed Surface**: The document specifies that the depth of gap between the surface and a straight edge for a punched dressed surface shall not exceed 3 mm. 2. **Close Picked Surface**: For a close picked surface, the depth of gap between the surface and a straight edge kept over the surface shall not exceed 1.5 mm. 3. **Comparison**: The maximum allowable depth for a punched dressed surface is 3 mm, which is greater than the 1.5 mm allowed for a close picked surface."
+        ],
+        "answer": [
+            "The maximum allowable depth of gap for a punched dressed surface is 3 mm, which is greater than the 1.5 mm allowed for a close picked surface."
+        ],
+        "evidence_page": "[4]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the maximum allowable water absorption percentage for sandstone used in construction?"
+        ],
+        "analysis": [
+            "Table 7.1 lists the maximum water absorption percentage by weight for different types of stones. For sandstone (slab and tiles), the maximum water absorption percentage is specified as 2.5%."
+        ],
+        "answer": [
+            "2.5%"
+        ],
+        "evidence_page": "[5]",
+        "evidence_sources": "[table]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the minimum compressive strength required for quartzite?"
+        ],
+        "analysis": [
+            "Table 7.1 provides the minimum compressive strength for various stones. For quartzite, the minimum compressive strength is specified as 800 kg/sq.cm."
+        ],
+        "answer": [
+            "800 kg/sq.cm"
+        ],
+        "evidence_page": "[5]",
+        "evidence_sources": "[table]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the required depth for raking out joints to be pointed or plastered?"
+        ],
+        "analysis": [
+            "Section 7.1.7 (A) specifies that all joints on the faces to be pointed or plastered shall be raked out with a racking tool to a depth of 20 mm while the mortar is still green."
+        ],
+        "answer": [
+            "20 mm"
+        ],
+        "evidence_page": "[6]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the maximum allowable height for masonry courses using mortar with a compressive strength of less than 20 kg/sq. cm, and how does it compare to the height allowed for stronger mortars?"
+        ],
+        "analysis": [
+            "Section 7.1.5 (A) states that masonry using mortar with a compressive strength of less than 20 kg/sq. cm should not exceed 60 cm in height. For mortars exceeding this strength, the maximum height is 100 cm."
+        ],
+        "answer": [
+            "60 cm for mortars with less than 20 kg/sq. cm; 100 cm for stronger mortars."
+        ],
+        "evidence_page": "[6]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the required mix ratio for pre-cast cement concrete blocks when bond stones of suitable lengths are not available?"
+        ],
+        "analysis": [
+            "The document specifies that where bond stones of suitable lengths are not available, pre-cast cement concrete blocks should be used with a mix ratio of 1:3:6 (1 cement: 3 coarse sand: 6 graded stone aggregate 20 mm nominal size)."
+        ],
+        "answer": [
+            "1:3:6 (1 cement: 3 coarse sand: 6 graded stone aggregate 20 mm nominal size)."
+        ],
+        "evidence_page": "[7]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How should joints be treated when plastering or pointing is not to be done, and what is the minimum depth required for raking?"
+        ],
+        "analysis": [
+            "The text states that joints should be struck flush and finished at the time of laying when plastering or pointing is not to be done. For surfaces to be plastered or pointed, joints should be raked to a minimum depth of 20 mm when the mortar is still green."
+        ],
+        "answer": [
+            "Joints should be struck flush and finished at the time of laying, and for plastering or pointing, they should be raked to a minimum depth of 20 mm."
+        ],
+        "evidence_page": "[7]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the measurement method for circular pillars in stone masonry?"
+        ],
+        "analysis": [
+            "The document states that circular pillars (columns) shall be measured as per actual dimensions, but extra payment is allowed for stone work in circular pillars over the rate for stone work in walls. The diameter and length shall be measured correct to a cm."
+        ],
+        "answer": [
+            "Circular pillars are measured as per actual dimensions, with extra payment over wall rates."
+        ],
+        "evidence_page": "[8]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the required minimum width for chisel drafts on exposed quoin stones?"
+        ],
+        "analysis": [
+            "The section 7.2.7 on Quoins specifies that exposed quoin stones shall have a minimum of 25 mm wide chisel drafts at four edges, all the edges being in the same plane."
+        ],
+        "answer": [
+            "25 mm"
+        ],
+        "evidence_page": "[9]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the minimum depth required for rough-chisel dressing of beds, and how does it relate to the requirement for exposed work?"
+        ],
+        "analysis": [
+            "Section 7.2.3 specifies that beds should be rough-chisel dressed to a depth of at least 100 mm. For exposed work, the stones must have a minimum of 25 mm wide chisel drafts at all four edges, ensuring the edges are in the same plane."
+        ],
+        "answer": "The minimum depth for rough-chisel dressing of beds is 100 mm. For exposed work, stones must also have 25 mm wide chisel drafts at all edges.",
+        "evidence_page": "[9]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the tolerance allowed for the thickness of Kota stone slabs?"
+        ],
+        "analysis": [
+            "In section 7.4.1(B) Kota Stone for Veneering, it is mentioned that the thickness of the slab shall be 20, 25, 30, or 40 mm as specified, with a tolerance of ± 2 mm allowed for the thickness."
+        ],
+        "answer": "± 2 mm",
+        "evidence_page": "[10]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the maximum allowable length of stone used for construction?"
+        ],
+        "analysis": [
+            "The document specifies in section 7.4.2 that the length of the stone shall not exceed three times the height, and the breadth on base shall not be greater than three-fourths of the thickness of the wall nor less than 15 cm. The height of the stone may be up to 30 cm."
+        ],
+        "answer": "The length of the stone shall not exceed three times the height.",
+        "evidence_page": "[11]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If a stone wall is curved on a plan to a mean radius of 7 meters, how should it be measured?"
+        ],
+        "analysis": [
+            "According to section 7.4.12.3, stone work curved on a plan to a mean radius exceeding six meters shall be measured net and included with general stone work. Since 7 meters exceeds 6 meters, it falls under this category."
+        ],
+        "answer": "Measured net and included with general stone work",
+        "evidence_page": "[12]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the maximum allowable deviation from a straight edge for the dressed surface in punched ashlar masonry?"
+        ],
+        "analysis": [
+            "In section 7.5.3, it states that the dressed surface shall not be more than 3 mm from a straight edge placed over it. This specifies the maximum allowable deviation."
+        ],
+        "answer": "3 mm",
+        "evidence_page": "[13]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the maximum allowable thickness for stone facing or wall lining according to the text, and how does it relate to the specifications for stone work exceeding this thickness?"
+        ],
+        "analysis": [
+            "The text in section 7.4.13 states that Stone facing or wall lining up to and not exceeding 8 cm thickness shall be paid for under 'Stone work for wall lining etc. (Veneer work)'. It further mentions that The stone work of thickness exceeding 8 cm shall be paid under relevant items of work.This indicates that stone work exceeding 8 cm is categorized and compensated differently."
+        ],
+        "answer": "The maximum allowable thickness for stone facing or wall lining under the specified category is 8 cm. Stone work exceeding this thickness is classified separately.",
+        "evidence_page": "[13]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "How should the dimensions of the dressed stone used in the work be measured?"
+        ],
+        "analysis": [
+            "The document specifies in section 7.6.6 that the dimensions of the circumscribing rectangles of the dressed stone used in the work shall be measured correct to a centimeter, and cubic contents shall be calculated in cubic meters, nearest to two places of decimal."
+        ],
+        "answer": "Measured correct to a cm and cubic contents calculated in cubic meters, nearest to two places of decimal.",
+        "evidence_page": "[14]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the specified method for securing adjoining stones, and how does this relate to the laying process described?"
+        ],
+        "analysis": [
+            "Section 7.7.4.1 specifies that adjoining stones should be secured to each other by means of copper pins 75 mm long and 6 mm in diameter. Section 7.7.4 describes the laying process, stating that stones should be wetted and fixed with mortar without chips or underpinning. The use of copper pins complements the mortar fixing by providing additional stability."
+        ],
+        "answer": "Adjoining stones should be secured with copper pins 75 mm long and 6 mm in diameter, complementing the mortar fixing process described in the laying section.",
+        "evidence_page": "[14]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the specified size for cramps used in the backing of stone masonry walls?"
+        ],
+        "analysis": [
+            "The document specifies that cramps shall be of 25 mm x 6 mm and 30 cm long in the case of backing of stone masonry walls and brick masonry walls thicker than 230 mm. For brick masonry walls 230 mm or less, cramps shall be of 25 x 6 mm."
+        ],
+        "answer": "25 mm x 6 mm and 30 cm long for stone masonry; 25 mm x 6 mm for brick masonry walls 230 mm or less.",
+        "evidence_page": "[15]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the minimum bearing required for a sloping chajja stone on the wall, and how does it compare to the minimum bearing for a horizontal chajja stone?"
+        ],
+        "analysis": [
+            "- For a sloping chajja stone, the minimum bearing on the wall is specified as 20 cm. - For a horizontal chajja stone, the minimum bearing is specified as 15 cm."
+        ],
+        "answer": "The minimum bearing for a sloping chajja stone is 20 cm, which is greater than the 15 cm required for a horizontal chajja stone.",
+        "evidence_page": "[16]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the minimum length requirement for stone slabs in chajja, and where can find the reference for these slabs?"
+        ],
+        "analysis": [
+            "Section 7.8.1 specifies that the length of stone slabs in chajja shall not be less than 60 cm unless otherwise specified. This is related to FIG. 7.13, which likely illustrates the chajja design, reinforcing the textual requirement."
+        ],
+        "answer": "The minimum length requirement for stone slabs in chajja is 60 cm.",
+        "evidence_page": "[16]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "How should the length and breadth of finished work be measured?"
+        ],
+        "analysis": [
+            "Section 7.8.6 specifies that the length and breadth of the finished work shall be measured correct to a cm. Additionally, the area of chajja projecting beyond the wall shall be calculated in square meters correct to two places of decimal."
+        ],
+        "answer": "Correct to a cm.",
+        "evidence_page": "[17]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How should the area of a chajja projecting beyond the wall be calculated, and how does this compare to the measurement requirements for shelves?"
+        ],
+        "analysis": [
+            "The text in section 7.8.6 specifies that the area of a chajja projecting beyond the wall shall be calculated in square meters correct to two places of decimal. In comparison, section 7.9.5.1 states that the area of shelves shall also be calculated in square meters correct to two places of decimal."
+        ],
+        "answer": "Both the area of a chajja projecting beyond the wall and the area of shelves should be calculated in square meters correct to two places of decimal.",
+        "evidence_page": "[17]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the permissible tolerance for the thickness of stone jalis, and how does it compare to the tolerance for dressed stone?"
+        ],
+        "analysis": [
+            "Section 7.10.2 states that the tolerance for the thickness of stone jalis is ± 2 mm. Similarly, in Section 7.11.1, it is mentioned that the dressed stone shall have a thickness specified with a permissible tolerance of ± 2 mm. Both tolerances are the same."
+        ],
+        "answer": "± 2 mm",
+        "evidence_page": "[18]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the specified size for the concrete block used in structural steel frame work for dry stone cladding?"
+        ],
+        "analysis": [
+            "Section 7.12.1 mentions that the concrete block should be of size 300 x 230 x 300 mm."
+        ],
+        "answer": "300 x 230 x 300 mm",
+        "evidence_page": "[19]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "How is the steel clamp fixed?"
+        ],
+        "analysis": [
+            "Section 7.13.4 states that one end of the steel clamp is fixed on the frame with a nut and bolt, and the other end is inserted into recesses/holes for fixing the dry cladding stone on the frame."
+        ],
+        "answer": "One end is fixed on the frame with a nut and bolt, and the other end is inserted into recesses/holes for fixing the stone.",
+        "evidence_page": "[20]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What type of joint is used in the parapet?"
+        ],
+        "analysis": [
+            "The diagram labeled B shows a section of the parapet with a JOGGLE JOINT indicated. This suggests that the type of joint used in the parapet is a joggle joint."
+        ],
+        "answer": "Joggle joint",
+        "evidence_page": "[21]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "How many types of stone surface finishes are illustrated in the document?"
+        ],
+        "analysis": [
+            "The document shows different figures labeled from Fig. 7.2 to Fig. 7.7, each depicting a distinct type of stone surface finish. Counting these figures gives us the total number of types illustrated."
+        ],
+        "answer": "6 types of stone surface finishes.",
+        "evidence_page": "[22]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the maximum allowable bushing for the exposed face and plastered face in random rubble masonry?"
+        ],
+        "analysis": [
+            "- The image specifies two types of bushing limits: - Exposed face bushing: not more than 40 mm. - Plastered face bushing: not more than 10 mm."
+        ],
+        "answer": "Exposed face bushing is not more than 40 mm, and plastered face bushing is not more than 10 mm.",
+        "evidence_page": "[23]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the maximum allowable face joint thickness for the first sort of rubble stone masonry?"
+        ],
+        "analysis": [
+            "The image shows an elevation diagram labeled FIRST SORT with a note indicating that face joints should be not more than 10."
+        ],
+        "answer": "10 mm",
+        "evidence_page": "[24]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the range for the spacing of bond or through stones?"
+        ],
+        "analysis": [
+            "The image shows diagrams with notes indicating that bond or through stones should be 1500 to 1800 Apart (Clear)."
+        ],
+        "answer": "1500 to 1800 mm",
+        "evidence_page": "[24]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the maximum thickness allowed for face joints in Ashlar Stone Masonry according to the figure, and how does this relate to the construction guidelines?"
+        ],
+        "analysis": [
+            "The figure specifies that Face Joints to be not more than 5 mm thick. This detail is crucial for ensuring the precision and aesthetic quality of Ashlar Stone Masonry, aligning with typical construction guidelines that emphasize tight joint tolerances for structural integrity and appearance."
+        ],
+        "answer": "The maximum thickness allowed for face joints is 5 mm.",
+        "evidence_page": "[25]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the dimension of the face stone in the elevation view?"
+        ],
+        "analysis": [
+            "In the elevation view of the diagram, the face stone is shown with a height dimension of 200 mm and a length dimension of 300 mm."
+        ],
+        "answer": "200 mm x 300 mm",
+        "evidence_page": "[26]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the diameter of the anchoring bolt used in the chajja?"
+        ],
+        "analysis": [
+            "The diagram labeled CHAJJA shows an anchoring bolt with a specified diameter. The text indicates Anchoring bolt 12 mm ø, which specifies the diameter of the bolt."
+        ],
+        "answer": "12 mm",
+        "evidence_page": "[28]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the total vertical distance from the top of the chajja to the bottom of the brick work?"
+        ],
+        "analysis": [
+            "- The image shows a vertical measurement of 300 mm from the top of the chajja to the bottom of the brick work. - Additionally, there is a 200 mm measurement from the bottom of the brick work to the bottom of the plaster."
+        ],
+        "answer": "500 mm",
+        "evidence_page": "[28]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the thickness of the stone veneer used in the stone veneering process?"
+        ],
+        "analysis": [
+            "The sectional plans and elevations in the image consistently show the stone veneer as 50 mm Thick."
+        ],
+        "answer": "50 mm",
+        "evidence_page": "[29]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the minimum size of the non-corrosive dash fastener required for the stone veneering on R.C.C. backing?"
+        ],
+        "analysis": [
+            "- The image shows Fig. 7.15C, which details the typical arrangement for stone veneering on R.C.C. backing. - It specifies the use of a non-corrosive dash fastener with a washer including a bolt. - The minimum size of this fastener is indicated as 35 x 7 mm."
+        ],
+        "answer": "The minimum size of the non-corrosive dash fastener is 35 x 7 mm.",
+        "evidence_page": "[30]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "How would the arrangement of cramps change if the veneer sides were horizontal instead of vertical?"
+        ],
+        "analysis": [
+            "- The image shows the arrangement of cramps for veneer with longer sides vertical. - The note specifies that if the veneer sides are horizontal, the cramps would be arranged to suit the altered positions. - This implies that the orientation of the cramps would change to accommodate the horizontal alignment of the veneer."
+        ],
+        "answer": "The cramps would be rearranged to suit the horizontal orientation of the veneer sides.",
+        "evidence_page": "[31]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the specifications for the dressing of stones in coursed rubble masonry, first and second sort?"
+        ],
+        "analysis": [
+            "The specifications for dressing in coursed rubble masonry, first sort, are found on page 8, section 7.2.3, which states that face stones shall be hammer dressed on all beds and joints, squared on all joints and beds, and chisel dressed for at least 80 mm back from the face. For the second sort, page 9, section 7.3.3, specifies that no portion of dressed surface of joints shall show a depth of gap more than 10 mm from a straight edge placed on it, and the use of chips shall not exceed 15% of the quantity of stone masonry."
+        ],
+        "answer": [
+            "First sort: Hammer dressed, squared, chisel dressed 80 mm. Second sort: Gaps ≤10 mm, chips ≤15%."
+        ],
+        "evidence_page": "[8, 9]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the maximum allowable thickness for face joints in coursed rubble masonry, and how does it compare to the maximum thickness for face joints in plain ashlar masonry?"
+        ],
+        "analysis": [
+            "In coursed rubble masonry, the maximum thickness for face joints is specified as not more than 20 mm (p9). In plain ashlar masonry, the thickness of the slab after it is dressed should be 20, 25, 30, or 40 mm with a tolerance of ±2 mm (p11). Therefore, the maximum allowable thickness for face joints in coursed rubble masonry is less than the minimum thickness specified for the slabs in plain ashlar masonry."
+        ],
+        "answer": [
+            "20 mm for coursed rubble masonry; less than minimum for plain ashlar masonry slabs."
+        ],
+        "evidence_page": "[9, 11]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How does the specification for 'Coursed Rubble Masonry - First Sort' in section 7.2 relate to the figure referenced in section 7.3?"
+        ],
+        "analysis": [
+            "Section 7.2 describes the specifications for 'Coursed Rubble Masonry - First Sort,' including details on stone size, dressing, mortar, and laying techniques (p8). Section 7.3 references 'Coursed Rubble Masonry - Second Sort' and mentions FIG. 7.9, which is likely a visual representation of the masonry types discussed (p9). The figure serves to illustrate the differences and specifications outlined in the text, providing a visual guide to the masonry types described in sections 7.2 and 7.3."
+        ],
+        "answer": [
+            "FIG. 7.9 illustrates 'Coursed Rubble Masonry' types as described in sections 7.2 and 7.3."
+        ],
+        "evidence_page": "[8, 9]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the specifications for measuring square or rectangular pillars and circular pillars in stone masonry?"
+        ],
+        "analysis": [
+            "The specifications for measuring square or rectangular pillars are found on page 7, section 7.1.14.6, which states they should be measured as walls with extra payment allowed for stone work in square or rectangular pillars over the rate for stone work in walls. For circular pillars, section 7.1.14.7 on the same page specifies they should be measured as per actual dimensions, with extra payment allowed for stone work in circular pillars over the rate for stone work in walls."
+        ],
+        "answer": [
+            "Square or rectangular pillars are measured as walls with extra payment; circular pillars are measured as per actual dimensions with extra payment."
+        ],
+        "evidence_page": "[7, 8]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the minimum thickness required for quoin stones and how does it relate to the measurement criteria for wall thickness?"
+        ],
+        "analysis": [
+            "On page 6, it is specified that quoin stones must not be less than 15 cm in height (section 7.1.9). Additionally, the wall thickness is measured excluding the bushing and must be correct to a cm (section 7.1.14.1). This implies that the quoin stones, being part of the wall structure, must adhere to the same precision in measurement, ensuring that their thickness aligns with the overall wall thickness criteria."
+        ],
+        "answer": [
+            "Quoin stones must be at least 15 cm in height and measured correct to a cm."
+        ],
+        "evidence_page": "[6, 7]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How are square or rectangular pillars measured and what extra payment considerations are mentioned?"
+        ],
+        "analysis": [
+            "On page 248, section 7.1.14.6 discusses the measurement of square or rectangular pillars, stating they should be measured as walls. Page 249 further details that extra payment is allowed for stone work in these pillars over the rate for stone work in walls, with specific mention that the breadth does not exceed twice the thickness."
+        ],
+        "answer": [
+            "Measured as walls; extra payment for stone work over wall rate if breadth doesn't exceed twice thickness."
+        ],
+        "evidence_page": "[6, 7]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the specifications for the thickness and dressing of stone jali?"
+        ],
+        "analysis": [
+            "The specifications for the thickness and dressing of stone jali are detailed on pages 258 and 259. Page 258 mentions that the stone shall be cut into slabs of required thickness as specified, with a permissible tolerance of ± 2 mm. Page 259 further specifies that the stone jali shall be cut as per pattern shown on the drawings, and all exposed faces shall be fine tooled to a uniform and smooth finish."
+        ],
+        "answer": [
+            "Thickness with ± 2 mm tolerance; fine tooled to uniform and smooth finish."
+        ],
+        "evidence_page": "[13, 14]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the minimum number of cramps required for securing stone slabs in stone masonry walls thicker than 230 mm, and how does this compare to walls 230 mm or less thick?"
+        ],
+        "analysis": [
+            "According to page 256, cramps for stone masonry walls thicker than 230 mm should be 25 mm x 6 mm and 30 cm long. For walls 230 mm or less thick, cramps should be 25 mm x 6 mm, but the length is determined by the Engineer-in-Charge. Page 255 specifies that a minimum of one cramp or stone dowel is required to secure one slab to the backing. Therefore, for thicker walls, the minimum number of cramps is determined by the spacing requirement, which should not exceed 60 cm apart horizontally."
+        ],
+        "answer": [
+            "Minimum one cramp per slab for both thicknesses, but spacing differs."
+        ],
+        "evidence_page": "[13, 14]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How are cramps and dowels used in stone veneering work, and what figures illustrate their application?"
+        ],
+        "analysis": [
+            "The text on page 13 mentions the use of cramps and dowels in stone veneering work, specifying that they should be secured to the backing by means of stone dowels and cramps as per the shape indicated in Fig. 7.14. Page 14 further elaborates on the use of cramps, stating that they should be attached to the sides or top and bottom as shown in Fig. 7.16A, 7.16B, 7.16C, and 7.16G & H. These figures illustrate the application of cramps and dowels in securing stone veneer."
+        ],
+        "answer": [
+            "Figures 7.14, 7.16A, 7.16B, 7.16C, 7.16G & H"
+        ],
+        "evidence_page": "[13, 14]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the specifications for the size and dressing of stones used in coursed rubble masonry?"
+        ],
+        "analysis": [
+            "The specifications for the size of stones in coursed rubble masonry are referenced in section 7.2.2, which states that the size shall be as specified in 7.1.2 (p7). The dressing of stones is detailed in section 7.2.3, which describes the hammer dressing on all beds and joints to give approximately rectangular block shapes, with specific measurements for rough tooling and chisel dressing (p8)."
+        ],
+        "answer": [
+            "Size as per 7.1.2; hammer dressed on all beds and joints, squared, rough tooling 25 mm wide."
+        ],
+        "evidence_page": "[7, 8]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the minimum required bearing for a horizontal chajja stone, and how does it compare to the minimum bearing for a sloping chajja stone?"
+        ],
+        "analysis": [
+            "Page 15 specifies that a horizontal chajja stone must have a minimum bearing of 15 cm on the wall (p15). Page 8 details that for a sloping chajja, the stone shall have a minimum bearing of 20 cm horizontally on the wall (p8). Therefore, the minimum bearing for a sloping chajja stone is greater than that for a horizontal chajja stone."
+        ],
+        "answer": [
+            "Horizontal: 15 cm, Sloping: 20 cm"
+        ],
+        "evidence_page": "[8, 15]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How does the specification for stone chajja (Fig. 7.13) relate to the general requirements for stone masonry?"
+        ],
+        "analysis": [
+            "The stone chajja specifications on page 15 (p15) detail the requirements for stone slabs, including dimensions and installation methods. These specifications must align with the general stone masonry requirements outlined on pages 7 and 8 (p7, p8), which cover aspects like dressing, mortar, and laying techniques. For instance, the chajja's stone slabs must be chisel dressed on all faces, similar to the dressing requirements for stone masonry (p8). Additionally, the mortar used for pointing chajja joints (1:2 cement mortar) should be consistent with the general mortar specifications for stone masonry (p8)."
+        ],
+        "answer": [
+            "Stone chajja specifications align with general stone masonry in dressing and mortar use."
+        ],
+        "evidence_page": "[8, 15]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the maximum thickness allowed for face joints in Ashlar Stone Masonry, and what is the typical spacing for bond stones?"
+        ],
+        "analysis": [
+            "Page 24 provides the information that face joints in Ashlar Stone Masonry should not be more than 5 mm thick. It also mentions that bond or through stones should be spaced 1500 to 1800 mm apart. This information is consistent across the depictions of Ashlar Stone Masonry on page 24."
+        ],
+        "answer": [
+            "Face joints: 5 mm; Bond stones: 1500 to 1800 mm apart"
+        ],
+        "evidence_page": "[24, 25]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the total thickness of the Ashlar Stone Masonry with Brick Backing, considering both the face stone and the brick backing?"
+        ],
+        "analysis": [
+            "Page 24 provides details on Ashlar Stone Masonry, showing the face joints not exceeding 5 mm thick. Page 25 illustrates Ashlar Stone Masonry with Brick Backing, indicating the face stone and brick backing. The section view on page 25 shows the face stone and brick backing dimensions. The face stone is shown as 100 mm thick, and the brick backing is 200 mm thick. Adding these values gives the total thickness."
+        ],
+        "answer": [
+            "300 mm"
+        ],
+        "evidence_page": "[24, 25]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How does the description of face joints in Ashlar Stone Masonry relate to the figures provided?"
+        ],
+        "analysis": [
+            "Page 24 provides a figure (Fig. 7.10) showing Ashlar Stone Masonry with a note indicating that face joints should not be more than 5 mm thick. Page 25 includes Fig. 7.11, which shows Ashlar Stone Masonry with Brick Backing, but does not specify the thickness of face joints. The interaction between these pages highlights the specific requirement for face joint thickness in the context of Ashlar Stone Masonry, as shown in Fig. 7.10, which is not explicitly detailed in the brick-backed version on page 25."
+        ],
+        "answer": "Face joints not more than 5 mm thick (Fig. 7.10).",
+        "evidence_page": "[24, 25]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the specifications for the anchoring bolts used in stone chajja construction?"
+        ],
+        "analysis": [
+            "The specifications for anchoring bolts in stone chajja construction are detailed on page 15 and illustrated on page 27. Page 15 specifies that the holding down bolts shall be 12 mm in diameter and bent at right angles at the lowest end, buried horizontally for at least 7 cm in a joint 30 cm below the bearing surface. Page 27 provides a visual representation of the anchoring bolt in the stone chajja diagram."
+        ],
+        "answer": "12 mm diameter, bent at right angles, buried 7 cm in a joint 30 cm below bearing surface.",
+        "evidence_page": "[15, 27]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the minimum length of stone slabs used in chajjas, and how does it relate to the spacing of bond stones in rubble stone masonry?"
+        ],
+        "analysis": [
+            "On page 15, it is specified that the length of stone slabs in chajjas shall not be less than 60 cm. On page 23, the rubble stone masonry diagram indicates that bond stones are spaced 1500 to 1800 mm apart. The minimum length of stone slabs in chajjas (600 mm) is significantly shorter than the spacing of bond stones in rubble stone masonry, indicating that the chajja slabs are smaller and likely used in a different structural context compared to the larger bond stones."
+        ],
+        "answer": "Minimum length of stone slabs in chajjas is 60 cm; bond stones spaced 1500-1800 mm apart.",
+        "evidence_page": "[15, 23]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the specified thickness for walls using bond stones and how are bed joints represented in stone arches?"
+        ],
+        "analysis": [
+            "Page 5 specifies that bond stones should be provided in walls up to 600 mm thickness, with stones overlapping each other by at least 150 mm. Page 27 shows a diagram of stone arches where bed joints are clearly labeled, indicating their placement in the structure."
+        ],
+        "answer": "Walls up to 600 mm thickness with bond stones overlapping by at least 150 mm; bed joints are labeled in stone arches.",
+        "evidence_page": "[5, 27]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the maximum allowable height for masonry courses when using mortars with compressive strength less than 20 kg/sq. cm, and how does this relate to the construction of arches as shown in the diagram?"
+        ],
+        "analysis": [
+            "Page 5 specifies that masonry courses should not exceed 50 cm in height when using mortars with compressive strength less than 20 kg/sq. cm. Page 27 illustrates the construction of arches, which involves bed joints and spans that must accommodate these height restrictions to ensure structural integrity. The height limitation ensures that the masonry courses used in constructing arches do not exceed the specified limits, maintaining stability and uniformity in the structure."
+        ],
+        "answer": "50 cm; ensures stability in arch construction.",
+        "evidence_page": "[5, 27]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 7.0 Stone work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the maximum allowable height for masonry courses when using mortars with compressive strength less than 20 kg/sq. cm, and how does this relate to the construction of arches as shown in the diagram?"
+        ],
+        "analysis": [
+            "The maximum water absorption percentage for sandstone is found in Table 7.1 on page 4, which lists it as 2.5%. The minimum compressive strength required for quartzite is also found in Table 7.1 on page 4, which lists it as 800 kg/sq.cm."
+        ],
+        "answer": "Sandstone: 2.5%, Quartzite: 800 kg/sq.cm",
+        "evidence_page": "[3, 4]",
+        "evidence_sources": "[table]"
+    }
+]

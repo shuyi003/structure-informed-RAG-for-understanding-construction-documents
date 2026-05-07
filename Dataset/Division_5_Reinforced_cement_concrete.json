@@ -1,0 +1,1524 @@
+[
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the minimum wet curing period in hot and arid regions?"
+        ],
+        "analysis": [
+            "The document states in section (vi) that in hot and arid regions, the minimum wet curing period shall be 14 days or its equivalent."
+        ],
+        "answer": [
+            " 14 days"
+        ],
+        "evidence_page": "[2]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What types of steel are permitted for reinforcement?"
+        ],
+        "analysis": [
+            "Section 5.1.3.1 lists the types of steel allowed for reinforcement: (a) Mild steel and medium tensile bars conforming to IS 432 (Part I) (b) High strength deformed steel bars conforming to IS 1786 (c) Hard drawn steel wire fabric conforming to IS 1566 (d) Structural steel conforming to Grade A of IS 2062 (e) Thermo-mechanically treated (TMT) Bars"
+        ],
+        "answer": [
+            "Mild steel and medium tensile bars, high strength deformed steel bars, hard drawn steel wire fabric, structural steel (Grade A), and TMT Bars."
+        ],
+        "evidence_page": "[2]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the elongation percent formula for steel reinforcement, and what does the variable represent?"
+        ],
+        "analysis": [
+            "Section 5.1.3.2 provides the formula for elongation percent as 5.65 √A, where A is the cross-sectional area of the test piece."
+        ],
+        "answer": [
+            "The elongation percent formula is 5.65 √A, where A represents the cross-sectional area of the test piece."
+        ],
+        "evidence_page": "[2]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the minimum 0.2 percent proof stress/yield stress for Fe 500 D?"
+        ],
+        "analysis": [
+            "Table 5.2 lists the physical properties of steel bars. For Fe 500 D, the minimum 0.2 percent proof stress/yield stress is specified as 500.0 N/mm²."
+        ],
+        "answer": [
+            "500.0 N/mm²."
+        ],
+        "evidence_page": "[3]",
+        "evidence_sources": "[table]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the minimum tensile strength required for Fe 500 D bars?"
+        ],
+        "analysis": [
+            "- Table 5.2 provides the tensile strength requirements for different grades of steel bars. - For Fe 500 D, the tensile strength must be 10% more than the actual 0.2% proof stress/yield stress but not less than 565.0 N/mm²."
+        ],
+        "answer": [
+            "The minimum tensile strength required for Fe 500 D bars is 10% more than the actual 0.2% proof stress/yield stress but not less than 565.0 N/mm²."
+        ],
+        "evidence_page": "[3]",
+        "evidence_sources": "[table]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the tolerance on nominal mass for a bar size of 12 mm, and how does it relate to the requirements for Fe 415 steel?"
+        ],
+        "analysis": [
+            "Table 5.1 specifies that for a nominal size over 10 mm and up to 16 mm, the tolerance on nominal mass for a batch is ±5%. Table 5.2 lists the properties for Fe 415 steel, which includes a minimum proof stress/yield stress of 415.0 N/mm². The tolerance ensures that the mass of the steel bars remains consistent with the expected mechanical properties, such as yield stress."
+        ],
+        "answer": [
+            "±5% for batch; ensures consistency with Fe 415 properties."
+        ],
+        "evidence_page": "[3]",
+        "evidence_sources": "[table]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the maximum allowable surface deviation for the finished surface, and how is it measured?"
+        ],
+        "analysis": [
+            "- The document specifies in section 302-3.02 FINISHING that the finished surface will be tested using a 10-foot straightedge. - It states that surface deviations should be limited to 1-1/4 inches. - The measurement is taken from the testing edge of the straightedge between two contacts with the surface."
+        ],
+        "answer": [
+            "The maximum allowable surface deviation is 1-1/4 inches, measured using a 10-foot straightedge."
+        ],
+        "evidence_page": "[3]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "Which standard should be referred to for conducting a tensile test on reinforcement bars?"
+        ],
+        "analysis": [
+            "The document states that the tensile test, including 0.2% proof stress and percentage elongation, should be done as per IS 1608, read in conjunction with IS 226."
+        ],
+        "answer": [
+            "IS 1608 (in conjunction with IS 226)."
+        ],
+        "evidence_page": "[4]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the maximum allowable deviation in the dimension of footings in plan?"
+        ],
+        "analysis": [
+            "Section 5.2.2(b)(i) states that the deviation in the dimension of footings in plan is +50 mm and -12 mm."
+        ],
+        "answer": [
+            "+50 mm and -12 mm"
+        ],
+        "evidence_page": "[5]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What are the tolerance limits for the deviation from specified dimensions in the construction of form work, and how do they apply to different structural elements?"
+        ],
+        "analysis": [
+            "Section 5.2.2 outlines the tolerance limits for form work construction. For cross sections of columns and beams, the deviation is +12 mm and -6 mm. For dimensions of footings, the deviation is +50 mm and -12 mm, or 0.02 times the width of the footing in the direction of deviation but not more than 50 mm. For thickness, the deviation is ±0.05 times the specified thickness. These tolerances apply only to concrete dimensions, not to the positioning of vertical steel or dowels."
+        ],
+        "answer": [
+            "Cross sections of columns and beams: +12 mm, -6 mm; Dimensions of footings: +50 mm, -12 mm, or 0.02 times the width; Thickness: ±0.05 times the specified thickness."
+        ],
+        "evidence_page": "[5]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the minimum period before striking form work for vertical form work to columns, walls, and beams when using OPC 43 grade cement?"
+        ],
+        "analysis": [
+            "- The document provides a table under section 5.2.3.7 for Removal of Form work (Stripping Time).- It lists the minimum periods before striking form work for different types of cement. - For OPC 43 grade cement, the minimum period before striking form work for vertical form work to columns, walls, and beams is specified."
+        ],
+        "answer": [
+            "16-24 hours."
+        ],
+        "evidence_page": "[6]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "How long should props to beams and arches spanning over 6m be left in place when using PPC?"
+        ],
+        "analysis": [
+            "The table indicates that for props to beams and arches spanning over 6m, the minimum period before striking form work for PPC is 30 days."
+        ],
+        "answer": [
+            "30 days."
+        ],
+        "evidence_page": "[7]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "How does the stripping time for Portland pozzolana cement compare to OPC 43 grade cement?"
+        ],
+        "analysis": [
+            "- Note 1 mentions that for Portland pozzolana cement, the stripping time is 10/7 of the period stated for OPC with 43 grade cement. - This implies that the stripping time for Portland pozzolana cement is longer than for OPC 43 grade cement."
+        ],
+        "answer": [
+            "The stripping time for Portland pozzolana cement is longer than for OPC 43 grade cement."
+        ],
+        "evidence_page": "[7]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What are the requirements for adjustable steel props?"
+        ],
+        "analysis": [
+            "- The document specifies that the bearing soil must be sound and well prepared. - Sole plates must be properly seated on their bearing pads or sleepers. - The bearing plates of steel props should not be distorted. - The steel parts on the bearing members should have adequate bearing areas."
+        ],
+        "answer": [
+            "TThe bearing soil must be sound and well prepared, and sole plates must be properly seated on their bearing pads or sleepers. The bearing plates of steel props should not be distorted, and the steel parts on the bearing members should have adequate bearing areas."
+        ],
+        "evidence_page": "[8]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What are the requirements for the supports in formwork as per the document, and how should they be positioned?"
+        ],
+        "analysis": [
+            "Section (n) states that cantilever supports shall be adequate. Section (s) mentions that supports should be adequate and in plumb within the specified tolerances. Section (o) specifies that props should be directly under one another in multistage constructions as far as possible."
+        ],
+        "answer": "7Supports must be adequate, cantilever supports should be sufficient, and props should be directly under one another in multistage constructions, positioned in plumb within specified tolerances.",
+        "evidence_page": "[9]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If a project involves constructing a spiral staircase and an arch dome, how should the form work be measured and paid for?"
+        ],
+        "analysis": [
+            "1. **Spiral Staircases**: - The document specifies that spiral staircases (including landings) are included in the form work measurement (section g). 2. **Arch Domes**: - Arches and domes are also included in the form work measurement (section h). - Extra charges apply for arches and domes exceeding 6 m span (section i). 3. **Measurement and Payment**: - Section 5.2.6.3 states that centering and shuttering exceeding 3.5 meters in height in one floor shall be measured and paid for separately. - Section 5.2.6.4 indicates that if not specifically stated, the cost of form work is included in the RCC item. - Section 5.2.6.5 mentions no deductions for openings/obstructions if they do not exceed 0.4 square meters. - Section 5.2.6.6 clarifies that form work for arches, domes, and spiral staircases does not qualify for extra rate for circular work. - Section 5.2.6.7 allows extra charges for circular work if it involves surfaces beyond the straight edge of supporting beams."
+        ],
+        "answer": "The form work for the spiral staircase and arch dome should be measured as specified, with no extra charges for circular work unless the surfaces extend beyond the straight edge of supporting beams.",
+        "evidence_page": "[10]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the maximum interval allowed for overlapping bars in reinforcement?"
+        ],
+        "analysis": [
+            "- The document states that overlapping bars should be bound together at intervals not exceeding twice the diameter of such bars with two strands of annealed steel wire of 0.90 mm to 1.6 mm twisted tight. - Therefore, the maximum interval is twice the diameter of the bars."
+        ],
+        "answer": "Twice the diameter of the bars.",
+        "evidence_page": "[11]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the nominal concrete cover for severe exposure conditions?"
+        ],
+        "analysis": [
+            "The table under section 5.3.3.5 Cover lists the nominal concrete cover for different exposure conditions. For Severe exposure, the nominal concrete cover is specified as 45 mm."
+        ],
+        "answer": "45 mm",
+        "evidence_page": "[12]",
+        "evidence_sources": "[table]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the maximum allowable deviation for the actual concrete cover in a severe exposure condition?"
+        ],
+        "analysis": [
+            "1. The table specifies the nominal concrete cover for severe exposure as 45 mm. 2. Note 2 states that unless specified otherwise, the actual concrete cover should not deviate from the required nominal cover by more than +10 mm. 3. Therefore, for severe exposure, the maximum allowable deviation is +10 mm."
+        ],
+        "answer": "+ 10 mm",
+        "evidence_page": "[12]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the total mass of steel bars required for a project if 100 meters of 16 mm and 50 meters of 20 mm bars are needed?"
+        ],
+        "analysis": [
+            "- From Table 5.4, the mass per meter run for 16 mm bars is 1.58 kg.- For 20 mm bars, the mass per meter run is 2.47 kg. - Calculate the total mass for 16 mm bars: (100 times 1.58  = 158 kg). - Calculate the total mass for 20 mm bars: (50 times 2.47 = 123.5 kg). - Add the masses for both sizes: 158 + 123.5 = 281.5 kg"
+        ],
+        "answer": "281.5 kg.",
+        "evidence_page": "[13]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "How should concrete be compacted?"
+        ],
+        "analysis": [
+            "Section 5.4.3.1 explains that concrete should be compacted into dense mass immediately after placing by means of mechanical vibrators designed for continuous operations complying with IS 2505, IS 2506, IS 2514, and IS 4656."
+        ],
+        "answer": "By means of mechanical vibrators complying with IS 2505, IS 2506, IS 2514, and IS 4656.",
+        "evidence_page": "[14]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If a patch requires a uniform surface color and appears darker than the surrounding concrete, what is the recommended solution?"
+        ],
+        "analysis": [
+            "1. **Identify the Problem**: The document states that patches may appear darker than the surrounding concrete due to less cement laitance. 2. **Recommended Solution**: To remedy this defect, the document suggests adding 10 to 20 percent of white Portland cement to the patching mortar. 3. **Determine Quantity**: The exact quantity of white Portland cement to be added should be determined by trial."
+        ],
+        "answer": "Add 10 to 20 percent of white Portland cement to the patching mortar, with the exact quantity determined by trial.",
+        "evidence_page": "[16]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the compressive strength at 28 days for a 1:1.5:3 concrete mix, and how does it compare to the 7-day strength?"
+        ],
+        "analysis": [
+            "- The table lists the compressive strength for a 1:1.5:3 concrete mix. - At 7 days, the compressive strength is 175 kg/sq cm. - At 28 days, the compressive strength is 265 kg/sq cm. - To compare, subtract the 7-day strength from the 28-day strength: 265 - 175 = 90 kg/sq cm."
+        ],
+        "answer": "The compressive strength at 28 days for a 1:1.5:3 mix is 265 kg/sq cm, which is 90 kg/sq cm higher than the 7-day strength.",
+        "evidence_page": "[17]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What happens if the actual average strength of an accepted sample is less than 70% of the specified strength?"
+        ],
+        "analysis": [
+            "- According to section 5.4.10.4(e), if the actual average strength of an accepted sample is less than 70% of the specified strength, the Engineer-in-Charge shall reject the defective portion of work represented by the sample. - Nothing shall be paid for the rejected work. - Remedial measures necessary to retain the structure shall be taken at the risk and cost of the contractor. - The Engineer-in-Charge may order additional tests to ascertain if the structure can be retained, with all charges borne by the contractor."
+        ],
+        "answer": "The defective work is rejected, no payment is made, and remedial measures are at the contractor's risk and cost. Additional tests may be ordered by the Engineer-in-Charge.",
+        "evidence_page": "[18]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the minimum percentage of cubes that must be within the permissible range of variation for the rebound number during calibration?"
+        ],
+        "analysis": [
+            "1. **Identify the Requirement**: The document specifies that at least 8 out of 12 cubes must be within the permissible range of variation of the rebound number. 2. **Calculate the Percentage**:  - Total cubes = 12 - Required cubes within range = 8 - Percentage = (8/12) × 100 = 66.67%"
+        ],
+        "answer": "66.67%.",
+        "evidence_page": "[19]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "Under what conditions can 7 days’ cube test strength criteria be adopted?"
+        ],
+        "analysis": [
+            "Section (F) specifies that in rare cases of time-bound projects or urgent repairs, 7 days’ cube test strength criteria may be adopted."
+        ],
+        "answer": "In rare cases of time-bound projects or urgent repairs.",
+        "evidence_page": "[20]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the maximum cross-sectional area for which no extra payment is made for water pipes and conduits?"
+        ],
+        "analysis": [
+            "Section 5.4.11.4(d) mentions that no extra payment is made for water pipes and conduits not exceeding 25 sq cm in cross-sectional area."
+        ],
+        "answer": "25 sq cm.",
+        "evidence_page": "[21]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If the actual average compressive strength of an RCC member is 75% of the specified strength, what percentage of the agreement rate is payable?"
+        ],
+        "analysis": [
+            "1. The document states that if the actual average compressive strength is less than the specified strength but up to 70%, the rate payable is proportional to the actual strength. 2. The example given shows that if the average compressive strength is 80% of the specified strength, the rate payable is 80% of the agreement rate. 3. For 75% of the specified strength, the rate payable will be 75% of the agreement rate, following the same proportional logic."
+        ],
+        "answer": "75% of the agreement rate is payable.",
+        "evidence_page": "[22]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the minimum concrete cover required for the wrapping of steel columns and beams?"
+        ],
+        "analysis": [
+            "1. **Steel Columns:** - The document specifies in section 5.5.2.1 that the surface and edges of the steel columns should have a concrete cover of not less than 50 mm. 2. **Steel Beams and Grillage:** - Section 5.5.2.2 states that the surfaces and edges of the steel sections should also have a concrete cover of not less than 50 mm."
+        ],
+        "answer": "The minimum concrete cover required for both steel columns and beams is 50 mm.",
+        "evidence_page": "[23]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the required maturation period for precast articles before erection?"
+        ],
+        "analysis": [
+            "According to section 5.6.6, precast articles should be matured for 28 days before erection or being built in."
+        ],
+        "answer": "28 days.",
+        "evidence_page": "[24]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "How should the thickness of the jali be measured?"
+        ],
+        "analysis": [
+            "Section 5.7.2 specifies that the thickness of the jali shall not be less than that specified, and it should be measured correctly to a centimeter."
+        ],
+        "answer": "The thickness shall not be less than specified and measured to a centimeter.",
+        "evidence_page": "[25]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the specified mix ratio for the precast cement concrete jali, and what is the reinforcement requirement?"
+        ],
+        "analysis": [
+            "- The document specifies the mix ratio for the precast cement concrete jali as 1:2:4, which means 1 part cement, 2 parts coarse sand, and 4 parts stone aggregate. - The reinforcement requirement is specified as 1.6 mm thick mild steel wire."
+        ],
+        "answer": "The mix ratio is 1:2:4, and the reinforcement requirement is 1.6 mm thick mild steel wire.",
+        "evidence_page": "[25]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If a batch of concrete has a mean compressive strength of 35 N/mm² from four consecutive test results, and the specified characteristic strength is 30 N/mm², does it comply with the acceptance criteria?"
+        ],
+        "analysis": [
+            "- According to section 5.8.3.1(a), the mean strength from any group of four consecutive test results must comply with the appropriate limits in column 2 of Table 5.6. However, Table 5.6 is not visible, so we focus on the given data. - Section 5.8.3.1(b) requires any individual test result to comply with column 3 of Table 5.6, which is also not visible. - Assuming the specified characteristic strength is 30 N/mm², the mean strength of 35 N/mm² exceeds this by 5 N/mm². - The document does not specify the exact compliance criteria from Table 5.6, but the mean strength exceeds the specified characteristic strength by more than 0.3 N/mm².."
+        ],
+        "answer": "Yes, it complies with the acceptance criteria based on the given information.",
+        "evidence_page": "[26]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What should be done if there is no established value of standard deviation for concrete strength?"
+        ],
+        "analysis": [
+            "The note under the table states that in the absence of an established value of standard deviation, the values given in the table may be assumed, and an attempt should be made to obtain results of 30 samples as early as possible to establish the value of standard deviation."
+        ],
+        "answer": "Assume table values and obtain results of 30 samples to establish standard deviation.",
+        "evidence_page": "[27]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What are the guidelines for transporting ready-mixed concrete?"
+        ],
+        "analysis": [
+            "- Section 5.9.2.2 covers the transport of concrete. - Concrete should be transported rapidly to maintain workability. - Methods should prevent segregation and contamination. - Concrete should be placed as soon as possible after delivery. - Re-handling or moving by vibration is allowed if required by the purchaser."
+        ],
+        "answer": "Ready-mixed concrete should be transported rapidly to maintain workability, preventing segregation and contamination. It should be placed promptly, with re-handling or vibration allowed if needed.",
+        "evidence_page": "[28]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the maximum allowable time for concrete to be discharged from the truck-mixer under normal conditions, and what exceptions are mentioned?"
+        ],
+        "analysis": [
+            "The document states that concrete should be discharged from the truck-mixer within 2 hours of loading under normal conditions. However, it allows for a longer period if retarding admixtures are used or in cool humid weather or when chilled concrete is produced."
+        ],
+        "answer": "Maximum 2 hours under normal conditions; longer if retarding admixtures are used or in cool humid weather or when chilled concrete is produced.",
+        "evidence_page": "[28]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What information should the producer provide about admixtures when requested?"
+        ],
+        "analysis": [
+            "Section 5.9.5 states that the producer should provide information on the nature and source of each constituent material, source of supply of cement, proposed proportions, generic type(s) of the main active constituent(s) in the admixture, chloride content if any, confirmation of compatibility if more than one admixture is used, and initial and final setting time of concrete with admixture."
+        ],
+        "answer": "Nature and source of materials, cement supply source, proportions, admixture types, chloride content, compatibility, and setting times.",
+        "evidence_page": "[30]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What are the storage requirements for cement, and how do they ensure the prevention of moisture contamination?"
+        ],
+        "analysis": [
+            "The text specifies that cement should be stored in bins or silos that are weatherproof and permit free flow and efficient discharge. Each silo or compartment must be separate and fitted with a filter or alternative dust control system to maintain specified pressure and prevent emission of cement dust. Cement bags should be kept free from dampness or moisture and stored in a way that prevents undue damage."
+        ],
+        "answer": "Cement must be stored in weatherproof bins or silos with dust control systems to prevent moisture contamination. Bags should be kept free from dampness and stored to avoid damage.",
+        "evidence_page": "[31]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the required accuracy for measuring cement and mineral admixtures, and how does it compare to the accuracy required for aggregates?"
+        ],
+        "analysis": [
+            "The text states that the accuracy for measuring cement and mineral admixtures must be within ±2 percent of their quantity. For aggregates, the accuracy must be within ±3 percent of their quantity. Therefore, the accuracy requirement for cement and mineral admixtures is stricter than that for aggregates."
+        ],
+        "answer": "Cement and mineral admixtures require ±2 percent accuracy, while aggregates require ±3 percent accuracy.",
+        "evidence_page": "[32]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is required immediately before discharging concrete at the point of delivery?"
+        ],
+        "analysis": [
+            "Section 5.9.6.5 titled Delivery Ticket states that immediately before discharging the concrete at the point of delivery, the producer or his representative must provide the purchaser with a preprinted delivery ticket for each delivery of concrete."
+        ],
+        "answer": "A preprinted delivery ticket must be provided.",
+        "evidence_page": "[33]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What actions should be taken if significant variations from target values are detected during product control?"
+        ],
+        "analysis": [
+            "The document specifies that during product control, concrete mixes are randomly sampled and tested for workability and other properties. If significant variations from target values are detected, corrective action should be taken. It is important to maintain the water-cement ratio constant, and adjustments should be made to compensate for variations in moisture content in aggregates. Changes in water content due to aggregate grading should be managed by modifying the mix design."
+        ],
+        "answer": "Corrective actions should include maintaining the water-cement ratio, adjusting for moisture content variations, and modifying the mix design as needed.",
+        "evidence_page": "[34]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What type of pump is not acceptable for use in the works?"
+        ],
+        "analysis": [
+            "Section 5.10.1 General specifies that compressed air pressure pumps shall not be used in the works."
+        ],
+        "answer": "Compressed air pressure pumps.",
+        "evidence_page": "[35]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the minimum capacity required for the receiving hopper in squeeze pressure pumps, and what feature must it include?"
+        ],
+        "analysis": [
+            "The document specifies that the receiving hopper must have a minimum capacity of 1.0 cubic meter. Additionally, it must be fitted with remixing rotating blades capable of maintaining consistency and uniformity of concrete."
+        ],
+        "answer": "The minimum capacity required is 1.0 cubic meter, and it must include remixing rotating blades.",
+        "evidence_page": "[36]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If a pipeline has a diameter of 150 mm, what type of coupler is recommended?"
+        ],
+        "analysis": [
+            "- The document mentions that for pipelines of size 150 mm and above, a specific type of coupler is recommended. - It suggests using a double togged type coupler with a thick rubber gasket and secondary wedge-take-up."
+        ],
+        "answer": "Double togged type coupler with a thick rubber gasket and secondary wedge-take-up.",
+        "evidence_page": "[37]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What should be ensured before placing concrete in the pump?"
+        ],
+        "analysis": [
+            "Section 5.11.1, point (vii), specifies that the pump should be started for a check run and operated without concrete to ensure all moving parts are in operation properly. The pump should be run with some grout/mortar for lubricating the line."
+        ],
+        "answer": "Ensure all moving parts are operating properly and run the pump with grout/mortar for lubrication.",
+        "evidence_page": "[38]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What information must contractors submit regarding the equipment they propose to use?"
+        ],
+        "analysis": [
+            "The document under section 5.11.2 Submittals specifies that contractors must submit information on the type, number, capacity, range, mounting, nature of primary power used, and the operating weight of the pump and mounting. Additionally, they must provide manufacturer's specifications for pipe lines and manufacturer's certificates."
+        ],
+        "answer": "Type, number, capacity, range, mounting, nature of primary power used, operating weight of pump and mounting, manufacturer's specifications for pipe lines, and manufacturer's certificates.",
+        "evidence_page": "[39]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What are the mandatory tests for aggregates at the site, and how many tests are required for each 50 cum of material?"
+        ],
+        "analysis": [
+            "The table under the section Mandatory tests on Aggregates at site lists five tests: Specific gravity, Bulk density, Aggregate crushing strength, Limits of deleterious substances, and Aggregate impact value. Each test requires 3 tests per 50 cum of material or part thereof."
+        ],
+        "answer": "The mandatory tests are Specific gravity, Bulk density, Aggregate crushing strength, Limits of deleterious substances, and Aggregate impact value. Each requires 3 tests per 50 cum of material.",
+        "evidence_page": "[40]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If a total of 5000 bags of cement are delivered, how many bags should be sampled for testing?"
+        ],
+        "analysis": [
+            "- According to the document, samples for testing at the site should be taken from 2% of the total quantity supplied in one lot. - For cement supplied in bags, the minimum number of bags sampled should be 5. - 2% of 5000 bags = 0.02 × 5000 = 100 bags. - Since 100 bags is greater than the minimum requirement of 5 bags, 100 bags should be sampled."
+        ],
+        "answer": "100 bags should be sampled.",
+        "evidence_page": "[41]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What certificates must suppliers of admixtures provide before their use is approved?"
+        ],
+        "analysis": [
+            "The document specifies that suppliers must provide several certificates: one confirming the use of a particular brand of admixture is not harmful, one confirming the exact dosage, one stating the specific purpose, and one confirming conformity to specifications of IS 9103 or ASTM standards."
+        ],
+        "answer": "Certificates confirming non-harmfulness, exact dosage, specific purpose, and conformity to IS 9103 or ASTM standards.",
+        "evidence_page": "[42]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "How many slump tests are required for 100 cubic meters of concrete at the placement location?"
+        ],
+        "analysis": [
+            "- According to section (v), samples for checking slump shall be collected from every 20 cum of concrete. - For 100 cum of concrete, the number of samples required = 100 / 20 = 5 samples. - Section (vi) states that at least two recordings shall be made for each slump check, but the average is taken as the recorded slump."
+        ],
+        "answer": "5 slump tests are required.",
+        "evidence_page": "[43]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "How many samples are required for a concrete delivery of 45 cubic meters"
+        ],
+        "analysis": [
+            "- Table 5.8 specifies the number of samples based on the quantity of concrete delivered. - For 31 to 50 cubic meters, 3 samples are required. - Since 45 cubic meters falls within this range, 3 samples are needed."
+        ],
+        "answer": "3 samples.",
+        "evidence_page": "[44]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the types of non-destructive tests mentioned?"
+        ],
+        "analysis": [
+            "The document lists several types of non-destructive tests, including Rebound hammer test, Windsor Penetration Probe test, Pulse velocity (sonic or Ultrasonic) test, Core test, and Load test."
+        ],
+        "answer": "Rebound hammer test, Windsor Penetration Probe test, Pulse velocity test, Core test, Load test.",
+        "evidence_page": "[45]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is required for the test reports and observation reports conducted at the field laboratory?"
+        ],
+        "analysis": [
+            "Clause (f) specifies that all test reports and observation reports must be jointly signed by the Engineer-in-Charge authorized representative and the technician conducting the test."
+        ],
+        "answer": "They must be jointly signed by the Engineer-in-Charge authorized representative and the technician conducting the test.",
+        "evidence_page": "[46]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the minimum thickness required for the base plate used in the moulds for concrete test specimens?"
+        ],
+        "analysis": [
+            "1. The document specifies that each mould must have a base plate. 2. The base plate must be made of non-absorbent material and should support the moulds without leakage. 3. It states that glass plates should be at least 6.5 mm thick, and plain metal plates should be at least 12 mm thick.."
+        ],
+        "answer": "The minimum thickness required for the base plate is 6.5 mm for glass plates and 12 mm for plain metal plates.",
+        "evidence_page": "[47]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the recommended temperature range for storing concrete test specimens after removal from the moulds?"
+        ],
+        "analysis": [
+            "1. **Identify Relevant Section**: The section titled A-1.4 Curing and Storage of Test Specimen discusses the conditions for storing test specimens. 2. **Extract Temperature Information**: It states that after removal from the moulds, specimens should be stored in a moist condition at a temperature between 24°C to 30°C until the time of testing. 3. **Confirm Context**: This temperature range is specified to ensure proper curing and moisture conditions."
+        ],
+        "answer": "24°C to 30°C.",
+        "evidence_page": "[48]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "At what rate should the load be applied during the compression test?"
+        ],
+        "analysis": [
+            "The document specifies in section (d) that the load should be applied axially without shock at the rate of approximately 140 kg per sq.cm. per minute."
+        ],
+        "answer": "Approximately 140 kg per sq.cm. per minute.",
+        "evidence_page": "[49]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the procedure for conducting a rebound hammer test and how does it relate to the use of calibration charts?"
+        ],
+        "analysis": [
+            "Section B-1 describes the rebound hammer test procedure, stating that it should be conducted by trained personnel using IS 13311 (part II). It emphasizes the use of continuously maintained individual charts to relate readings to concrete strength. Calibration charts, if available from manufacturers, can be used to interpret results, indicating their importance in obtaining accurate strength approximations."
+        ],
+        "answer": "The rebound hammer test should be conducted by trained personnel using IS 13311 (part II), with individual charts relating readings to concrete strength. Calibration charts from manufacturers can be used for accurate strength approximations.",
+        "evidence_page": "[50]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the maximum allowable crack width immediately after applying the test load for local damage?"
+        ],
+        "analysis": [
+            "- The document specifies in section B-5.4(a) that the maximum width of any crack measured immediately on application of the test load for local damage should not exceed 2/3 of the value of the appropriate limit state requirement.- The exact value of the limit state requirement is not provided in the document, so the calculation cannot be completed without additional information."
+        ],
+        "answer": "The maximum allowable crack width is 2/3 of the limit state requirement.",
+        "evidence_page": "[51]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the required concentration of the silver nitrate solution for testing water soluble chlorides, and how is it standardized?"
+        ],
+        "analysis": [
+            "- The document specifies the preparation of a silver nitrate solution with a concentration of 0.02 N. - To standardize this solution, it is titrated against a 0.02 N sodium chloride solution. - Potassium chromate is used as an indicator, with a concentration of 5 percent m/v, as per the procedure in IS 3025 (Part 32).."
+        ],
+        "answer": "The required concentration is 0.02 N, and it is standardized by titrating against a 0.02 N sodium chloride solution using potassium chromate as an indicator.",
+        "evidence_page": "[52]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If 30 ml of silver nitrate is added and 10 ml of ammonium thiocyanate is consumed, what is the percentage of chloride in the mortar or concrete sample?"
+        ],
+        "analysis": [
+            "1. The formula for calculating the percentage of chloride is given as: Chloride, percent = 0.0007 times (X - Y) where X is the volume of silver nitrate added, and  Y is the volume of ammonium thiocyanate consumed. 2. Substitute the given values into the formula: X = 30 ml, Y = 10 ml 3. Calculate the difference: X - Y = 30 - 10 = 20 4. Calculate the percentage of chloride: Chloride, percent = 0.0007 times 20 = 0.014"
+        ],
+        "answer": "0.014%.",
+        "evidence_page": "[53]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the compressive strength requirement for the concrete mix 1:1:2, and how does it compare to the specified compressive strength in the 7 Days' Test section?"
+        ],
+        "analysis": [
+            "The table at the top lists the compressive strength for the concrete mix 1:1:2 as 210 kg/cm². In the 7 Days' Test section, the specified compressive strength of the concrete mix used is referenced in column 4. However, the specific value is not provided in the image, so a direct comparison cannot be made without additional data."
+        ],
+        "answer": "The compressive strength for the concrete mix 1:1:2 is 210 kg/cm². A comparison with the specified compressive strength in the 7 Days' Test section cannot be made due to missing data.",
+        "evidence_page": "[54]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If the specified compressive strength of the concrete mix used is 265 kg/cm², what is the minimum acceptable average strength of three cubes for the concrete to be accepted at full rates?"
+        ],
+        "analysis": [
+            "1. The specified compressive strength of the concrete mix is given as 265 kg/cm². 2. According to the document, the minimum acceptable average strength for full acceptance is 70% of the specified strength. 3. Calculate 70% of 265 kg/cm²:  0.7 times 265 = 185.5 kg/cm 4. Therefore, the minimum acceptable average strength of three cubes for full acceptance is 185.5 kg/cm²."
+        ],
+        "answer": "185.5 kg/cm².",
+        "evidence_page": "[55]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the total number of concrete cube moulds needed, and what are their dimensions?"
+        ],
+        "analysis": [
+            "The document specifies Concrete cube moulds 15x15x15cm under Concrete Testing with a quantity of 50 Nos."
+        ],
+        "answer": "50 concrete cube moulds are needed, each with dimensions of 15x15x15 cm.",
+        "evidence_page": "[56]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If each Plastic or G.I. Bucket has an average capacity of 10 liters, what is the total capacity for all buckets listed?"
+        ],
+        "analysis": [
+            "- Plastic or G.I. Buckets: 15 ltr, 10 ltr, 5 ltr (2 Nos. each) Average capacity = (15 + 10 + 5) / 3 = 10 liters Total capacity = 10 liters/bucket × 6 buckets = 60 liters"
+        ],
+        "answer": "60 liters",
+        "evidence_page": "[57]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If the maximum free water cement ratio specified is 0.45 and the nominal maximum aggregate size is 20 mm, is the concrete mix likely to be suitable for severe exposure conditions?"
+        ],
+        "analysis": [
+            "1. **Maximum Free Water Cement Ratio**: The document provides a space to specify this ratio. A lower ratio generally indicates higher durability, which is important for severe exposure conditions. A ratio of 0.45 is typically considered suitable for severe exposure. 2. **Nominal Maximum Aggregate Size**: The document allows for specification of the aggregate size. A size of 20 mm is common and generally suitable for a variety of conditions, including severe exposure, assuming other factors are also appropriate. 3. **Exposure Condition**: The document includes a section to specify exposure conditions. For severe exposure, both the water-cement ratio and aggregate size should be appropriate."
+        ],
+        "answer": "Given a maximum free water cement ratio of 0.45 and a nominal maximum aggregate size of 20 mm, the concrete mix is likely to be suitable for severe exposure conditions, assuming all other factors are appropriately addressed.",
+        "evidence_page": "[58]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the tolerance for the accuracy of weighing devices for cement and mineral admixtures?"
+        ],
+        "analysis": [
+            "The document specifies under section (a)(1) that the accuracy for cement and mineral admixtures should be within ±2 percent of the quantity being measured."
+        ],
+        "answer": "Within ±2 percent.",
+        "evidence_page": "[59]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What information must be included on the delivery ticket regarding the concrete's composition and specifications?"
+        ],
+        "analysis": [
+            "The document specifies several details related to the concrete's composition and specifications that must be included on the delivery ticket: 1. Grade or mix description of the concrete (h) 2. Specified target workability (i) 3. Minimum cement content, if specified (j) 4. Type of cement and grade, if specified (k). 5. Maximum free water-cement ratio, if specified (l). 6. Nominal maximum size of aggregate (m). 7. Generic type or name of any chemical and mineral admixtures included (n)."
+        ],
+        "answer": "Grade/mix description, target workability, minimum cement content, type/grade of cement, max water-cement ratio, max aggregate size, admixtures.",
+        "evidence_page": "[60]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What are the differences in structural support between the single-sided and double-sided wall forms?"
+        ],
+        "analysis": [
+            "- The single-sided wall form (Fig. 5.1A) is supported on one side only. It relies on external supports or braces to maintain stability. - The double-sided wall form (Fig. 5.1B) has forms on both sides of the wall, providing inherent stability by clamping the forms together. - The double-sided form is likely more stable without additional external supports compared to the single-sided form."
+        ],
+        "answer": "The single-sided wall form requires external supports, while the double-sided wall form is inherently more stable due to forms on both sides.",
+        "evidence_page": "[61]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the length of the channel souldier used in the wall tie fixing details?"
+        ],
+        "analysis": [
+            "In Fig. 5.3B, the diagram labels a CHANNEL SOULDIER with a specified length of 2.5 m long."
+        ],
+        "answer": "2.5 m",
+        "evidence_page": "[63]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the total length of the coil tie if the wall thickness is 300 mm?"
+        ],
+        "analysis": [
+            "- The image shows that the coil tie length is the sum of the wall thickness and two times the coil penetration. - Wall thickness is given as 300 mm. - Coil penetration on each side is 47.5 mm. - Therefore, total coil tie length = wall thickness + 2 × coil penetration = 300 mm + 2 × 47.5 mm = 300 mm + 95 mm = 395 mm."
+        ],
+        "answer": "395 mm.",
+        "evidence_page": "[63]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the height of the vertical member labeled as 3 M?"
+        ],
+        "analysis": [
+            "The diagram labeled E - VERTICALS (IN DIFFERENT HEIGHTS) shows a vertical member with a height of 3 M."
+        ],
+        "answer": "3 M",
+        "evidence_page": "[64]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the purpose of the adjustable base, and how does it relate to the Clause 5.2.3.2?"
+        ],
+        "analysis": [
+            "The figure labeled F shows an ADJUSTABLE BASE, which is typically used to level and support formwork structures. Clause 5.2.3.2 likely outlines requirements for formwork stability and adjustability, ensuring that components like the adjustable base are used to achieve proper alignment and support."
+        ],
+        "answer": "The adjustable base is used for leveling and supporting formwork structures, aligning with Clause 5.2.3.2's requirements for stability and adjustability.",
+        "evidence_page": "[65]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What component is used in the column form with adjustable shuttering wall form type panels?"
+        ],
+        "analysis": [
+            "The diagram labeled Fig. 5.6C shows components such as SINGLE CLIP, TUBE, and THROUGH TIE/WIRE TIE."
+        ],
+        "answer": "Single clip, tube, through tie/wire tie",
+        "evidence_page": "[66]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How does the column form with adjustable shuttering wall form type panels differ in its components compared to the other forms?"
+        ],
+        "analysis": [
+            "Fig. 5.6C, labeled Column Form with Adjustable Shuttering Wall Form Type Panels, includes components such as SINGLE CLIP, TUBE, and THROUGH TIE/WIRE TIE. These components are not mentioned in the descriptions of the other forms (5.6A and 5.6B)."
+        ],
+        "answer": "The column form with adjustable shuttering wall form type panels includes single clips, tubes, and through tie/wire ties, which are not present in the other forms.",
+        "evidence_page": "[66]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the thickness of the stiffener?"
+        ],
+        "analysis": [
+            "The diagram includes a labeled stiffener with dimensions, specifying a thickness of 10 mm."
+        ],
+        "answer": "10 mm",
+        "evidence_page": "[68]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What material are all members of the multi-stage shuttering made of?"
+        ],
+        "analysis": [
+            "The image contains a note on the left side of the vertical section diagram stating, All Members are of Steel."
+        ],
+        "answer": "Steel",
+        "evidence_page": "[69]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is used to secure the metal cradle in the raised type expansion joint at the roof?"
+        ],
+        "analysis": [
+            "The diagram Fig. 5.11: Details of Raised Type Expansion Joint at Roof shows RAWL PLUG & SCREWS WITH OVAL SHAPED SLOT & WASHER used to secure the metal cradle."
+        ],
+        "answer": "Rawl plug & screws with oval shaped slot & washer",
+        "evidence_page": "[70]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the thickness of the R.C.C. precast tile used in the expansion joint at the floor?"
+        ],
+        "analysis": [
+            "In Fig. 5.12, labeled Typical Details of Expansion Joint at Floor, it specifies the use of an R.C.C. PRECAST TILE 25 MM THICK.."
+        ],
+        "answer": "25 mm",
+        "evidence_page": "[71]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "How many screws are required for the asbestos sheet in the Long Verandah Slab if the length is 12,000 mm?"
+        ],
+        "analysis": [
+            "The asbestos sheet requires rawl plugs and 50 mm screws at 300 mm centers. For a length of 12,000 mm, the number of screws needed is 12,000 mm / 300 mm = 40 screws."
+        ],
+        "answer": "40 screws",
+        "evidence_page": "[72]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the specified gap for expansion joints covering on the outer face of columns?"
+        ],
+        "analysis": [
+            "In Fig. 5.19, titled Typical Details of Expansion Joint Covering on Outer Face of Columns (Plan), the image shows a 12 mm gap and a 25 mm gap specified for the expansion joint."
+        ],
+        "answer": "12 mm and 25 mm gaps",
+        "evidence_page": "[73]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the width of the gap left unfilled at the top for the intermediate wall with floor beam?"
+        ],
+        "analysis": [
+            "In the diagram labeled B. INTERMEDIATE WALL WITH FLOOR BEAM, it specifies a 50 TO 100 UNFILLED GAP AT TOP."
+        ],
+        "answer": "50 to 100 mm",
+        "evidence_page": "[74]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What materials are used to fill the gap in the seismic separation joint at the roof level?"
+        ],
+        "analysis": [
+            "- The image shows Fig. 5.25, which details the seismic separation joint at the roof level. - The gap is filled with BITUMEN FILLER as indicated in the diagram. - Other materials mentioned in the context include R.C.C. coping, lime terracing/mud fuska, and brick tiles, but these are not used to fill the gap."
+        ],
+        "answer": "Bitumen filler.",
+        "evidence_page": "[75]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the purpose of the stop-board in joint construction, and how is it implemented in walls?"
+        ],
+        "analysis": [
+            "The figure shows a stop-board in section C labeled STOP – BOARD and in section D labeled KEYED JOINTS IN WALLS. In section D, the stop-board is fitted with a 25 x 25 chamfer piece and slotted to take horizontal bars, indicating its purpose is to create a keyed joint that accommodates reinforcement."
+        ],
+        "answer": "The stop-board is used to create keyed joints in walls, fitted with a 25 x 25 chamfer piece and slotted to accommodate horizontal reinforcement bars.",
+        "evidence_page": "[76]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the specified lap length for the wire mesh in the steel column?"
+        ],
+        "analysis": [
+            "In Fig. 5.27, labeled Steel Column, the diagram indicates LAP NOT LESS THAN 100."
+        ],
+        "answer": "Not less than 100 mm",
+        "evidence_page": "[77]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 5.0 Reinfoced_cement_concrete_work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the spacing requirement for the wire hangers in the steel beam with slab?"
+        ],
+        "analysis": [
+            "The figure shows 5 DIA WIRE HANGER AT 1200 C/C above the R.C.C. slab. This indicates that the wire hangers should be spaced at 1200 mm center-to-center."
+        ],
+        "answer": "The wire hangers should be spaced at 1200 mm center-to-center.",
+        "evidence_page": "[77]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 5.0  Reinforced cement concrete work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the requirements for the characteristic compressive strength compliance for M20 grade concrete and the immediate control measures for concrete production?"
+        ],
+        "analysis": [
+            "The characteristic compressive strength compliance for M20 grade concrete is specified in Table 5.6, which states that the mean of the group of 4 non-overlapping consecutive test results should be greater than or equal to fck + 0.825 x established standard deviation or fck + 4 N/mm², whichever is greater (p26). Immediate control measures for concrete production include systematic control of production at each plant, ensuring compliance with specifications, and continuous monitoring of workability and quality, as described under section 5.9.7.2 (p33)."
+        ],
+        "answer": [
+            "M20: ≥ fck + 0.825 x SD or fck + 4 N/mm²; Immediate control: systematic production control, continuous monitoring."
+        ],
+        "evidence_page": "[26, 33]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 5.0  Reinforced cement concrete work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What are the requirements for the compressive strength compliance and the control measures for concrete production?"
+        ],
+        "analysis": [
+            "Page 26 provides the characteristic compressive strength compliance requirements for different grades of concrete, such as M15 and M20, specifying the mean of test results and individual test results needed. Page 33 discusses the control measures for concrete production, including immediate control, production control, and product control, which ensure that the concrete meets the specified standards. These controls involve systematic inspection and testing to maintain quality and compliance with the strength requirements outlined on page 26."
+        ],
+        "answer": [
+            "Compressive strength compliance requires specific mean and individual test results (p26). Control measures include production and product control to ensure compliance."
+        ],
+        "evidence_page": "[26, 33]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0  Reinforced cement concrete work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How do the requirements for wall ties in RCC form work relate to the typical components of form work?"
+        ],
+        "analysis": [
+            "Page 62 provides detailed diagrams of wall ties used in RCC form work, specifically showing their positioning and fixing details. Page 64 illustrates various components of form work, including items like angle ties and adjustable bases, which are essential for supporting and stabilizing the form work structure. The wall ties from page 62 are part of the overall form work system depicted on page 64, ensuring stability and alignment during concrete pouring."
+        ],
+        "answer": [
+            "Wall ties are part of the form work system, ensuring stability and alignment."
+        ],
+        "evidence_page": "[62, 64]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 5.0  Reinforced cement concrete work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the types of aggregates to be used for concrete and the weighing equipment required?"
+        ],
+        "analysis": [
+            "Page 38 lists the types of aggregates to be used for concrete, including Dolerite, Rhyolite, Basalt, Quartzite, and Gneiss. Page 56 provides details on weighing equipment, such as physical balance and dial type spring balance."
+        ],
+        "answer": [
+            "Aggregates: Dolerite, Rhyolite, Basalt, Quartzite, Gneiss; Weighing Equipment: Physical balance, Dial type spring balance."
+        ],
+        "evidence_page": "[38, 56]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0  Reinforced cement concrete work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What are the necessary steps and equipment required for cleaning the pipeline after concrete placement, and how do these relate to the specifications for aggregates and testing equipment?"
+        ],
+        "analysis": [
+            "Page 38 outlines the procedure for cleaning the pipeline after concrete placement, emphasizing the use of a 'go-devil' and water pressure to ensure thorough cleaning. It also mentions the need for careful regulation of air pressure. Page 56 lists various testing equipment such as mortar cube moulds and weighing equipment, which are essential for ensuring the quality of materials used, including aggregates. Page 69 provides details on expansion joints, which require precise material specifications to ensure durability. The connection between these pages lies in the importance of maintaining equipment and material standards to ensure the integrity of the concrete work, from placement to testing and structural detailing."
+        ],
+        "answer": [
+            "Clean pipeline with 'go-devil' and water pressure; use testing equipment for quality assurance."
+        ],
+        "evidence_page": "[38, 56]",
+        "evidence_sources": "[pure_text], [table], [figure]"
+    },
+    {
+        "doc_id": "Division 5.0  Reinforced cement concrete work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How do the specifications for aggregates relate to the details of expansion joints shown in the figures?"
+        ],
+        "analysis": [
+            "The specifications for aggregates on page 38 require certain types of rocks like Dolerite, Rhyolite, Basalt, Quartzite, and Gneiss for concrete. These materials are crucial for ensuring the durability and stability of concrete structures, which is essential for the proper functioning of expansion joints. The figures on page 69 illustrate the details of expansion joints, which are critical components in concrete structures to accommodate movement and prevent cracking. The quality and type of aggregates used in the concrete mix directly impact the performance of these joints, as they must withstand environmental stresses and structural movements."
+        ],
+        "answer": [
+            "Quality aggregates ensure durable expansion joints."
+        ],
+        "evidence_page": "[38, 56]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 5.0  Reinforced cement concrete work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the requirements for camber in beams and slabs, and how is it related to deflection?"
+        ],
+        "analysis": [
+            "Page 5 describes the requirement for camber in beams and slabs, specifying that a camber of 4 mm per meter is needed to counteract deflection. Page 24 further explains the importance of ensuring that the formwork is assembled to offset deflection, highlighting the role of camber in structural integrity."
+        ],
+        "answer": [
+            "Camber of 4 mm per meter to offset deflection."
+        ],
+        "evidence_page": "[5, 24]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0  Reinforced cement concrete work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the minimum mixing time required for concrete in a stationary mixer and how does it relate to the stripping time for vertical form work using OPC 33 grade cement?"
+        ],
+        "analysis": [
+            "Page 147 specifies that the mixing time for concrete in stationary mixers should not be less than the time recommended by the manufacturer, ensuring the concrete achieves the required uniformity. Page 128 provides the stripping time for vertical form work using OPC 33 grade cement, which is 16-24 hours. The relationship here is that adequate mixing time is crucial to achieve the concrete's uniformity and strength, which directly affects the stripping time as the concrete needs to reach sufficient strength before form work can be removed."
+        ],
+        "answer": [
+            "Mixing time: Manufacturer's recommendation; Stripping time: 16-24 hours for OPC 33."
+        ],
+        "evidence_page": "[24, 32]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0  Reinforced cement concrete work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How does the description of formwork in section 5.2.3.5 relate to the equipment listed for concrete testing in Appendix D?"
+        ],
+        "analysis": [
+            "Section 5.2.3.5 on page 5 discusses the requirements for formwork, including the need for proper camber and stiffness to avoid deflection. This is crucial for ensuring the structural integrity of concrete elements. Appendix D on page 73 lists equipment required for site laboratory testing, including concrete cube molds and compression testing machines. These tools are essential for testing the strength and quality of concrete, which directly relates to the effectiveness of the formwork described in section 5.2.3.5. Proper formwork ensures that the concrete can be tested accurately using the listed equipment, confirming its compliance with design specifications."
+        ],
+        "answer": [
+            "Formwork ensures structural integrity for accurate testing with listed equipment."
+        ],
+        "evidence_page": "[5, 73]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 5.0  Reinforced cement concrete work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the specified mix ratio for precast reinforced concrete and precast cement concrete jali?"
+        ],
+        "analysis": [
+            "The specified mix ratio for precast reinforced concrete is found on page 24, section 5.6.2, which states the mix should be well proportioned and compacted. The mix ratio for precast cement concrete jali is specified on page 25, section 5.7.0, as 1:2:4 (1 cement, 2 coarse sand, 4 stone aggregate)."
+        ],
+        "answer": [
+            "Precast reinforced concrete: well proportioned; Precast cement concrete jali: 1:2:4"
+        ],
+        "evidence_page": "[24, 25]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0  Reinforced cement concrete work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "How is the rate payable adjusted if the actual average compressive strength of concrete is less than the specified strength, and what additional steps are taken if it falls below 70%?"
+        ],
+        "analysis": [
+            "According to page 144, if the actual average compressive strength is less than the specified strength but above 70%, the rate payable is adjusted proportionally. For example, if the strength is 80% of the specified, the rate is 80% of the agreement rate. Page 145 states that if the strength is less than 70%, the work is rejected, but further tests may be conducted to determine if the structure can be retained, with costs borne by the contractor."
+        ],
+        "answer": [
+            "Rate is adjusted proportionally above 70%; below 70%, work is rejected and further tests may be conducted."
+        ],
+        "evidence_page": "[21, 22]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0  Reinforced cement concrete work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How is the measurement of R.C.C. work regulated between various units, and how does it relate to the wrapping of steel sections?"
+        ],
+        "analysis": [
+            "The measurement of R.C.C. work between various units is regulated by ensuring no deduction is made for the volume of steel sections, expanded metal, mesh, or any other reinforcement used (p21). This is related to the wrapping of steel sections, where the wrapping is arranged to pass through the center of the concrete covering, ensuring a concrete cover of not less than 50mm (p23). Both sections emphasize the integration of steel within concrete without deductions for the steel's volume, ensuring structural integrity and proper encasement."
+        ],
+        "answer": [
+            "No deduction for steel volume; wrapping ensures 50mm concrete cover."
+        ],
+        "evidence_page": "[21, 23]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0  Reinforced cement concrete work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the minimum periods before striking form work for OPC 33 grade and PPC for vertical form work to columns, walls, and beams?"
+        ],
+        "analysis": [
+            "The minimum periods before striking form work for different types of cement are detailed in the tables on pages 5 and 6. For OPC 33 grade, the minimum period is 16-24 hours, and for PPC, it is 24-36 hours."
+        ],
+        "answer": "OPC 33 grade: 16-24 h, PPC: 24-36 h",
+        "evidence_page": "[5, 6]",
+        "evidence_sources": "[table]"
+    },
+    {
+        "doc_id": "Division 5.0  Reinforced cement concrete work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the minimum stripping time for soffit form work to slabs spanning over 4.5m when using PPC cement, and how does it compare to the stripping time for OPC 33 grade cement?"
+        ],
+        "analysis": [
+            "The minimum stripping time for soffit form work to slabs spanning over 4.5m using PPC cement is 20 days, as stated on page 6. For OPC 33 grade cement, the stripping time is 14 days, as mentioned on the same page. Therefore, the stripping time for PPC cement is 6 days longer than for OPC 33 grade cement."
+        ],
+        "answer": "20 days for PPC, 14 days for OPC 33 grade; PPC is 6 days longer.",
+        "evidence_page": "[5, 6]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0  Reinforced cement concrete work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How does the text on formwork design and tolerance relate to the table on stripping time for different types of formwork?"
+        ],
+        "analysis": [
+            "The text on page 4 discusses the design and tolerance for formwork, emphasizing the need for precision in dimensions and the use of proper materials to ensure stability and safety. This is directly related to the table on page 6, which outlines the stripping time for different types of formwork. The stripping time is crucial as it depends on the formwork's ability to maintain its shape and support the concrete until it gains sufficient strength. The design and tolerance specifications ensure that the formwork can withstand the loads and stresses during this period, aligning with the stripping times specified in the table."
+        ],
+        "answer": "Formwork design ensures stability until stripping times in table.",
+        "evidence_page": "[4, 6]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 5.0  Reinforced cement concrete work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What materials are used for the members in both typical column shuttering and multi-stage shuttering?"
+        ],
+        "analysis": [
+            "Page 66 shows a diagram of typical column shuttering, indicating that all members are made of steel. Similarly, page 68 presents details of multi-stage shuttering, also specifying that all members are made of steel."
+        ],
+        "answer": "Steel",
+        "evidence_page": "[66, 68]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 5.0  Reinforced cement concrete work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What are the differences in structural components between typical column shuttering and multi-stage shuttering?"
+        ],
+        "analysis": [
+            "Page 66 shows a typical column shuttering with all members made of steel, focusing on vertical support for columns. Page 68 illustrates multi-stage shuttering, which includes additional components like transoms and diagonals for horizontal and diagonal support, suitable for suspended floors or slabs. The multi-stage shuttering is designed for more complex structures requiring additional stability."
+        ],
+        "answer": "Column shuttering uses vertical steel members; multi-stage shuttering includes transoms and diagonals for added stability.",
+        "evidence_page": "[66, 68]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 5.0  Reinforced cement concrete work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the requirements for construction joints and testing of concrete in reinforced cement concrete work?"
+        ],
+        "analysis": [
+            "Page 14 outlines the requirements for construction joints, specifying that they should be straight, at right angles to the direction of main reinforcement, and comply with IS 11817. Page 16 describes the testing of concrete, including mandatory lab and field tests to achieve specified compressive strength, with results of field tests prevailing over lab tests."
+        ],
+        "answer": "Construction joints must be straight, at right angles to reinforcement, comply with IS 11817. Concrete testing includes mandatory lab and field tests; field test results prevail.",
+        "evidence_page": "[14, 16]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 5.0  Reinforced cement concrete work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the minimum compressive strength required at 28 days for a 1:1.5:3 concrete mix, and what are the conditions for accepting the average strength of three specimens?"
+        ],
+        "analysis": [
+            "Page 16 provides the compressive strength values for different concrete mixes, including the 1:1.5:3 mix, which requires a minimum of 265 kg/sq cm at 28 days. Page 60 outlines the conditions for accepting the average strength of three specimens: the variation in strength of individual specimens should not exceed ±15% of the average, and the difference between the maximum and minimum strength should not exceed 30% of the average strength."
+        ],
+        "answer": "265 kg/sq cm; variation ≤ ±15% and max-min difference ≤ 30% of average.",
+        "evidence_page": "[16, 60]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 5.0  Reinforced cement concrete work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the requirements for construction joints in reinforced cement concrete work?"
+        ],
+        "analysis": [
+            "The requirements for construction joints are detailed across pages 13 and 14. Page 13 introduces the concept of construction joints in section 5.4.4, stating that concreting should be carried out continuously up to the construction joints, and their position and details should be shown in structural drawings or as directed by the Engineer-in-Charge. Page 14 further elaborates in section 5.4.4.2 that in columns, joints should be horizontal and located 10 to 15 cm below the bottom of the beam running into the column head. It also specifies that construction joints should comply with IS 11817."
+        ],
+        "answer": "Construction joints should be horizontal, 10-15 cm below beam bottom, comply with IS 11817.",
+        "evidence_page": "[13, 14]",
+        "evidence_sources": "[pure_text]"
+    }
+]

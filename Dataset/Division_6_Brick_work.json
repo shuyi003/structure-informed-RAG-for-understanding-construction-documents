@@ -1,0 +1,894 @@
+[
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is a Bed Joint?"
+        ],
+        "analysis": [
+            "The document specifies that a Bed Joint is a horizontal joint in brick work or masonry."
+        ],
+        "answer": [
+            " Horizontal joint in brick work or masonry."
+        ],
+        "evidence_page": "[1]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the difference between a bed joint and a cross joint?"
+        ],
+        "analysis": [
+            "The document defines a bed joint as a horizontal joint in brick work or masonry, while a cross joint is described as a joint other than a bed joint that is normal to the wall face."
+        ],
+        "answer": [
+            "A bed joint is horizontal, while a cross joint is any joint normal to the wall face other than a bed joint."
+        ],
+        "evidence_page": "[1]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What are the maximum allowable dimensions for a rectangular pillar in terms of brick thickness and length?"
+        ],
+        "analysis": [
+            "- The document specifies that for a rectangular pillar, the breadth shall not exceed three times the thickness of the brick. - Additionally, the thickness itself shall not exceed more than thrice the length of the brick."
+        ],
+        "answer": [
+            "The breadth of a rectangular pillar shall not exceed three times the thickness of the brick, and the thickness shall not exceed three times the length of the brick."
+        ],
+        "evidence_page": "[2]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What are the dimensional limits for a rectangular pillar in terms of brick size?"
+        ],
+        "analysis": [
+            "The text specifies that for a rectangular pillar, the breadth shall not exceed three times the thickness, and the thickness itself shall not exceed more than thrice the length of a brick. Figure 6.1C is referenced for visual guidance on these dimensions."
+        ],
+        "answer": [
+            "The breadth of a rectangular pillar shall not exceed three times the thickness, and the thickness shall not exceed more than thrice the length of a brick."
+        ],
+        "evidence_page": "[2]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the maximum allowable loss on ignition for bottom ash used as a replacement of sand?"
+        ],
+        "analysis": [
+            "The note at the top of the document specifies that bottom ash used as a replacement of sand should not have more than 12% loss on ignition when tested."
+        ],
+        "answer": [
+            "12%"
+        ],
+        "evidence_page": "[3]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If a wall requires 500 modular bricks, what is the total nominal volume of these bricks in cubic meters?"
+        ],
+        "analysis": [
+            "The nominal size of modular bricks is 200 mm x 100 mm x 100 mm. Convert these dimensions to meters: 0.2 m x 0.1 m x 0.1 m. The volume of one brick is 0.002 cubic meters. For 500 bricks, the total volume is 500 x 0.002 = 1 cubic meter."
+        ],
+        "answer": [
+            "1 cubic meter"
+        ],
+        "evidence_page": "[3]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the nominal size of modular bricks and how does it compare to the actual size?"
+        ],
+        "analysis": [
+            "Table 6.1 lists the nominal size of modular bricks as 200 x 100 x 100 mm. The actual size is given as 190 x 90 x 90 mm. The actual size is smaller than the nominal size by 10 mm in each dimension."
+        ],
+        "answer": [
+            "Nominal size is 200 x 100 x 100 mm; actual size is 190 x 90 x 90 mm."
+        ],
+        "evidence_page": "[3]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the minimum average compressive strength for Class 7.5 bricks?"
+        ],
+        "analysis": [
+            "Table 6.2 under section 6.1.2 lists the average compressive strength for different classes of bricks. For Class 7.5, the minimum average compressive strength is specified as 7.5 N/mm²."
+        ],
+        "answer": [
+            "7.5 N/mm²"
+        ],
+        "evidence_page": "[4]",
+        "evidence_sources": "[table]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If a brick has an average compressive strength of 8 N/mm², under which class does it fall?"
+        ],
+        "analysis": [
+            "- Table 6.2 provides the classification based on average compressive strength. - The classes are defined by a range of compressive strengths: - Class 12.5: 12.5 to 15.0 N/mm² - Class 10: 10 to 12.5 N/mm² - Class 7.5: 7.5 to 10 N/mm² - Class 5: 5 to 7.5 N/mm² - Class 3.5: 3.5 to 5.0 N/mm² - A brick with a compressive strength of 8 N/mm² falls between 7.5 and 10 N/mm²."
+        ],
+        "answer": [
+            "Class 7.5"
+        ],
+        "evidence_page": "[4]",
+        "evidence_sources": "[table]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the permissible number of defects for warpage in a sample size of 30?"
+        ],
+        "analysis": [
+            "Table 6.4 under the column Permissible No of defects for warpage shows that for a sample size of 30, the permissible number of defects is 2."
+        ],
+        "answer": [
+            "2"
+        ],
+        "evidence_page": "[5]",
+        "evidence_sources": "[table]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "For a lot size of 15,000 bricks, how many bricks should be selected for visual characteristics, and what is the permissible number of defective bricks?"
+        ],
+        "analysis": [
+            "According to Table 6.3, for a lot size of 10,001–35,000 bricks, 32 bricks should be selected for visual characteristics. The permissible number of defective bricks in this sample is 2."
+        ],
+        "answer": [
+            "32 bricks should be selected, with a permissible number of 2 defective bricks."
+        ],
+        "evidence_page": "[5]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the dimensional tolerance for modular bricks with a height of 90 mm?"
+        ],
+        "analysis": [
+            "Section 6.1.3.3(a) states that for modular bricks with a height of 90 mm, the dimensional tolerance is 1760 to 1840 mm (1800 ± 40 mm)."
+        ],
+        "answer": [
+            "1760 to 1840 mm (1800 ± 40 mm)."
+        ],
+        "evidence_page": "[6]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What are the dimensional tolerances for modular bricks, and how do they compare to those for non-modular bricks?"
+        ],
+        "analysis": [
+            "Section 6.1.3.3 outlines the dimensional tolerances for modular bricks, specifying limits for length, width, and height per 20 bricks. For modular bricks, the dimensions are: - Length: 7320 to 3880 mm (3800 ± 80 mm) - Width: 1760 to 1840 mm (1800 ± 40 mm) - Height: 1760 to 1840 mm (1800 ± 40 mm) for 90 mm high bricks - Height: 760 to 840 mm (800 ± 40 mm) for 40 mm high bricks For non-modular bricks, the percentage age tolerance is ± 2% for groups of 20 numbers of class 10 bricks, and ± 4% for other classes of bricks."
+        ],
+        "answer": [
+            "Modular bricks have specific dimensional tolerances in millimeters, while non-modular bricks have percentage tolerances based on class."
+        ],
+        "evidence_page": "[6]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the standard dimensions for sewer bricks?"
+        ],
+        "analysis": [
+            "The image provides a table under section 6.1.4.2 titled “Dimensions and Tolerances” for sewer bricks. The table lists two sets of dimensions: Length 190 mm, Width 90 mm, Height 90 mm and Length 190 mm, Width 90 mm, Height 40 mm."
+        ],
+        "answer": [
+            "190 mm x 90 mm x 90 mm and 190 mm x 90 mm x 40 mm"
+        ],
+        "evidence_page": "[7]",
+        "evidence_sources": "[table]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If a batch of 20 sewer bricks has a length tolerance of ±80 mm, what is the maximum and minimum allowable length for these bricks?"
+        ],
+        "analysis": [
+            "1. The standard length for sewer bricks is 190 mm. 2. The total tolerance for 20 bricks is ±80 mm. 3. Maximum allowable length = 190 mm + 80 mm = 270 mm. 4. Minimum allowable length = 190 mm - 80 mm = 110 mm."
+        ],
+        "answer": "Maximum 270 mm, Minimum 110 mm",
+        "evidence_page": "[7]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If a brick has a dimension of 110 mm, what is the permissible range for its actual dimension according to the specified tolerances?"
+        ],
+        "analysis": [
+            "1. **Identify the Dimension and Tolerance:** - The dimension given is 110 mm. - According to the table, the tolerance for 110 mm is ±7 mm. 2. **Calculate the Permissible Range:** - Minimum permissible dimension = 110 mm - 7 mm = 103 mm. - Maximum permissible dimension = 110 mm + 7 mm = 117 mm."
+        ],
+        "answer": "The permissible range for the dimension is 103 mm to 117 mm.",
+        "evidence_page": "[8]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the maximum allowable deviation from the position shown on the plan for any brickwork?"
+        ],
+        "analysis": [
+            "According to section 6.2.4.3(c), the deviation from the position shown on the plan of any brickwork shall not exceed 12.5 mm."
+        ],
+        "answer": "12.5 mm.",
+        "evidence_page": "[9]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the specified bond type for brick walls, and how is it look like?"
+        ],
+        "analysis": [
+            "The text in section 6.2.4.1 specifies that bricks shall be laid in English Bond, as shown in Figures 6.2, 6.3, and 6.4. These figures would typically illustrate the pattern and arrangement of bricks in English Bond, which involves alternating courses of headers and stretchers."
+        ],
+        "answer": "English Bond, as depicted in Figures 6.2, 6.3, and 6.4.",
+        "evidence_page": "[9]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the specified concrete mix for forming corners with bricks?"
+        ],
+        "analysis": [
+            "Section 6.2.4.7 mentions that cement concrete 1:2:4 (1 cement: 2 coarse sand: 4 graded stone aggregate 20 mm nominal size) is used to form cut (maru) corners."
+        ],
+        "answer": "Cement concrete 1:2:4 (1 cement: 2 coarse sand: 4 graded stone aggregate 20 mm nominal size).",
+        "evidence_page": "[10]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the maximum allowable depths for vertical and horizontal chases in brick walls, and how do they relate to the thickness of the masonry?"
+        ],
+        "analysis": [
+            "Section 6.2.4.15 (b) states that the depths of vertical chases should not exceed one-third of the thickness of the masonry, and horizontal chases should not exceed one-sixth of the thickness of the masonry."
+        ],
+        "answer": "Vertical chases: Maximum depth is one-third of the masonry thickness. Horizontal chases: Maximum depth is one-sixth of the masonry thickness.",
+        "evidence_page": "[11]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If a brick wall is constructed with a thickness of 10 cm and an area of 5 square meters, how should it be measured?"
+        ],
+        "analysis": [
+            "1. **Document Reference**: Section 6.2.8.4 states that walls half brick thick and less shall each be measured separately in square meters stating thickness. 2. **Wall Thickness**: The wall is 10 cm thick, which is less than half a brick thick. 3. **Measurement Method**: According to the document, since the wall is less than half a brick thick, it should be measured in square meters. 4. **Area Calculation**: The area is already given as 5 square meters."
+        ],
+        "answer": "The wall should be measured as 5 square meters, stating the thickness of 10 cm.",
+        "evidence_page": "[12]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "How should walls beyond half brick thickness be measured?"
+        ],
+        "analysis": [
+            "Section 6.2.8.5 states that walls beyond half brick thickness shall be measured in multiples of half brick, inclusive of mortar joints. For bricks specified in 6.1.1, half brick thickness is 100 mm for modular and 115 mm for non-modular bricks."
+        ],
+        "answer": "In multiples of half brick, inclusive of mortar joints.",
+        "evidence_page": "[13]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the maximum allowable thickness for joints in flat arches, and how does it compare to the minimum thickness required for circular arches?"
+        ],
+        "analysis": [
+            "1. **Flat Arches**: The document states that the thickness of the joints in flat arches shall not exceed 5 mm. 2. **Circular Arches**: The document specifies that the thickness of joints in circular arches shall not be less than 5 mm nor more than 15 mm. 3. **Comparison**:- Maximum thickness for flat arches: 5 mm - Minimum thickness for circular arches: 5 mm The maximum allowable thickness for joints in flat arches is equal to the minimum thickness required for circular arches."
+        ],
+        "answer": "The maximum allowable thickness for joints in flat arches is 5 mm, which is equal to the minimum thickness required for circular arches.",
+        "evidence_page": "[14]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the required mortar mix for reinforced brick work?"
+        ],
+        "analysis": [
+            "The document specifies that the mortar used for reinforced brick work shall be rich dense cement mortar of mix 1:4, which is composed of 1 part cement to 4 parts coarse sand."
+        ],
+        "answer": "1:4 cement to coarse sand mix.",
+        "evidence_page": "[15]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the required thickness of the mortar covering in half brick work, and how does it compare with the thickness of the mortar interposed between reinforcement bars and brick?"
+        ],
+        "analysis": [
+            "Section 6.4 specifies that the mortar covering in the direction of joints shall not be less than 15 mm. Meanwhile, the mortar interposed between the reinforcement bars and the brick shall not be less than 5 mm."
+        ],
+        "answer": "The mortar covering in the direction of joints must be at least 15 mm, which is thicker than the 5 mm required between reinforcement bars and brick.",
+        "evidence_page": "[15]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If a cornice projects 25 cm, what additional measures must be taken according to the specifications?"
+        ],
+        "analysis": [
+            "- Section 6.8.1 states that cornices should not ordinarily project more than 15 cm to 20 cm. - For projections more than 20 cm, metal cramps must be used and paid for separately."
+        ],
+        "answer": "Metal cramps must be used and paid for separately.",
+        "evidence_page": "[16]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the minimum average compressive strength required for facing bricks?"
+        ],
+        "analysis": [
+            "Section 6.10.4 states that facing bricks should have an average compressive strength of not less than 7.5 N/mm² unless otherwise specified."
+        ],
+        "answer": "7.5 N/mm²",
+        "evidence_page": "[17]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the minimum width of the cavity wall as specified in the text, and how does it relate to the cross-section requirements?"
+        ],
+        "analysis": [
+            "The text in section 6.11 states that the width of the cavity wall shall not be less than 50 mm. It also mentions that bonding units have a cross-section as per Fig. No. 6.6. Although the figure is not visible here, it is implied that the bonding units must accommodate the minimum cavity width of 50 mm."
+        ],
+        "answer": "The minimum width of the cavity wall is 50 mm, which must align with the cross-section requirements in Fig. No. 6.6.",
+        "evidence_page": "[18]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "How should the gypsum panel be cut for concealed piping and conduit?"
+        ],
+        "analysis": [
+            "Section 6.12.3 (vi) mentions that for concealed piping and conduit, the depth of groove should not exceed 50 mm, and hammer and chisel techniques must be avoided."
+        ],
+        "answer": "The depth of groove should not exceed 50 mm, and hammer and chisel techniques must be avoided.",
+        "evidence_page": "[19]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If a batch of 20 modular bricks has an overall length of 3850 mm, width of 1820 mm, and height of 1780 mm, does it meet the dimensional tolerance requirements for 90 mm high bricks?"
+        ],
+        "analysis": [
+            "1. **Length Tolerance for Modular Bricks**: - Specified range: 3720 to 3880 mm - Given length: 3850 mm - 3850 mm is within the specified range. 2. **Width Tolerance for Modular Bricks**:  - Specified range: 1760 to 1840 mm - Given width: 1820 mm - 1820 mm is within the specified range. 3. **Height Tolerance for 90 mm High Modular Bricks**: - Specified range: 1760 to 1840 mm - Given height: 1780 mm - 1780 mm is within the specified range."
+        ],
+        "answer": "Yes, the batch meets the dimensional tolerance requirements for 90 mm high bricks.",
+        "evidence_page": "[20]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What should be done if the compressive strength of an individual brick exceeds the upper limit specified?"
+        ],
+        "analysis": [
+            "Section B-4 mentions that if the compressive strength of any individual brick exceeds the upper limit of the specified class, it shall be limited to the upper limit for calculating the average compressive strength."
+        ],
+        "answer": "It shall be limited to the upper limit for calculating the average compressive strength.",
+        "evidence_page": "[21]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the required temperature range for drying the specimen before testing, and how does it relate to the procedure for water absorption testing?"
+        ],
+        "analysis": [
+            "The procedure in section C-3(a) specifies that the specimen should be dried in a ventilated oven at 110°C to 115°C until it reaches a constant weight. This pre-conditioning step is crucial to ensure that the specimen is completely dry before it undergoes the water absorption test described in section C-3(b), where it is immersed in water."
+        ],
+        "answer": "The required temperature range for drying the specimen is 110°C to 115°C, which ensures the specimen is dry before the water absorption test.",
+        "evidence_page": "[22]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If 3 out of 5 bricks show a 'HEAVY' efflorescence rating, does the lot conform to the criteria for efflorescence?"
+        ],
+        "analysis": [
+            "- The criteria for conformity state that a lot is considered satisfactory if for 4 out of 5 bricks, the rating of efflorescence is not beyond 'Moderate'.- 'HEAVY' is a higher rating than 'Moderate'.- If 3 bricks are rated 'HEAVY', then only 2 bricks can be 'Moderate' or lower.- Therefore, the condition of 4 out of 5 bricks being 'Moderate' or lower is not met."
+        ],
+        "answer": "No, the lot does not conform.",
+        "evidence_page": "[23]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the maximum allowable breadth for the brickwork?"
+        ],
+        "analysis": [
+            "The image includes a note stating, THE BREADTH SHALL NOT EXCEED THREE TIMES THE THICKNESS AND THICKNESS ITSELF SHALL NOT EXCEED MORE THAN THREE BRICKS. This indicates that the maximum allowable breadth is three times the thickness."
+        ],
+        "answer": "Three times the thickness.",
+        "evidence_page": "[24]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What components are located above the slab in the typical section of the brick wall?"
+        ],
+        "analysis": [
+            "- The image shows the following components above the slab: - Mud Phuska - Tiles - Oversailing Course - Coping."
+        ],
+        "answer": "Mud Phuska, Tiles, Oversailing Course, Coping",
+        "evidence_page": "[24]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What are the payment units for the crushed asphalt base course and CSS-1 asphalt for base course"
+        ],
+        "analysis": [
+            "The table lists the pay items and their corresponding pay units. For 308(1) Crushed Asphalt Base Course, the pay unit is Square Yard. For 308(2) CSS-1 Asphalt for Base Course, the pay unit is Ton. The text above the table states that payment will be made under these items, indicating that these are the units used for calculating payment."
+        ],
+        "answer": "Crushed Asphalt Base Course is paid per Square Yard, and CSS-1 Asphalt for Base Course is paid per Ton.",
+        "evidence_page": "[25]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "What is the difference in wall thickness between a 1 brick wall and a 1½ brick wall"
+        ],
+        "analysis": [
+            "The figure shows that a 1 brick wall has a thickness of 200 mm, while a 1½ brick wall has a thickness of 300 mm (200 mm + 100 mm for the queen closer)."
+        ],
+        "answer": "The difference in wall thickness is 100 mm.",
+        "evidence_page": "[26]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the maximum thickness allowed for face joints in the brickwork arches?"
+        ],
+        "analysis": [
+            "The image shows a diagram labeled BRICK WORK IN ARCHES with a note indicating that FACE JOINTS NOT MORE THAN 5 MM THICK."
+        ],
+        "answer": "5 mm",
+        "evidence_page": "[28]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the minimum thickness for the wall on the inside face in the plan at MM?"
+        ],
+        "analysis": [
+            "In the diagram labeled (e) PLAN AT MM, the inside face is shown as 75 mm."
+        ],
+        "answer": "75 mm",
+        "evidence_page": "[29]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the minimum thickness required for the walls and cavity combined if each wall is 115 mm or more?"
+        ],
+        "analysis": [
+            "- The image specifies the formula for the thickness of walls and cavity as  L = 2 times 115 + Cavity) for walls 115 mm or more. - Therefore, the minimum thickness for each wall is 115 mm. - The formula implies that the combined thickness of the two walls and the cavity must be greater than 2 times 115 + Cavity."
+        ],
+        "answer": "Greater than 230 + Cavity mm.",
+        "evidence_page": "[30]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the specified dimensions and tolerances for modular bricks according to the document?"
+        ],
+        "analysis": [
+            "The document specifies the dimensions and tolerances for modular bricks in Appendix A. The length should be between 3720 to 3880 mm, width between 1760 to 1840 mm, and height between 1760 to 1840 mm for 90 mm high bricks. These values are found on page 19, which details the dimensional tolerances for bricks."
+        ],
+        "answer": [
+            "Length: 3720-3880 mm, Width: 1760-1840 mm, Height: 1760-1840 mm (for 90 mm high bricks)"
+        ],
+        "evidence_page": "[17, 18, 19]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the maximum allowable height for cavity walls and gypsum partition panels, and how do these specifications ensure structural integrity?"
+        ],
+        "analysis": [
+            "The maximum height for cavity walls is specified as 7.5 meters on page 17, while the maximum height for gypsum partition panels is 4.5 meters on page 18. The cavity walls are designed with metal ties or bonding units to ensure structural integrity, as mentioned on page 17. For gypsum panels, proper alignment and staggered joints are required to maintain stability, as described on page 18."
+        ],
+        "answer": [
+            "Cavity walls: 7.5 meters; Gypsum panels: 4.5 meters. Structural integrity is ensured by metal ties for cavity walls and staggered joints for gypsum panels."
+        ],
+        "evidence_page": "[17, 18, 19]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How does the specification for cavity wall ties relate to the dimensional tolerance test for bricks?"
+        ],
+        "analysis": [
+            "The specification for cavity wall ties on page 17 mentions that metal ties should be used to connect the leaves of a cavity wall, ensuring structural integrity. These ties are crucial for maintaining the wall's stability, which is dependent on the uniformity of the bricks used. Page 19 provides the dimensional tolerance test for bricks, which ensures that bricks meet specific size requirements. This test ensures that bricks used in cavity walls are consistent in size, which is necessary for the effective use of metal ties as specified."
+        ],
+        "answer": [
+            "Cavity wall ties require uniform bricks, ensured by dimensional tolerance tests."
+        ],
+        "evidence_page": "[17, 18, 19]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the specified thickness of joints for modular and non-modular bricks, and how does this relate to the thickness of joints in arches?"
+        ],
+        "analysis": [
+            "Page 10 specifies the thickness of joints for modular bricks as 39 cm and for non-modular bricks as 31 cm. Page 13 mentions that the thickness of joints in arches should not be less than 5 mm nor more than 15 mm. This shows that while the general brickwork joints have a specified thickness, the joints in arches have a different range of thickness requirements."
+        ],
+        "answer": [
+            "Modular: 39 cm, Non-modular: 31 cm, Arches: 5-15 mm"
+        ],
+        "evidence_page": "[10, 13]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the maximum allowable thickness for joints in circular arches and how does it compare to the specified thickness for brick wall joints?"
+        ],
+        "analysis": [
+            "Page 13 specifies that the thickness of joints in circular arches should not be less than 5 mm and not more than 15 mm. Page 10 states that the specified thickness of all types of joints, including brick wall joints, should be 1 cm, with deviations not exceeding one-fifth of the specified thickness. Therefore, the maximum allowable thickness for joints in circular arches (15 mm) is greater than the specified thickness for brick wall joints (10 mm)."
+        ],
+        "answer": [
+            "15 mm for circular arches; 10 mm for brick wall joints."
+        ],
+        "evidence_page": "[10, 13]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How does the description of brick joints in arches relate to the typical section of a brick wall shown in the figure?"
+        ],
+        "analysis": [
+            "The text on page 13 describes the construction of circular arches, emphasizing that joints should be full of mortar and not less than 5 mm thick. Page 23 provides a figure showing a typical section of a brick wall, which includes elements like the slab and corbels that are part of the structural integrity of arches. The figure visually supports the text by illustrating how these components fit together in a wall, ensuring stability and proper load distribution."
+        ],
+        "answer": [
+            "The figure on page 23 illustrates the structural elements like slabs and corbels that support the arch described on page 13, ensuring proper joint thickness and mortar application."
+        ],
+        "evidence_page": "[13, 23]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What is the criteria for conformity in the efflorescence test and what is the maximum thickness allowed for brick piers?"
+        ],
+        "analysis": [
+            "The criteria for conformity in the efflorescence test is mentioned on page 22, where it states that a lot is considered to have satisfied the requirements if 4 out of 5 bricks have a rating not beyond 'Moderate'. The maximum thickness for brick piers is found on page 23, which states that the thickness shall not exceed more than three bricks."
+        ],
+        "answer": [
+            "Efflorescence conformity: 4 out of 5 bricks not beyond 'Moderate'; Max thickness for piers: not more than three bricks."
+        ],
+        "evidence_page": "[22, 23]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "If a brick wall is constructed using a 1.5 brick wall bond and the efflorescence test results in a 'Moderate' rating for 3 out of 5 bricks, does the wall conform to the efflorescence criteria?"
+        ],
+        "analysis": [
+            "Page 22 outlines the efflorescence test criteria, stating that a lot is considered conforming if 4 out of 5 bricks do not exceed a 'Moderate' rating. Page 24 shows the 1.5 brick wall bond, which is relevant for understanding the construction context but does not affect the efflorescence criteria. Since only 3 out of 5 bricks have a 'Moderate' rating, the wall does not meet the criteria for conformity as specified on page 22."
+        ],
+        "answer": [
+            "No"
+        ],
+        "evidence_page": "[22, 23]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How does the efflorescence test criteria relate to the structural integrity shown in the brick work figures?"
+        ],
+        "analysis": [
+            "The efflorescence test criteria on page 22 specifies that a lot is considered satisfactory if 4 out of 5 bricks do not exceed a 'Moderate' rating. This ensures the bricks used in construction, as depicted in the figures on pages 23 and 24, maintain structural integrity. The figures on page 23 show the typical section of a brick wall, while page 24 illustrates brick pillars using English Bond. Ensuring bricks pass the efflorescence test helps maintain the durability and appearance of these structures."
+        ],
+        "answer": [
+            "Efflorescence test ensures bricks maintain integrity in structures shown in figures."
+        ],
+        "evidence_page": "[22, 23]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the sampling and testing requirements for bricks and the permissible tolerances for facing bricks?"
+        ],
+        "analysis": [
+            "Page 3 outlines the sampling and testing requirements for bricks, including dimensional tolerance, water absorption, efflorescence, and compressive strength (p3). Page 16 specifies the permissible tolerances for machine moulded facing bricks, which include length, width, and thickness (p16)."
+        ],
+        "answer": [
+            "Sampling includes tests for dimensional tolerance, water absorption, efflorescence, and compressive strength. Tolerances for facing bricks: Length ±3 mm, Width ±1.5 mm, Thickness ±1.5 mm."
+        ],
+        "evidence_page": "[3, 16]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the minimum compressive strength required for facing bricks used in cavity walls, and how does it compare to the general classification of bricks?"
+        ],
+        "analysis": [
+            "Page 3 provides the classification of bricks based on compressive strength, with the lowest class having a minimum strength of 3.5 N/mm². Page 16 specifies that facing bricks for exposed brick work must have a minimum compressive strength of 7.5 N/mm². Page 28 discusses cavity walls but does not specify compressive strength, implying the use of standard facing bricks as per page 16. Therefore, facing bricks used in cavity walls must meet or exceed the 7.5 N/mm² requirement, which is higher than the lowest class of general bricks."
+        ],
+        "answer": [
+            "7.5 N/mm², higher than the lowest class of 3.5 N/mm²."
+        ],
+        "evidence_page": "[3, 16, 28]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How does the classification of bricks based on compressive strength relate to the requirements for cavity wall construction?"
+        ],
+        "analysis": [
+            "Page 3 provides the classification of bricks based on their compressive strength in Table 6.2, which specifies different classes of bricks with their respective strength ranges. Page 28 includes Figure 6.6, which illustrates the construction details for cavity walls. The figure shows the structural requirements and dimensions for cavity walls, which would necessitate the use of bricks that meet specific strength criteria to ensure stability and durability. The classification from page 3 can be used to select appropriate bricks that meet the structural requirements depicted in the cavity wall construction on page 28."
+        ],
+        "answer": [
+            "Bricks for cavity walls must meet specific compressive strength requirements as per Table 6.2 to ensure structural integrity."
+        ],
+        "evidence_page": "[3, 28]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the dimensions for a 1 x 2 brick pillar and a 1 brick wall in English bond?"
+        ],
+        "analysis": [
+            "The dimensions for a 1 x 2 brick pillar in English bond are shown on page 24, with odd courses having dimensions of 50 mm and 100 mm, and even courses having a dimension of 200 mm. On page 25, the dimensions for a 1 brick wall in English bond are shown, with odd courses having dimensions of 100 mm and 50 mm, and even courses having a dimension of 200 mm."
+        ],
+        "answer": "1 x 2 brick pillar: 50 mm, 100 mm, 200 mm; 1 brick wall: 100 mm, 50 mm, 200 mm",
+        "evidence_page": "[24, 25]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the total height of a 1.5 brick pillar and a 1.5 brick wall when both have two odd and two even courses?"
+        ],
+        "analysis": [
+            "To find the total height, we need to sum the heights of the odd and even courses for both the 1.5 brick pillar and the 1.5 brick wall. From page 24, the height of one odd course for a 1.5 brick pillar is 100 mm, and one even course is 200 mm. Therefore, two odd courses and two even courses would be 2 * 100 + 2 * 200 = 600 mm. From page 25, the height of one odd course for a 1.5 brick wall is 100 mm, and one even course is 200 mm. Therefore, two odd courses and two even courses would also be 2 * 100 + 2 * 200 = 600 mm. The total height for both structures is 600 mm + 600 mm = 1200 mm."
+        ],
+        "answer": "1200 mm",
+        "evidence_page": "[24, 25]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "multi-modal reasoning",
+        "question": [
+            "How do the dimensions of a 1½ brick pillar in Fig. 6.2 compare to a 1½ brick wall in Fig. 6.3?"
+        ],
+        "analysis": [
+            "Fig. 6.2 on page 24 shows the dimensions for a 1½ brick pillar with odd courses measuring 150 mm and even courses measuring 200 mm. Fig. 6.3 on page 25 shows a 1½ brick wall with odd courses measuring 100 mm and even courses measuring 200 mm. Both figures use the English Bond, but the pillar has a different dimension for odd courses compared to the wall."
+        ],
+        "answer": "Pillar odd courses: 150 mm; Wall odd courses: 100 mm.",
+        "evidence_page": "[24, 25]",
+        "evidence_sources": "[figure]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the permissible tolerances for the dimensions of facing bricks and how are they tested?"
+        ],
+        "analysis": [
+            "Page 16 specifies the permissible tolerances for machine moulded facing bricks: length 190 or 225 mm with a tolerance of ±3 mm, width 90 or 111 mm with a tolerance of ±1.5 mm, and thickness 40 or 44 mm with a tolerance of ±1.5 mm. Page 19 describes the test for dimensional tolerance, stating that bricks are arranged and measured in groups of 20, with specific tolerances for modular and non-modular bricks."
+        ],
+        "answer": "Length: ±3 mm, Width: ±1.5 mm, Thickness: ±1.5 mm; tested in groups of 20 bricks.",
+        "evidence_page": "[16, 19]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What is the maximum permissible variation in the length of modular bricks when tested for dimensional tolerance, and how does it compare to the tolerance for machine moulded facing bricks?"
+        ],
+        "analysis": [
+            "Page 7 specifies the permissible tolerances for individual bricks, including dimensions of 70, 90, 110, 190, and 230 mm with respective tolerances. Page 16 provides the tolerances for machine moulded facing bricks, with a length tolerance of ±3 mm for dimensions 190 or 225 mm. Page 19 outlines the test for dimensional tolerance, stating that the length of modular bricks should be within 3720 to 3880 mm (3800 ± 80 mm) for 20 bricks, which translates to a tolerance of ±4 mm per brick. Comparing these, the tolerance for modular bricks (±4 mm) is slightly higher than that for machine moulded facing bricks (±3 mm)."
+        ],
+        "answer": "Modular bricks: ±4 mm; Machine moulded facing bricks: ±3 mm",
+        "evidence_page": "[7, 16, 19]",
+        "evidence_sources": "[pure_text], [table]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the criteria for conformity for dimensional tolerance and efflorescence in brick testing?"
+        ],
+        "analysis": [
+            "The criteria for conformity for dimensional tolerance are specified on page 19, where it states that a lot shall be considered conforming if all groups of bricks meet the specified requirements. For efflorescence, page 22 specifies that a lot is conforming if 4 out of 5 bricks have a rating not beyond 'Moderate'."
+        ],
+        "answer": "Dimensional tolerance: all groups meet requirements; Efflorescence: 4 out of 5 bricks not beyond 'Moderate'.",
+        "evidence_page": "[19, 22]",
+        "evidence_sources": "[pure_text]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "single-modal reasoning",
+        "question": [
+            "What are the criteria for a lot of bricks to be considered conforming in terms of dimensional tolerance and efflorescence?"
+        ],
+        "analysis": [
+            "To determine the conformity of a lot of bricks, we need to consider both dimensional tolerance and efflorescence criteria. According to page 19, a lot is conforming in terms of dimensional tolerance if all groups of bricks meet the specified requirements. On page 22, for efflorescence, a lot is considered conforming if 4 out of 5 specimens have a rating not beyond 'Moderate'. Therefore, a lot of bricks is conforming if it meets both these criteria across the pages."
+        ],
+        "answer": "Dimensional tolerance met and efflorescence not beyond 'Moderate' for 4 out of 5 bricks.",
+        "evidence_page": "[19, 20]",
+        "evidence_sources": "[pure_text], [figure]"
+    },
+    {
+        "doc_id": "Division 6.0 Brick work.pdf",
+        "doc_type": "construction_specification",
+        "question_type": "information extraction",
+        "question": [
+            "What are the standard sizes and permissible tolerances for modular and non-modular burnt clay perforated bricks?"
+        ],
+        "analysis": [
+            "The standard sizes for modular and non-modular burnt clay perforated bricks are specified on page 6. Modular bricks have dimensions of 190 mm length, 90 mm width, and 90 mm height, while non-modular bricks have dimensions of 230 mm length, 110 mm width, and 70 mm height. The permissible tolerances for these dimensions are provided on page 7. For dimensions 70 mm and 90 mm, the tolerance is ±4 mm; for 110 mm and 190 mm, the tolerance is ±7 mm; and for 230 mm, the tolerance is ±10 mm."
+        ],
+        "answer": "Modular: 190x90x90 mm, Non-Modular: 230x110x70 mm; Tolerances: 70, 90 mm ±4 mm, 110, 190 mm ±7 mm, 230 mm ±10 mm",
+        "evidence_page": "[6, 7]",
+        "evidence_sources": "[pure_text], [table]"
+    }
+]
